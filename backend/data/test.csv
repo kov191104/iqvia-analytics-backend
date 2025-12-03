@@ -1,0 +1,1719 @@
+onekey_id,PRESCRIBER_NAME,CITY,FSA,POSTAL_CODE,STREET_ADDRESS,province,speciality,RX_TYPE,data_month,product,rx_vol,campaign_target
+ID000322,Prescriber_321,Bedford,J0J,J0J 1A0,Address_321,QC,Family Medicine,TRX,202501,ADRAVIL,157.903,0
+ID000319,Prescriber_318,Chicoutimi,G7H,G7H 6B9,Address_318,QC,Family Medicine,TRX,202501,ALL OTHERS,37.438,0
+ID000312,Prescriber_311,Saint-Bruno,J3V,J3V 1Y8,Address_311,QC,Family Medicine,TRX,202501,PROZALAN D,101.482,1
+ID000310,Prescriber_309,Saint-Hubert,J3Y,J3Y 8Z4,Address_309,QC,Medical Internship,TRX,202501,DIABETES,65.891,0
+ID000340,Prescriber_339,Terrebonne,J6X,J6X 4L9,Address_339,QC,Family Medicine,TRX,202501,ADRAVIL,5.893,0
+ID000360,Prescriber_359,Chicoutimi,G7H,G7H 1P6,Address_359,QC,Family Medicine,TRX,202501,GLIDIM,89.256,1
+ID000340,Prescriber_339,Terrebonne,J6X,J6X 4L9,Address_339,QC,Family Medicine,TRX,202501,ADRAVIL,5.967,0
+ID000370,Prescriber_369,Terrebonne,J6W,J6W 1T8,Address_369,QC,Family Medicine,TRX,202501,ADRAVIL,75.144,0
+ID000302,Prescriber_301,Bridgewater,B4V,B4V 3S6,Address_301,NS,Psychiatry,TRX,202501,GLIDIM,26.604,1
+ID000255,Prescriber_254,Mississauga,L5C,L5C 4E6,Address_254,ON,General Practice,TRX,202501,PLOMAX,138.106,1
+ID000251,Prescriber_250,Windsor,N9A,N9A 1E1,Address_250,ON,Endocrinology & Metabolism,TRX,202501,SYNTHGLYPTIN,73.848,1
+ID000251,Prescriber_250,Windsor,N9A,N9A 1E1,Address_250,ON,Endocrinology & Metabolism,TRX,202501,SYNTHGLYPTIN,70.937,0
+ID000251,Prescriber_250,Windsor,N9A,N9A 1E1,Address_250,ON,Endocrinology & Metabolism,TRX,202501,SYNTHGLYPTIN,75.498,0
+ID000250,Prescriber_249,Cambridge,N1R,N1R 3E5,Address_249,ON,Family Medicine,TRX,202501,ADRAVIL,36.5,0
+ID000290,Prescriber_289,Trois-Rivieres,G8T,G8T 7A6,Address_289,QC,Family Medicine,TRX,202501,TRETONIN,4.89,1
+ID000470,Prescriber_469,Midland,L4R,L4R 4P4,Address_469,ON,Family Medicine,TRX,202501,OTHER COMP,117.521,0
+ID000463,Prescriber_462,Vimont,H7M,H7M 2Y2,Address_462,QC,Family Medicine,TRX,202501,PROZALAN D,43.92,1
+ID000463,Prescriber_462,Vimont,H7M,H7M 2Y2,Address_462,QC,Family Medicine,TRX,202501,PROZALAN D,52.02,0
+ID000453,Prescriber_452,Toronto,M6G,M6G 4A1,Address_452,ON,General Practice,TRX,202501,OTHER COMP,58.847,0
+ID000451,Prescriber_450,Calgary,T2R,T2R 0X7,Address_450,AB,Family Medicine,TRX,202501,OTHER COMP,167.11,0
+ID000449,Prescriber_448,Trois-Rivieres,G8Z,G8Z 3R8,Address_448,QC,Family Medicine,TRX,202501,INSUZA,27.46,0
+ID000475,Prescriber_474,Peterborough,K9J,K9J 7C6,Address_474,ON,Family Medicine,TRX,202501,PROZALAN D,135.408,0
+ID000488,Prescriber_487,Fredericton,E3B,E3B 3B7,Address_487,NB,Anesthesiology,TRX,202501,PROZALAN D,9.743,0
+ID000488,Prescriber_487,Fredericton,E3B,E3B 3B7,Address_487,NB,Anesthesiology,TRX,202501,PROZALAN D,10.439,0
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202501,PROZALAN D,150.65,0
+ID000482,Prescriber_481,Oakville,L6M,L6M 1M1,Address_481,ON,Endocrinology & Metabolism,TRX,202501,TRETONIN,49.282,0
+ID000475,Prescriber_474,Peterborough,K9J,K9J 7C6,Address_474,ON,Family Medicine,TRX,202501,PROZALAN D,161.781,0
+ID000394,Prescriber_393,Baie-Comeau,G4Z,G4Z 1K3,Address_393,QC,Family Medicine,TRX,202501,TRETONIN,70.974,0
+ID000389,Prescriber_388,Edmonton,T5Y,T5Y 4E1,Address_388,AB,Family Medicine,TRX,202501,OTHER COMP,55.202,0
+ID000394,Prescriber_393,Baie-Comeau,G4Z,G4Z 1K3,Address_393,QC,Family Medicine,TRX,202501,TRETONIN,79.177,0
+ID000440,Prescriber_439,Richmond Hill,L4B,L4B 0E6,Address_439,ON,Family Medicine,TRX,202501,ALL OTHERS,83.077,0
+ID000437,Prescriber_436,Huntsville,P1H,P1H 1H8,Address_436,ON,General Practice,TRX,202501,PROZALAN D,177.604,0
+ID000437,Prescriber_436,Huntsville,P1H,P1H 1H8,Address_436,ON,General Practice,TRX,202501,PROZALAN D,176.592,1
+ID000408,Prescriber_407,Port Perry,L9L,L9L 1L9,Address_407,ON,General Practice,TRX,202501,OTHER COMP,28.823,0
+ID000370,Prescriber_369,Terrebonne,J6W,J6W 1T8,Address_369,QC,Family Medicine,TRX,202501,ADRAVIL,83.372,0
+ID000058,Prescriber_57,Salaberry-De-Valleyfield,J6T,J6T 6C1,Address_57,QC,Internal Medicine,TRX,202501,PLOMAX,34.588,1
+ID000098,Prescriber_97,Whitby,L1N,L1N 2L1,Address_97,ON,Family Medicine,TRX,202501,INSUZA,95.057,1
+ID000098,Prescriber_97,Whitby,L1N,L1N 2L1,Address_97,ON,Family Medicine,TRX,202501,INSUZA,104.463,0
+ID000098,Prescriber_97,Whitby,L1N,L1N 2L1,Address_97,ON,Family Medicine,TRX,202501,INSUZA,93.679,0
+ID000098,Prescriber_97,Whitby,L1N,L1N 2L1,Address_97,ON,Family Medicine,TRX,202501,INSUZA,83.927,0
+ID000091,Prescriber_90,Timmins,P4N,P4N 2R8,Address_90,ON,Family Medicine,TRX,202501,GLIDIM,116.591,0
+ID000087,Prescriber_86,Pickering,L1V,L1V 6R6,Address_86,ON,Dermatology,TRX,202501,TRETONIN,114.698,0
+ID000031,Prescriber_30,Mississauga,L4Y,L4Y 2N8,Address_30,ON,Family Medicine,TRX,202501,ALL OTHERS,100.78,0
+ID000106,Prescriber_105,Brampton,L6R,L6R 3S9,Address_105,ON,Family Medicine,TRX,202501,OTHER COMP,2.274,0
+ID000185,Prescriber_184,Oakville,L6H,L6H 7G9,Address_184,ON,Nephrology,TRX,202501,PROZALAN D,161.168,0
+ID000176,Prescriber_175,Atikokan,P0T,P0T 1C0,Address_175,ON,General Practice,TRX,202501,GLIDIM,73.421,0
+ID000176,Prescriber_175,Atikokan,P0T,P0T 1C0,Address_175,ON,General Practice,TRX,202501,GLIDIM,78.807,0
+ID000216,Prescriber_215,Val-D'or,J9P,J9P 3Y1,Address_215,QC,Family Medicine,TRX,202501,INSUZA,22.759,0
+ID000127,Prescriber_126,Brampton,L6R,L6R 3J7,Address_126,ON,Cardiology,TRX,202501,PLOMAX,24.585,0
+ID000124,Prescriber_123,Saint-Lambert,J4R,J4R 2L1,Address_123,QC,General Practice,TRX,202501,ADRAVIL,126.824,0
+ID000118,Prescriber_117,Nepean,K2J,K2J 3R2,Address_117,ON,Family Medicine,TRX,202501,DIABETES,66.872,0
+ID000118,Prescriber_117,Nepean,K2J,K2J 3R2,Address_117,ON,Family Medicine,TRX,202501,DIABETES,66.102,0
+ID000111,Prescriber_110,Trois-Rivieres,G8Z,G8Z 4K4,Address_110,QC,Family Medicine,TRX,202501,TRETONIN,40.589,1
+ID000135,Prescriber_134,Burlington,L7R,L7R 3M8,Address_134,ON,Family Medicine,TRX,202501,ADRAVIL,43.71,1
+ID000322,Prescriber_321,Bedford,J0J,J0J 1A0,Address_321,QC,Family Medicine,TRX,202502,ADRAVIL,151.494,0
+ID000322,Prescriber_321,Bedford,J0J,J0J 1A0,Address_321,QC,Family Medicine,TRX,202502,ADRAVIL,122.401,0
+ID000322,Prescriber_321,Bedford,J0J,J0J 1A0,Address_321,QC,Family Medicine,TRX,202502,ADRAVIL,135.717,0
+ID000322,Prescriber_321,Bedford,J0J,J0J 1A0,Address_321,QC,Family Medicine,TRX,202502,ADRAVIL,127.725,0
+ID000322,Prescriber_321,Bedford,J0J,J0J 1A0,Address_321,QC,Family Medicine,TRX,202502,ADRAVIL,132.756,0
+ID000312,Prescriber_311,Saint-Bruno,J3V,J3V 1Y8,Address_311,QC,Family Medicine,TRX,202502,PROZALAN D,114.362,0
+ID000312,Prescriber_311,Saint-Bruno,J3V,J3V 1Y8,Address_311,QC,Family Medicine,TRX,202502,PROZALAN D,93.686,0
+ID000255,Prescriber_254,Mississauga,L5C,L5C 4E6,Address_254,ON,General Practice,TRX,202502,PLOMAX,139.761,0
+ID000251,Prescriber_250,Windsor,N9A,N9A 1E1,Address_250,ON,Endocrinology & Metabolism,TRX,202502,SYNTHGLYPTIN,67.726,0
+ID000251,Prescriber_250,Windsor,N9A,N9A 1E1,Address_250,ON,Endocrinology & Metabolism,TRX,202502,SYNTHGLYPTIN,56.365,0
+ID000251,Prescriber_250,Windsor,N9A,N9A 1E1,Address_250,ON,Endocrinology & Metabolism,TRX,202502,SYNTHGLYPTIN,67.211,1
+ID000248,Prescriber_247,Montreal,H2X,H2X 0A9,Address_247,QC,Neurology,TRX,202502,GLIDIM,54.346,1
+ID000248,Prescriber_247,Montreal,H2X,H2X 0A9,Address_247,QC,Neurology,TRX,202502,GLIDIM,53.221,1
+ID000263,Prescriber_262,Lloydminster,T9V,T9V 2P7,Address_262,AB,Family Medicine,TRX,202502,OTHER COMP,76.237,0
+ID000449,Prescriber_448,Trois-Rivieres,G8Z,G8Z 3R8,Address_448,QC,Family Medicine,TRX,202502,INSUZA,30.869,0
+ID000449,Prescriber_448,Trois-Rivieres,G8Z,G8Z 3R8,Address_448,QC,Family Medicine,TRX,202502,INSUZA,36.461,0
+ID000440,Prescriber_439,Richmond Hill,L4B,L4B 0E6,Address_439,ON,Family Medicine,TRX,202502,ALL OTHERS,61.815,0
+ID000460,Prescriber_459,Saskatoon,S7K,S7K 3H4,Address_459,SK,General Practice,TRX,202502,GLIDIM,23.754,0
+ID000460,Prescriber_459,Saskatoon,S7K,S7K 3H4,Address_459,SK,General Practice,TRX,202502,GLIDIM,25.302,0
+ID000470,Prescriber_469,Midland,L4R,L4R 4P4,Address_469,ON,Family Medicine,TRX,202502,OTHER COMP,93.202,0
+ID000400,Prescriber_399,Toronto,M4Y,M4Y 1R4,Address_399,ON,Family Medicine,TRX,202502,ALL OTHERS,105.094,0
+ID000400,Prescriber_399,Toronto,M4Y,M4Y 1R4,Address_399,ON,Family Medicine,TRX,202502,ALL OTHERS,94.168,0
+ID000400,Prescriber_399,Toronto,M4Y,M4Y 1R4,Address_399,ON,Family Medicine,TRX,202502,ALL OTHERS,118.071,0
+ID000058,Prescriber_57,Salaberry-De-Valleyfield,J6T,J6T 6C1,Address_57,QC,Internal Medicine,TRX,202502,PLOMAX,46.635,0
+ID000103,Prescriber_102,Gatineau,J8Y,J8Y 3B5,Address_102,QC,Family Medicine,TRX,202502,OTHER COMP,47.457,0
+ID000099,Prescriber_98,Toronto,M7A,M7A 1B3,Address_98,ON,Family Medicine,TRX,202502,DIABETES,33.668,0
+ID000099,Prescriber_98,Toronto,M7A,M7A 1B3,Address_98,ON,Family Medicine,TRX,202502,DIABETES,35.49,0
+ID000098,Prescriber_97,Whitby,L1N,L1N 2L1,Address_97,ON,Family Medicine,TRX,202502,INSUZA,102.229,0
+ID000087,Prescriber_86,Pickering,L1V,L1V 6R6,Address_86,ON,Dermatology,TRX,202502,TRETONIN,141.715,0
+ID000084,Prescriber_83,Guelph,N1H,N1H 6H9,Address_83,ON,Family Medicine,TRX,202502,OTHER COMP,46.235,0
+ID000109,Prescriber_108,Edmonton,T6J,T6J 7K1,Address_108,AB,Family Medicine,TRX,202502,PROZALAN D,103.989,0
+ID000010,Prescriber_9,Regina,S4V,S4V 3A3,Address_9,SK,Cardiology,TRX,202502,PLOMAX,76.846,0
+ID000009,Prescriber_8,Schomberg,L0G,L0G 1T0,Address_8,ON,Family Medicine,TRX,202502,TRETONIN,96.828,0
+ID000185,Prescriber_184,Oakville,L6H,L6H 7G9,Address_184,ON,Nephrology,TRX,202502,PROZALAN D,141.003,0
+ID000185,Prescriber_184,Oakville,L6H,L6H 7G9,Address_184,ON,Nephrology,TRX,202502,PROZALAN D,126.205,0
+ID000216,Prescriber_215,Val-D'or,J9P,J9P 3Y1,Address_215,QC,Family Medicine,TRX,202502,INSUZA,19.847,0
+ID000216,Prescriber_215,Val-D'or,J9P,J9P 3Y1,Address_215,QC,Family Medicine,TRX,202502,INSUZA,22.933,1
+ID000127,Prescriber_126,Brampton,L6R,L6R 3J7,Address_126,ON,Cardiology,TRX,202502,PLOMAX,25.696,0
+ID000370,Prescriber_369,Terrebonne,J6W,J6W 1T8,Address_369,QC,Family Medicine,TRX,202503,ADRAVIL,103.952,0
+ID000359,Prescriber_358,Lanark,K0G,K0G 1K0,Address_358,ON,Family Medicine,TRX,202503,DIABETES,13.015,0
+ID000302,Prescriber_301,Bridgewater,B4V,B4V 3S6,Address_301,NS,Psychiatry,TRX,202503,GLIDIM,24.336,0
+ID000290,Prescriber_289,Trois-Rivieres,G8T,G8T 7A6,Address_289,QC,Family Medicine,TRX,202503,TRETONIN,4.101,0
+ID000296,Prescriber_295,North York,M3H,M3H 5Y8,Address_295,ON,Family Medicine,TRX,202503,OTHER COMP,21.458,0
+ID000322,Prescriber_321,Bedford,J0J,J0J 1A0,Address_321,QC,Family Medicine,TRX,202503,ADRAVIL,146.054,0
+ID000319,Prescriber_318,Chicoutimi,G7H,G7H 6B9,Address_318,QC,Family Medicine,TRX,202503,ALL OTHERS,36.868,0
+ID000310,Prescriber_309,Saint-Hubert,J3Y,J3Y 8Z4,Address_309,QC,Medical Internship,TRX,202503,DIABETES,78.219,0
+ID000310,Prescriber_309,Saint-Hubert,J3Y,J3Y 8Z4,Address_309,QC,Medical Internship,TRX,202503,DIABETES,68.411,0
+ID000455,Prescriber_454,Guelph,N1H,N1H 4J4,Address_454,ON,Family Medicine,TRX,202503,ALL OTHERS,106.144,0
+ID000453,Prescriber_452,Toronto,M6G,M6G 4A1,Address_452,ON,General Practice,TRX,202503,OTHER COMP,75.371,0
+ID000453,Prescriber_452,Toronto,M6G,M6G 4A1,Address_452,ON,General Practice,TRX,202503,OTHER COMP,72.707,0
+ID000451,Prescriber_450,Calgary,T2R,T2R 0X7,Address_450,AB,Family Medicine,TRX,202503,OTHER COMP,159.465,0
+ID000449,Prescriber_448,Trois-Rivieres,G8Z,G8Z 3R8,Address_448,QC,Family Medicine,TRX,202503,INSUZA,33.691,0
+ID000482,Prescriber_481,Oakville,L6M,L6M 1M1,Address_481,ON,Endocrinology & Metabolism,TRX,202503,TRETONIN,60.346,1
+ID000482,Prescriber_481,Oakville,L6M,L6M 1M1,Address_481,ON,Endocrinology & Metabolism,TRX,202503,TRETONIN,64.137,0
+ID000401,Prescriber_400,Trenton,K8V,K8V 3S1,Address_400,ON,Family Medicine,TRX,202503,ALL OTHERS,61.735,0
+ID000400,Prescriber_399,Toronto,M4Y,M4Y 1R4,Address_399,ON,Family Medicine,TRX,202503,ALL OTHERS,99.399,1
+ID000389,Prescriber_388,Edmonton,T5Y,T5Y 4E1,Address_388,AB,Family Medicine,TRX,202503,OTHER COMP,59.835,0
+ID000389,Prescriber_388,Edmonton,T5Y,T5Y 4E1,Address_388,AB,Family Medicine,TRX,202503,OTHER COMP,68.838,0
+ID000389,Prescriber_388,Edmonton,T5Y,T5Y 4E1,Address_388,AB,Family Medicine,TRX,202503,OTHER COMP,50.961,0
+ID000437,Prescriber_436,Huntsville,P1H,P1H 1H8,Address_436,ON,General Practice,TRX,202503,PROZALAN D,128.317,0
+ID000124,Prescriber_123,Saint-Lambert,J4R,J4R 2L1,Address_123,QC,General Practice,TRX,202503,ADRAVIL,121.2,0
+ID000263,Prescriber_262,Lloydminster,T9V,T9V 2P7,Address_262,AB,Family Medicine,TRX,202503,OTHER COMP,78.93,0
+ID000084,Prescriber_83,Guelph,N1H,N1H 6H9,Address_83,ON,Family Medicine,TRX,202503,OTHER COMP,40.507,0
+ID000069,Prescriber_68,Chateauguay,J6K,J6K 4W8,Address_68,QC,Family Medicine,TRX,202503,DIABETES,111.752,0
+ID000058,Prescriber_57,Salaberry-De-Valleyfield,J6T,J6T 6C1,Address_57,QC,Internal Medicine,TRX,202503,PLOMAX,31.613,1
+ID000058,Prescriber_57,Salaberry-De-Valleyfield,J6T,J6T 6C1,Address_57,QC,Internal Medicine,TRX,202503,PLOMAX,34.972,0
+ID000058,Prescriber_57,Salaberry-De-Valleyfield,J6T,J6T 6C1,Address_57,QC,Internal Medicine,TRX,202503,PLOMAX,33.855,0
+ID000087,Prescriber_86,Pickering,L1V,L1V 6R6,Address_86,ON,Dermatology,TRX,202503,TRETONIN,132.074,1
+ID000091,Prescriber_90,Timmins,P4N,P4N 2R8,Address_90,ON,Family Medicine,TRX,202503,GLIDIM,103.077,1
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202503,OTHER COMP,32.927,0
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202503,OTHER COMP,44.017,0
+ID000109,Prescriber_108,Edmonton,T6J,T6J 7K1,Address_108,AB,Family Medicine,TRX,202503,PROZALAN D,118.063,1
+ID000103,Prescriber_102,Gatineau,J8Y,J8Y 3B5,Address_102,QC,Family Medicine,TRX,202503,OTHER COMP,46.882,0
+ID000099,Prescriber_98,Toronto,M7A,M7A 1B3,Address_98,ON,Family Medicine,TRX,202503,DIABETES,30.566,0
+ID000098,Prescriber_97,Whitby,L1N,L1N 2L1,Address_97,ON,Family Medicine,TRX,202503,INSUZA,82.459,1
+ID000091,Prescriber_90,Timmins,P4N,P4N 2R8,Address_90,ON,Family Medicine,TRX,202503,GLIDIM,130.327,0
+ID000091,Prescriber_90,Timmins,P4N,P4N 2R8,Address_90,ON,Family Medicine,TRX,202503,GLIDIM,126.43,0
+ID000056,Prescriber_55,Hamilton,L8N,L8N 4A6,Address_55,ON,Internal Medicine,TRX,202503,INSUZA,5.998,0
+ID000009,Prescriber_8,Schomberg,L0G,L0G 1T0,Address_8,ON,Family Medicine,TRX,202503,TRETONIN,80.688,0
+ID000117,Prescriber_116,Scarborough,M1R,M1R 0B1,Address_116,ON,Family Medicine,TRX,202503,GLIDIM,91.95,0
+ID000031,Prescriber_30,Mississauga,L4Y,L4Y 2N8,Address_30,ON,Family Medicine,TRX,202503,ALL OTHERS,102.351,0
+ID000031,Prescriber_30,Mississauga,L4Y,L4Y 2N8,Address_30,ON,Family Medicine,TRX,202503,ALL OTHERS,107.338,1
+ID000216,Prescriber_215,Val-D'or,J9P,J9P 3Y1,Address_215,QC,Family Medicine,TRX,202503,INSUZA,25.733,0
+ID000216,Prescriber_215,Val-D'or,J9P,J9P 3Y1,Address_215,QC,Family Medicine,TRX,202503,INSUZA,25.524,0
+ID000216,Prescriber_215,Val-D'or,J9P,J9P 3Y1,Address_215,QC,Family Medicine,TRX,202503,INSUZA,26.155,0
+ID000214,Prescriber_213,Quebec,G1R,G1R 2J6,Address_213,QC,Nephrology,TRX,202503,PLOMAX,145.655,0
+ID000262,Prescriber_261,Saskatoon,S7N,S7N 0W8,Address_261,SK,Pediatrics,TRX,202503,OTHER COMP,28.741,0
+ID000250,Prescriber_249,Cambridge,N1R,N1R 3E5,Address_249,ON,Family Medicine,TRX,202503,ADRAVIL,35.226,0
+ID000199,Prescriber_198,Greenfield Park,J4V,J4V 2G9,Address_198,QC,Family Medicine,TRX,202503,TRETONIN,140.119,0
+ID000152,Prescriber_151,Saint-Eustache,J7R,J7R 0C8,Address_151,QC,Internal Medicine,TRX,202503,PROZALAN D,25.957,0
+ID000168,Prescriber_167,Stittsville,K2S,K2S 1B1,Address_167,ON,Family Medicine,TRX,202503,ALL OTHERS,19.25,0
+ID000174,Prescriber_173,North York,M3J,M3J 0K2,Address_173,ON,Family Medicine,TRX,202503,PROZALAN D,155.976,0
+ID000180,Prescriber_179,Brampton,L7A,L7A 3E5,Address_179,ON,Family Medicine,TRX,202503,PROZALAN D,74.607,1
+ID000174,Prescriber_173,North York,M3J,M3J 0K2,Address_173,ON,Family Medicine,TRX,202503,PROZALAN D,116.414,0
+ID000310,Prescriber_309,Saint-Hubert,J3Y,J3Y 8Z4,Address_309,QC,Medical Internship,TRX,202504,DIABETES,81.155,0
+ID000319,Prescriber_318,Chicoutimi,G7H,G7H 6B9,Address_318,QC,Family Medicine,TRX,202504,ALL OTHERS,46.891,0
+ID000319,Prescriber_318,Chicoutimi,G7H,G7H 6B9,Address_318,QC,Family Medicine,TRX,202504,ALL OTHERS,44.771,0
+ID000359,Prescriber_358,Lanark,K0G,K0G 1K0,Address_358,ON,Family Medicine,TRX,202504,DIABETES,11.182,0
+ID000262,Prescriber_261,Saskatoon,S7N,S7N 0W8,Address_261,SK,Pediatrics,TRX,202504,OTHER COMP,35.041,0
+ID000261,Prescriber_260,Gatineau,J9A,J9A 1K7,Address_260,QC,Psychiatry,TRX,202504,INSUZA,69.18,0
+ID000259,Prescriber_258,Shawinigan,G9N,G9N 0C8,Address_258,QC,Family Medicine,TRX,202504,TRETONIN,124.931,0
+ID000255,Prescriber_254,Mississauga,L5C,L5C 4E6,Address_254,ON,General Practice,TRX,202504,PLOMAX,123.948,0
+ID000255,Prescriber_254,Mississauga,L5C,L5C 4E6,Address_254,ON,General Practice,TRX,202504,PLOMAX,128.493,0
+ID000255,Prescriber_254,Mississauga,L5C,L5C 4E6,Address_254,ON,General Practice,TRX,202504,PLOMAX,102.213,1
+ID000296,Prescriber_295,North York,M3H,M3H 5Y8,Address_295,ON,Family Medicine,TRX,202504,OTHER COMP,24.765,1
+ID000296,Prescriber_295,North York,M3H,M3H 5Y8,Address_295,ON,Family Medicine,TRX,202504,OTHER COMP,24.379,0
+ID000290,Prescriber_289,Trois-Rivieres,G8T,G8T 7A6,Address_289,QC,Family Medicine,TRX,202504,TRETONIN,4.968,0
+ID000290,Prescriber_289,Trois-Rivieres,G8T,G8T 7A6,Address_289,QC,Family Medicine,TRX,202504,TRETONIN,3.764,0
+ID000463,Prescriber_462,Vimont,H7M,H7M 2Y2,Address_462,QC,Family Medicine,TRX,202504,PROZALAN D,50.631,0
+ID000451,Prescriber_450,Calgary,T2R,T2R 0X7,Address_450,AB,Family Medicine,TRX,202504,OTHER COMP,165.854,0
+ID000482,Prescriber_481,Oakville,L6M,L6M 1M1,Address_481,ON,Endocrinology & Metabolism,TRX,202504,TRETONIN,47.852,1
+ID000470,Prescriber_469,Midland,L4R,L4R 4P4,Address_469,ON,Family Medicine,TRX,202504,OTHER COMP,125.935,1
+ID000449,Prescriber_448,Trois-Rivieres,G8Z,G8Z 3R8,Address_448,QC,Family Medicine,TRX,202504,INSUZA,31.168,1
+ID000401,Prescriber_400,Trenton,K8V,K8V 3S1,Address_400,ON,Family Medicine,TRX,202504,ALL OTHERS,60.759,0
+ID000401,Prescriber_400,Trenton,K8V,K8V 3S1,Address_400,ON,Family Medicine,TRX,202504,ALL OTHERS,50.75,0
+ID000401,Prescriber_400,Trenton,K8V,K8V 3S1,Address_400,ON,Family Medicine,TRX,202504,ALL OTHERS,49.011,0
+ID000401,Prescriber_400,Trenton,K8V,K8V 3S1,Address_400,ON,Family Medicine,TRX,202504,ALL OTHERS,67.675,0
+ID000400,Prescriber_399,Toronto,M4Y,M4Y 1R4,Address_399,ON,Family Medicine,TRX,202504,ALL OTHERS,106.127,0
+ID000394,Prescriber_393,Baie-Comeau,G4Z,G4Z 1K3,Address_393,QC,Family Medicine,TRX,202504,TRETONIN,83.707,0
+ID000394,Prescriber_393,Baie-Comeau,G4Z,G4Z 1K3,Address_393,QC,Family Medicine,TRX,202504,TRETONIN,60.132,0
+ID000449,Prescriber_448,Trois-Rivieres,G8Z,G8Z 3R8,Address_448,QC,Family Medicine,TRX,202504,INSUZA,27.739,1
+ID000437,Prescriber_436,Huntsville,P1H,P1H 1H8,Address_436,ON,General Practice,TRX,202504,PROZALAN D,140.857,1
+ID000437,Prescriber_436,Huntsville,P1H,P1H 1H8,Address_436,ON,General Practice,TRX,202504,PROZALAN D,168.072,0
+ID000437,Prescriber_436,Huntsville,P1H,P1H 1H8,Address_436,ON,General Practice,TRX,202504,PROZALAN D,147.058,0
+ID000106,Prescriber_105,Brampton,L6R,L6R 3S9,Address_105,ON,Family Medicine,TRX,202504,OTHER COMP,2.512,1
+ID000091,Prescriber_90,Timmins,P4N,P4N 2R8,Address_90,ON,Family Medicine,TRX,202504,GLIDIM,115.665,0
+ID000087,Prescriber_86,Pickering,L1V,L1V 6R6,Address_86,ON,Dermatology,TRX,202504,TRETONIN,116.772,0
+ID000124,Prescriber_123,Saint-Lambert,J4R,J4R 2L1,Address_123,QC,General Practice,TRX,202504,ADRAVIL,94.644,1
+ID000123,Prescriber_122,Hamilton,L8P,L8P 1A1,Address_122,ON,Family Medicine,TRX,202504,ADRAVIL,4.229,0
+ID000118,Prescriber_117,Nepean,K2J,K2J 3R2,Address_117,ON,Family Medicine,TRX,202504,DIABETES,87.433,1
+ID000117,Prescriber_116,Scarborough,M1R,M1R 0B1,Address_116,ON,Family Medicine,TRX,202504,GLIDIM,99.729,0
+ID000117,Prescriber_116,Scarborough,M1R,M1R 0B1,Address_116,ON,Family Medicine,TRX,202504,GLIDIM,102.96,0
+ID000116,Prescriber_115,Whitecourt,T7S,T7S 1P9,Address_115,AB,Family Medicine,TRX,202504,TRETONIN,171.501,1
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202504,OTHER COMP,44.221,0
+ID000111,Prescriber_110,Trois-Rivieres,G8Z,G8Z 4K4,Address_110,QC,Family Medicine,TRX,202504,TRETONIN,39.798,1
+ID000251,Prescriber_250,Windsor,N9A,N9A 1E1,Address_250,ON,Endocrinology & Metabolism,TRX,202504,SYNTHGLYPTIN,56.413,0
+ID000056,Prescriber_55,Hamilton,L8N,L8N 4A6,Address_55,ON,Internal Medicine,TRX,202504,INSUZA,6.588,0
+ID000135,Prescriber_134,Burlington,L7R,L7R 3M8,Address_134,ON,Family Medicine,TRX,202504,ADRAVIL,51.388,0
+ID000216,Prescriber_215,Val-D'or,J9P,J9P 3Y1,Address_215,QC,Family Medicine,TRX,202504,INSUZA,19.863,0
+ID000199,Prescriber_198,Greenfield Park,J4V,J4V 2G9,Address_198,QC,Family Medicine,TRX,202504,TRETONIN,100.658,0
+ID000135,Prescriber_134,Burlington,L7R,L7R 3M8,Address_134,ON,Family Medicine,TRX,202504,ADRAVIL,56.621,0
+ID000152,Prescriber_151,Saint-Eustache,J7R,J7R 0C8,Address_151,QC,Internal Medicine,TRX,202504,PROZALAN D,25.0,0
+ID000304,Prescriber_303,Rigaud,J0P,J0P 1P0,Address_303,QC,Family Medicine,TRX,202505,SYNTHGLYPTIN,59.531,0
+ID000296,Prescriber_295,North York,M3H,M3H 5Y8,Address_295,ON,Family Medicine,TRX,202505,OTHER COMP,21.108,1
+ID000322,Prescriber_321,Bedford,J0J,J0J 1A0,Address_321,QC,Family Medicine,TRX,202505,ADRAVIL,113.652,1
+ID000322,Prescriber_321,Bedford,J0J,J0J 1A0,Address_321,QC,Family Medicine,TRX,202505,ADRAVIL,127.821,1
+ID000319,Prescriber_318,Chicoutimi,G7H,G7H 6B9,Address_318,QC,Family Medicine,TRX,202505,ALL OTHERS,39.617,0
+ID000319,Prescriber_318,Chicoutimi,G7H,G7H 6B9,Address_318,QC,Family Medicine,TRX,202505,ALL OTHERS,38.352,0
+ID000255,Prescriber_254,Mississauga,L5C,L5C 4E6,Address_254,ON,General Practice,TRX,202505,PLOMAX,102.887,0
+ID000251,Prescriber_250,Windsor,N9A,N9A 1E1,Address_250,ON,Endocrinology & Metabolism,TRX,202505,SYNTHGLYPTIN,84.271,0
+ID000259,Prescriber_258,Shawinigan,G9N,G9N 0C8,Address_258,QC,Family Medicine,TRX,202505,TRETONIN,110.073,0
+ID000451,Prescriber_450,Calgary,T2R,T2R 0X7,Address_450,AB,Family Medicine,TRX,202505,OTHER COMP,125.371,0
+ID000447,Prescriber_446,Mississauga,L5V,L5V 1N3,Address_446,ON,Family Medicine,TRX,202505,DIABETES,122.241,0
+ID000447,Prescriber_446,Mississauga,L5V,L5V 1N3,Address_446,ON,Family Medicine,TRX,202505,DIABETES,154.326,0
+ID000440,Prescriber_439,Richmond Hill,L4B,L4B 0E6,Address_439,ON,Family Medicine,TRX,202505,ALL OTHERS,73.588,0
+ID000460,Prescriber_459,Saskatoon,S7K,S7K 3H4,Address_459,SK,General Practice,TRX,202505,GLIDIM,18.361,0
+ID000482,Prescriber_481,Oakville,L6M,L6M 1M1,Address_481,ON,Endocrinology & Metabolism,TRX,202505,TRETONIN,63.06,0
+ID000482,Prescriber_481,Oakville,L6M,L6M 1M1,Address_481,ON,Endocrinology & Metabolism,TRX,202505,TRETONIN,59.895,0
+ID000470,Prescriber_469,Midland,L4R,L4R 4P4,Address_469,ON,Family Medicine,TRX,202505,OTHER COMP,97.114,0
+ID000463,Prescriber_462,Vimont,H7M,H7M 2Y2,Address_462,QC,Family Medicine,TRX,202505,PROZALAN D,44.553,1
+ID000360,Prescriber_359,Chicoutimi,G7H,G7H 1P6,Address_359,QC,Family Medicine,TRX,202505,GLIDIM,95.19,0
+ID000402,Prescriber_401,Barrhead,T7N,T7N 1A4,Address_401,AB,General Practice,TRX,202505,SYNTHGLYPTIN,8.073,0
+ID000401,Prescriber_400,Trenton,K8V,K8V 3S1,Address_400,ON,Family Medicine,TRX,202505,ALL OTHERS,65.024,0
+ID000216,Prescriber_215,Val-D'or,J9P,J9P 3Y1,Address_215,QC,Family Medicine,TRX,202505,INSUZA,26.116,0
+ID000069,Prescriber_68,Chateauguay,J6K,J6K 4W8,Address_68,QC,Family Medicine,TRX,202505,DIABETES,98.358,0
+ID000069,Prescriber_68,Chateauguay,J6K,J6K 4W8,Address_68,QC,Family Medicine,TRX,202505,DIABETES,116.469,0
+ID000106,Prescriber_105,Brampton,L6R,L6R 3S9,Address_105,ON,Family Medicine,TRX,202505,OTHER COMP,2.708,0
+ID000087,Prescriber_86,Pickering,L1V,L1V 6R6,Address_86,ON,Dermatology,TRX,202505,TRETONIN,152.887,0
+ID000109,Prescriber_108,Edmonton,T6J,T6J 7K1,Address_108,AB,Family Medicine,TRX,202505,PROZALAN D,90.751,1
+ID000056,Prescriber_55,Hamilton,L8N,L8N 4A6,Address_55,ON,Internal Medicine,TRX,202505,INSUZA,5.877,1
+ID000010,Prescriber_9,Regina,S4V,S4V 3A3,Address_9,SK,Cardiology,TRX,202505,PLOMAX,70.064,0
+ID000185,Prescriber_184,Oakville,L6H,L6H 7G9,Address_184,ON,Nephrology,TRX,202505,PROZALAN D,152.687,0
+ID000180,Prescriber_179,Brampton,L7A,L7A 3E5,Address_179,ON,Family Medicine,TRX,202505,PROZALAN D,52.095,0
+ID000168,Prescriber_167,Stittsville,K2S,K2S 1B1,Address_167,ON,Family Medicine,TRX,202505,ALL OTHERS,15.001,1
+ID000168,Prescriber_167,Stittsville,K2S,K2S 1B1,Address_167,ON,Family Medicine,TRX,202505,ALL OTHERS,15.734,0
+ID000216,Prescriber_215,Val-D'or,J9P,J9P 3Y1,Address_215,QC,Family Medicine,TRX,202505,INSUZA,20.294,0
+ID000216,Prescriber_215,Val-D'or,J9P,J9P 3Y1,Address_215,QC,Family Medicine,TRX,202505,INSUZA,19.939,0
+ID000135,Prescriber_134,Burlington,L7R,L7R 3M8,Address_134,ON,Family Medicine,TRX,202505,ADRAVIL,41.06,0
+ID000135,Prescriber_134,Burlington,L7R,L7R 3M8,Address_134,ON,Family Medicine,TRX,202505,ADRAVIL,53.878,0
+ID000127,Prescriber_126,Brampton,L6R,L6R 3J7,Address_126,ON,Cardiology,TRX,202505,PLOMAX,35.659,0
+ID000127,Prescriber_126,Brampton,L6R,L6R 3J7,Address_126,ON,Cardiology,TRX,202505,PLOMAX,27.362,0
+ID000123,Prescriber_122,Hamilton,L8P,L8P 1A1,Address_122,ON,Family Medicine,TRX,202505,ADRAVIL,3.529,0
+ID000123,Prescriber_122,Hamilton,L8P,L8P 1A1,Address_122,ON,Family Medicine,TRX,202505,ADRAVIL,3.838,0
+ID000123,Prescriber_122,Hamilton,L8P,L8P 1A1,Address_122,ON,Family Medicine,TRX,202505,ADRAVIL,4.598,1
+ID000152,Prescriber_151,Saint-Eustache,J7R,J7R 0C8,Address_151,QC,Internal Medicine,TRX,202505,PROZALAN D,26.735,1
+ID000152,Prescriber_151,Saint-Eustache,J7R,J7R 0C8,Address_151,QC,Internal Medicine,TRX,202505,PROZALAN D,25.9,0
+ID000359,Prescriber_358,Lanark,K0G,K0G 1K0,Address_358,ON,Family Medicine,TRX,202506,DIABETES,13.107,0
+ID000370,Prescriber_369,Terrebonne,J6W,J6W 1T8,Address_369,QC,Family Medicine,TRX,202506,ADRAVIL,91.204,1
+ID000394,Prescriber_393,Baie-Comeau,G4Z,G4Z 1K3,Address_393,QC,Family Medicine,TRX,202506,TRETONIN,74.251,0
+ID000394,Prescriber_393,Baie-Comeau,G4Z,G4Z 1K3,Address_393,QC,Family Medicine,TRX,202506,TRETONIN,72.522,0
+ID000262,Prescriber_261,Saskatoon,S7N,S7N 0W8,Address_261,SK,Pediatrics,TRX,202506,OTHER COMP,30.117,0
+ID000261,Prescriber_260,Gatineau,J9A,J9A 1K7,Address_260,QC,Psychiatry,TRX,202506,INSUZA,58.731,0
+ID000255,Prescriber_254,Mississauga,L5C,L5C 4E6,Address_254,ON,General Practice,TRX,202506,PLOMAX,139.548,0
+ID000319,Prescriber_318,Chicoutimi,G7H,G7H 6B9,Address_318,QC,Family Medicine,TRX,202506,ALL OTHERS,38.141,0
+ID000310,Prescriber_309,Saint-Hubert,J3Y,J3Y 8Z4,Address_309,QC,Medical Internship,TRX,202506,DIABETES,76.25,0
+ID000310,Prescriber_309,Saint-Hubert,J3Y,J3Y 8Z4,Address_309,QC,Medical Internship,TRX,202506,DIABETES,76.468,0
+ID000310,Prescriber_309,Saint-Hubert,J3Y,J3Y 8Z4,Address_309,QC,Medical Internship,TRX,202506,DIABETES,79.63,0
+ID000302,Prescriber_301,Bridgewater,B4V,B4V 3S6,Address_301,NS,Psychiatry,TRX,202506,GLIDIM,23.306,0
+ID000447,Prescriber_446,Mississauga,L5V,L5V 1N3,Address_446,ON,Family Medicine,TRX,202506,DIABETES,135.053,1
+ID000401,Prescriber_400,Trenton,K8V,K8V 3S1,Address_400,ON,Family Medicine,TRX,202506,ALL OTHERS,48.067,0
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202506,PROZALAN D,151.566,1
+ID000482,Prescriber_481,Oakville,L6M,L6M 1M1,Address_481,ON,Endocrinology & Metabolism,TRX,202506,TRETONIN,50.868,0
+ID000460,Prescriber_459,Saskatoon,S7K,S7K 3H4,Address_459,SK,General Practice,TRX,202506,GLIDIM,25.32,1
+ID000455,Prescriber_454,Guelph,N1H,N1H 4J4,Address_454,ON,Family Medicine,TRX,202506,ALL OTHERS,93.82,1
+ID000451,Prescriber_450,Calgary,T2R,T2R 0X7,Address_450,AB,Family Medicine,TRX,202506,OTHER COMP,116.092,1
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202506,PROZALAN D,148.715,0
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202506,PROZALAN D,142.51,0
+ID000248,Prescriber_247,Montreal,H2X,H2X 0A9,Address_247,QC,Neurology,TRX,202506,GLIDIM,43.553,1
+ID000493,Prescriber_492,Ste-Catherine-De-La-J-Cartier,G3N,G3N 2T5,Address_492,QC,Family Medicine,TRX,202506,ALL OTHERS,27.8,0
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202506,PROZALAN D,112.004,1
+ID000400,Prescriber_399,Toronto,M4Y,M4Y 1R4,Address_399,ON,Family Medicine,TRX,202506,ALL OTHERS,106.193,1
+ID000449,Prescriber_448,Trois-Rivieres,G8Z,G8Z 3R8,Address_448,QC,Family Medicine,TRX,202506,INSUZA,32.284,0
+ID000447,Prescriber_446,Mississauga,L5V,L5V 1N3,Address_446,ON,Family Medicine,TRX,202506,DIABETES,159.204,0
+ID000412,Prescriber_411,Maniwaki,J9E,J9E 2E7,Address_411,QC,Family Medicine,TRX,202506,PLOMAX,117.095,0
+ID000412,Prescriber_411,Maniwaki,J9E,J9E 2E7,Address_411,QC,Family Medicine,TRX,202506,PLOMAX,122.602,0
+ID000412,Prescriber_411,Maniwaki,J9E,J9E 2E7,Address_411,QC,Family Medicine,TRX,202506,PLOMAX,100.16,1
+ID000408,Prescriber_407,Port Perry,L9L,L9L 1L9,Address_407,ON,General Practice,TRX,202506,OTHER COMP,26.191,0
+ID000447,Prescriber_446,Mississauga,L5V,L5V 1N3,Address_446,ON,Family Medicine,TRX,202506,DIABETES,145.446,0
+ID000248,Prescriber_247,Montreal,H2X,H2X 0A9,Address_247,QC,Neurology,TRX,202506,GLIDIM,43.641,0
+ID000087,Prescriber_86,Pickering,L1V,L1V 6R6,Address_86,ON,Dermatology,TRX,202506,TRETONIN,134.5,0
+ID000087,Prescriber_86,Pickering,L1V,L1V 6R6,Address_86,ON,Dermatology,TRX,202506,TRETONIN,150.638,1
+ID000084,Prescriber_83,Guelph,N1H,N1H 6H9,Address_83,ON,Family Medicine,TRX,202506,OTHER COMP,50.145,1
+ID000098,Prescriber_97,Whitby,L1N,L1N 2L1,Address_97,ON,Family Medicine,TRX,202506,INSUZA,100.834,1
+ID000098,Prescriber_97,Whitby,L1N,L1N 2L1,Address_97,ON,Family Medicine,TRX,202506,INSUZA,89.565,0
+ID000127,Prescriber_126,Brampton,L6R,L6R 3J7,Address_126,ON,Cardiology,TRX,202506,PLOMAX,27.903,0
+ID000124,Prescriber_123,Saint-Lambert,J4R,J4R 2L1,Address_123,QC,General Practice,TRX,202506,ADRAVIL,121.221,0
+ID000124,Prescriber_123,Saint-Lambert,J4R,J4R 2L1,Address_123,QC,General Practice,TRX,202506,ADRAVIL,116.909,0
+ID000123,Prescriber_122,Hamilton,L8P,L8P 1A1,Address_122,ON,Family Medicine,TRX,202506,ADRAVIL,4.194,0
+ID000109,Prescriber_108,Edmonton,T6J,T6J 7K1,Address_108,AB,Family Medicine,TRX,202506,PROZALAN D,98.206,0
+ID000106,Prescriber_105,Brampton,L6R,L6R 3S9,Address_105,ON,Family Medicine,TRX,202506,OTHER COMP,2.518,0
+ID000098,Prescriber_97,Whitby,L1N,L1N 2L1,Address_97,ON,Family Medicine,TRX,202506,INSUZA,98.942,0
+ID000058,Prescriber_57,Salaberry-De-Valleyfield,J6T,J6T 6C1,Address_57,QC,Internal Medicine,TRX,202506,PLOMAX,33.413,0
+ID000010,Prescriber_9,Regina,S4V,S4V 3A3,Address_9,SK,Cardiology,TRX,202506,PLOMAX,59.622,0
+ID000009,Prescriber_8,Schomberg,L0G,L0G 1T0,Address_8,ON,Family Medicine,TRX,202506,TRETONIN,76.228,1
+ID000056,Prescriber_55,Hamilton,L8N,L8N 4A6,Address_55,ON,Internal Medicine,TRX,202506,INSUZA,6.027,1
+ID000214,Prescriber_213,Quebec,G1R,G1R 2J6,Address_213,QC,Nephrology,TRX,202506,PLOMAX,139.219,0
+ID000180,Prescriber_179,Brampton,L7A,L7A 3E5,Address_179,ON,Family Medicine,TRX,202506,PROZALAN D,74.031,0
+ID000180,Prescriber_179,Brampton,L7A,L7A 3E5,Address_179,ON,Family Medicine,TRX,202506,PROZALAN D,75.266,0
+ID000135,Prescriber_134,Burlington,L7R,L7R 3M8,Address_134,ON,Family Medicine,TRX,202506,ADRAVIL,45.62,0
+ID000180,Prescriber_179,Brampton,L7A,L7A 3E5,Address_179,ON,Family Medicine,TRX,202506,PROZALAN D,71.697,1
+ID000168,Prescriber_167,Stittsville,K2S,K2S 1B1,Address_167,ON,Family Medicine,TRX,202506,ALL OTHERS,17.793,0
+ID000322,Prescriber_321,Bedford,J0J,J0J 1A0,Address_321,QC,Family Medicine,TRX,202507,PROZALAN D,94.649,1
+ID000360,Prescriber_359,Chicoutimi,G7H,G7H 1P6,Address_359,QC,Family Medicine,TRX,202507,GLIDIM,97.547,0
+ID000340,Prescriber_339,Terrebonne,J6X,J6X 4L9,Address_339,QC,Family Medicine,TRX,202507,PLOMAX,106.447,0
+ID000259,Prescriber_258,Shawinigan,G9N,G9N 0C8,Address_258,QC,Family Medicine,TRX,202507,DIABETES,56.714,1
+ID000255,Prescriber_254,Mississauga,L5C,L5C 4E6,Address_254,ON,General Practice,TRX,202507,SYNTHGLYPTIN,179.588,0
+ID000250,Prescriber_249,Cambridge,N1R,N1R 3E5,Address_249,ON,Family Medicine,TRX,202507,PLOMAX,124.607,0
+ID000248,Prescriber_247,Montreal,H2X,H2X 0A9,Address_247,QC,Neurology,TRX,202507,PROZALAN D,40.359,1
+ID000304,Prescriber_303,Rigaud,J0P,J0P 1P0,Address_303,QC,Family Medicine,TRX,202507,ALL OTHERS,102.366,0
+ID000290,Prescriber_289,Trois-Rivieres,G8T,G8T 7A6,Address_289,QC,Family Medicine,TRX,202507,DIABETES,140.355,0
+ID000290,Prescriber_289,Trois-Rivieres,G8T,G8T 7A6,Address_289,QC,Family Medicine,TRX,202507,PROZALAN D,28.826,0
+ID000460,Prescriber_459,Saskatoon,S7K,S7K 3H4,Address_459,SK,General Practice,TRX,202507,TRETONIN,74.991,0
+ID000460,Prescriber_459,Saskatoon,S7K,S7K 3H4,Address_459,SK,General Practice,TRX,202507,GLIDIM,49.914,1
+ID000449,Prescriber_448,Trois-Rivieres,G8Z,G8Z 3R8,Address_448,QC,Family Medicine,TRX,202507,ALL OTHERS,130.897,0
+ID000449,Prescriber_448,Trois-Rivieres,G8Z,G8Z 3R8,Address_448,QC,Family Medicine,TRX,202507,OTHER COMP,144.311,0
+ID000447,Prescriber_446,Mississauga,L5V,L5V 1N3,Address_446,ON,Family Medicine,TRX,202507,GLIDIM,168.136,0
+ID000447,Prescriber_446,Mississauga,L5V,L5V 1N3,Address_446,ON,Family Medicine,TRX,202507,SYNTHGLYPTIN,43.159,0
+ID000463,Prescriber_462,Vimont,H7M,H7M 2Y2,Address_462,QC,Family Medicine,TRX,202507,INSUZA,86.171,0
+ID000463,Prescriber_462,Vimont,H7M,H7M 2Y2,Address_462,QC,Family Medicine,TRX,202507,ADRAVIL,32.112,1
+ID000488,Prescriber_487,Fredericton,E3B,E3B 3B7,Address_487,NB,Anesthesiology,TRX,202507,PROZALAN D,58.757,0
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202507,ALL OTHERS,47.81,1
+ID000475,Prescriber_474,Peterborough,K9J,K9J 7C6,Address_474,ON,Family Medicine,TRX,202507,DIABETES,136.918,1
+ID000470,Prescriber_469,Midland,L4R,L4R 4P4,Address_469,ON,Family Medicine,TRX,202507,INSUZA,93.043,0
+ID000470,Prescriber_469,Midland,L4R,L4R 4P4,Address_469,ON,Family Medicine,TRX,202507,PROZALAN D,62.025,1
+ID000470,Prescriber_469,Midland,L4R,L4R 4P4,Address_469,ON,Family Medicine,TRX,202507,INSUZA,137.945,0
+ID000482,Prescriber_481,Oakville,L6M,L6M 1M1,Address_481,ON,Endocrinology & Metabolism,TRX,202507,PLOMAX,125.082,1
+ID000370,Prescriber_369,Terrebonne,J6W,J6W 1T8,Address_369,QC,Family Medicine,TRX,202507,SYNTHGLYPTIN,89.726,1
+ID000389,Prescriber_388,Edmonton,T5Y,T5Y 4E1,Address_388,AB,Family Medicine,TRX,202507,OTHER COMP,98.921,0
+ID000412,Prescriber_411,Maniwaki,J9E,J9E 2E7,Address_411,QC,Family Medicine,TRX,202507,DIABETES,114.639,0
+ID000412,Prescriber_411,Maniwaki,J9E,J9E 2E7,Address_411,QC,Family Medicine,TRX,202507,ADRAVIL,96.816,1
+ID000408,Prescriber_407,Port Perry,L9L,L9L 1L9,Address_407,ON,General Practice,TRX,202507,ADRAVIL,131.316,0
+ID000402,Prescriber_401,Barrhead,T7N,T7N 1A4,Address_401,AB,General Practice,TRX,202507,PLOMAX,51.332,1
+ID000401,Prescriber_400,Trenton,K8V,K8V 3S1,Address_400,ON,Family Medicine,TRX,202507,PROZALAN D,43.252,0
+ID000091,Prescriber_90,Timmins,P4N,P4N 2R8,Address_90,ON,Family Medicine,TRX,202507,PLOMAX,202.109,0
+ID000091,Prescriber_90,Timmins,P4N,P4N 2R8,Address_90,ON,Family Medicine,TRX,202507,DIABETES,143.096,0
+ID000091,Prescriber_90,Timmins,P4N,P4N 2R8,Address_90,ON,Family Medicine,TRX,202507,SYNTHGLYPTIN,100.567,1
+ID000087,Prescriber_86,Pickering,L1V,L1V 6R6,Address_86,ON,Dermatology,TRX,202507,SYNTHGLYPTIN,84.664,0
+ID000087,Prescriber_86,Pickering,L1V,L1V 6R6,Address_86,ON,Dermatology,TRX,202507,ADRAVIL,141.032,0
+ID000087,Prescriber_86,Pickering,L1V,L1V 6R6,Address_86,ON,Dermatology,TRX,202507,INSUZA,50.483,0
+ID000069,Prescriber_68,Chateauguay,J6K,J6K 4W8,Address_68,QC,Family Medicine,TRX,202507,GLIDIM,87.181,1
+ID000098,Prescriber_97,Whitby,L1N,L1N 2L1,Address_97,ON,Family Medicine,TRX,202507,ALL OTHERS,80.13,0
+ID000124,Prescriber_123,Saint-Lambert,J4R,J4R 2L1,Address_123,QC,General Practice,TRX,202507,DIABETES,131.562,1
+ID000118,Prescriber_117,Nepean,K2J,K2J 3R2,Address_117,ON,Family Medicine,TRX,202507,INSUZA,121.564,1
+ID000117,Prescriber_116,Scarborough,M1R,M1R 0B1,Address_116,ON,Family Medicine,TRX,202507,PLOMAX,61.793,0
+ID000117,Prescriber_116,Scarborough,M1R,M1R 0B1,Address_116,ON,Family Medicine,TRX,202507,DIABETES,53.995,0
+ID000117,Prescriber_116,Scarborough,M1R,M1R 0B1,Address_116,ON,Family Medicine,TRX,202507,PLOMAX,141.433,0
+ID000116,Prescriber_115,Whitecourt,T7S,T7S 1P9,Address_115,AB,Family Medicine,TRX,202507,ADRAVIL,103.364,0
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202507,PLOMAX,146.401,0
+ID000109,Prescriber_108,Edmonton,T6J,T6J 7K1,Address_108,AB,Family Medicine,TRX,202507,ADRAVIL,219.618,1
+ID000106,Prescriber_105,Brampton,L6R,L6R 3S9,Address_105,ON,Family Medicine,TRX,202507,SYNTHGLYPTIN,103.602,0
+ID000103,Prescriber_102,Gatineau,J8Y,J8Y 3B5,Address_102,QC,Family Medicine,TRX,202507,PROZALAN D,140.27,1
+ID000099,Prescriber_98,Toronto,M7A,M7A 1B3,Address_98,ON,Family Medicine,TRX,202507,PLOMAX,125.606,0
+ID000099,Prescriber_98,Toronto,M7A,M7A 1B3,Address_98,ON,Family Medicine,TRX,202507,ALL OTHERS,60.082,1
+ID000010,Prescriber_9,Regina,S4V,S4V 3A3,Address_9,SK,Cardiology,TRX,202507,TRETONIN,111.78,1
+ID000031,Prescriber_30,Mississauga,L4Y,L4Y 2N8,Address_30,ON,Family Medicine,TRX,202507,SYNTHGLYPTIN,126.038,0
+ID000056,Prescriber_55,Hamilton,L8N,L8N 4A6,Address_55,ON,Internal Medicine,TRX,202507,GLIDIM,72.415,1
+ID000127,Prescriber_126,Brampton,L6R,L6R 3J7,Address_126,ON,Cardiology,TRX,202507,GLIDIM,66.195,0
+ID000180,Prescriber_179,Brampton,L7A,L7A 3E5,Address_179,ON,Family Medicine,TRX,202507,INSUZA,143.535,0
+ID000180,Prescriber_179,Brampton,L7A,L7A 3E5,Address_179,ON,Family Medicine,TRX,202507,ALL OTHERS,100.004,0
+ID000214,Prescriber_213,Quebec,G1R,G1R 2J6,Address_213,QC,Nephrology,TRX,202507,OTHER COMP,167.668,0
+ID000176,Prescriber_175,Atikokan,P0T,P0T 1C0,Address_175,ON,General Practice,TRX,202507,PLOMAX,126.631,0
+ID000174,Prescriber_173,North York,M3J,M3J 0K2,Address_173,ON,Family Medicine,TRX,202507,OTHER COMP,102.448,1
+ID000168,Prescriber_167,Stittsville,K2S,K2S 1B1,Address_167,ON,Family Medicine,TRX,202507,TRETONIN,144.804,0
+ID000168,Prescriber_167,Stittsville,K2S,K2S 1B1,Address_167,ON,Family Medicine,TRX,202507,ADRAVIL,62.837,0
+ID000319,Prescriber_318,Chicoutimi,G7H,G7H 6B9,Address_318,QC,Family Medicine,TRX,202508,GLIDIM,130.251,0
+ID000319,Prescriber_318,Chicoutimi,G7H,G7H 6B9,Address_318,QC,Family Medicine,TRX,202508,DIABETES,96.835,1
+ID000340,Prescriber_339,Terrebonne,J6X,J6X 4L9,Address_339,QC,Family Medicine,TRX,202508,SYNTHGLYPTIN,96.559,1
+ID000370,Prescriber_369,Terrebonne,J6W,J6W 1T8,Address_369,QC,Family Medicine,TRX,202508,ALL OTHERS,90.345,0
+ID000360,Prescriber_359,Chicoutimi,G7H,G7H 1P6,Address_359,QC,Family Medicine,TRX,202508,INSUZA,125.981,0
+ID000359,Prescriber_358,Lanark,K0G,K0G 1K0,Address_358,ON,Family Medicine,TRX,202508,PLOMAX,107.077,1
+ID000340,Prescriber_339,Terrebonne,J6X,J6X 4L9,Address_339,QC,Family Medicine,TRX,202508,OTHER COMP,57.209,1
+ID000263,Prescriber_262,Lloydminster,T9V,T9V 2P7,Address_262,AB,Family Medicine,TRX,202508,ADRAVIL,60.537,1
+ID000251,Prescriber_250,Windsor,N9A,N9A 1E1,Address_250,ON,Endocrinology & Metabolism,TRX,202508,DIABETES,123.047,0
+ID000248,Prescriber_247,Montreal,H2X,H2X 0A9,Address_247,QC,Neurology,TRX,202508,GLIDIM,124.323,0
+ID000302,Prescriber_301,Bridgewater,B4V,B4V 3S6,Address_301,NS,Psychiatry,TRX,202508,DIABETES,180.829,0
+ID000302,Prescriber_301,Bridgewater,B4V,B4V 3S6,Address_301,NS,Psychiatry,TRX,202508,ALL OTHERS,78.462,0
+ID000302,Prescriber_301,Bridgewater,B4V,B4V 3S6,Address_301,NS,Psychiatry,TRX,202508,PROZALAN D,81.128,1
+ID000304,Prescriber_303,Rigaud,J0P,J0P 1P0,Address_303,QC,Family Medicine,TRX,202508,TRETONIN,76.265,0
+ID000290,Prescriber_289,Trois-Rivieres,G8T,G8T 7A6,Address_289,QC,Family Medicine,TRX,202508,SYNTHGLYPTIN,76.985,1
+ID000455,Prescriber_454,Guelph,N1H,N1H 4J4,Address_454,ON,Family Medicine,TRX,202508,SYNTHGLYPTIN,87.991,0
+ID000455,Prescriber_454,Guelph,N1H,N1H 4J4,Address_454,ON,Family Medicine,TRX,202508,GLIDIM,31.18,0
+ID000453,Prescriber_452,Toronto,M6G,M6G 4A1,Address_452,ON,General Practice,TRX,202508,GLIDIM,53.377,1
+ID000447,Prescriber_446,Mississauga,L5V,L5V 1N3,Address_446,ON,Family Medicine,TRX,202508,SYNTHGLYPTIN,69.773,0
+ID000447,Prescriber_446,Mississauga,L5V,L5V 1N3,Address_446,ON,Family Medicine,TRX,202508,TRETONIN,129.511,0
+ID000440,Prescriber_439,Richmond Hill,L4B,L4B 0E6,Address_439,ON,Family Medicine,TRX,202508,ALL OTHERS,161.463,1
+ID000440,Prescriber_439,Richmond Hill,L4B,L4B 0E6,Address_439,ON,Family Medicine,TRX,202508,PLOMAX,78.845,0
+ID000460,Prescriber_459,Saskatoon,S7K,S7K 3H4,Address_459,SK,General Practice,TRX,202508,DIABETES,171.692,1
+ID000463,Prescriber_462,Vimont,H7M,H7M 2Y2,Address_462,QC,Family Medicine,TRX,202508,TRETONIN,140.177,0
+ID000463,Prescriber_462,Vimont,H7M,H7M 2Y2,Address_462,QC,Family Medicine,TRX,202508,GLIDIM,93.462,0
+ID000493,Prescriber_492,Ste-Catherine-De-La-J-Cartier,G3N,G3N 2T5,Address_492,QC,Family Medicine,TRX,202508,SYNTHGLYPTIN,212.774,0
+ID000488,Prescriber_487,Fredericton,E3B,E3B 3B7,Address_487,NB,Anesthesiology,TRX,202508,PLOMAX,133.013,1
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202508,ADRAVIL,122.603,0
+ID000470,Prescriber_469,Midland,L4R,L4R 4P4,Address_469,ON,Family Medicine,TRX,202508,SYNTHGLYPTIN,72.18,1
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202508,PLOMAX,145.48,0
+ID000109,Prescriber_108,Edmonton,T6J,T6J 7K1,Address_108,AB,Family Medicine,TRX,202508,DIABETES,175.107,0
+ID000087,Prescriber_86,Pickering,L1V,L1V 6R6,Address_86,ON,Dermatology,TRX,202508,PLOMAX,161.706,1
+ID000069,Prescriber_68,Chateauguay,J6K,J6K 4W8,Address_68,QC,Family Medicine,TRX,202508,PLOMAX,136.436,0
+ID000069,Prescriber_68,Chateauguay,J6K,J6K 4W8,Address_68,QC,Family Medicine,TRX,202508,PROZALAN D,138.219,0
+ID000069,Prescriber_68,Chateauguay,J6K,J6K 4W8,Address_68,QC,Family Medicine,TRX,202508,INSUZA,92.706,0
+ID000069,Prescriber_68,Chateauguay,J6K,J6K 4W8,Address_68,QC,Family Medicine,TRX,202508,PROZALAN D,128.777,1
+ID000087,Prescriber_86,Pickering,L1V,L1V 6R6,Address_86,ON,Dermatology,TRX,202508,TRETONIN,36.901,0
+ID000098,Prescriber_97,Whitby,L1N,L1N 2L1,Address_97,ON,Family Medicine,TRX,202508,GLIDIM,99.879,1
+ID000098,Prescriber_97,Whitby,L1N,L1N 2L1,Address_97,ON,Family Medicine,TRX,202508,GLIDIM,94.246,0
+ID000091,Prescriber_90,Timmins,P4N,P4N 2R8,Address_90,ON,Family Medicine,TRX,202508,ALL OTHERS,74.797,1
+ID000058,Prescriber_57,Salaberry-De-Valleyfield,J6T,J6T 6C1,Address_57,QC,Internal Medicine,TRX,202508,ALL OTHERS,96.742,1
+ID000058,Prescriber_57,Salaberry-De-Valleyfield,J6T,J6T 6C1,Address_57,QC,Internal Medicine,TRX,202508,ADRAVIL,44.731,0
+ID000010,Prescriber_9,Regina,S4V,S4V 3A3,Address_9,SK,Cardiology,TRX,202508,ALL OTHERS,103.57,0
+ID000010,Prescriber_9,Regina,S4V,S4V 3A3,Address_9,SK,Cardiology,TRX,202508,PROZALAN D,145.201,0
+ID000010,Prescriber_9,Regina,S4V,S4V 3A3,Address_9,SK,Cardiology,TRX,202508,GLIDIM,83.786,1
+ID000056,Prescriber_55,Hamilton,L8N,L8N 4A6,Address_55,ON,Internal Medicine,TRX,202508,TRETONIN,82.79,0
+ID000109,Prescriber_108,Edmonton,T6J,T6J 7K1,Address_108,AB,Family Medicine,TRX,202508,GLIDIM,238.978,1
+ID000109,Prescriber_108,Edmonton,T6J,T6J 7K1,Address_108,AB,Family Medicine,TRX,202508,TRETONIN,88.828,0
+ID000185,Prescriber_184,Oakville,L6H,L6H 7G9,Address_184,ON,Nephrology,TRX,202508,GLIDIM,84.974,0
+ID000180,Prescriber_179,Brampton,L7A,L7A 3E5,Address_179,ON,Family Medicine,TRX,202508,OTHER COMP,143.861,0
+ID000176,Prescriber_175,Atikokan,P0T,P0T 1C0,Address_175,ON,General Practice,TRX,202508,ADRAVIL,66.432,0
+ID000176,Prescriber_175,Atikokan,P0T,P0T 1C0,Address_175,ON,General Practice,TRX,202508,ADRAVIL,153.026,0
+ID000174,Prescriber_173,North York,M3J,M3J 0K2,Address_173,ON,Family Medicine,TRX,202508,GLIDIM,80.344,0
+ID000199,Prescriber_198,Greenfield Park,J4V,J4V 2G9,Address_198,QC,Family Medicine,TRX,202508,INSUZA,133.466,0
+ID000199,Prescriber_198,Greenfield Park,J4V,J4V 2G9,Address_198,QC,Family Medicine,TRX,202508,GLIDIM,215.344,0
+ID000127,Prescriber_126,Brampton,L6R,L6R 3J7,Address_126,ON,Cardiology,TRX,202508,SYNTHGLYPTIN,92.019,1
+ID000123,Prescriber_122,Hamilton,L8P,L8P 1A1,Address_122,ON,Family Medicine,TRX,202508,GLIDIM,146.828,0
+ID000123,Prescriber_122,Hamilton,L8P,L8P 1A1,Address_122,ON,Family Medicine,TRX,202508,PLOMAX,146.132,0
+ID000123,Prescriber_122,Hamilton,L8P,L8P 1A1,Address_122,ON,Family Medicine,TRX,202508,DIABETES,148.153,1
+ID000123,Prescriber_122,Hamilton,L8P,L8P 1A1,Address_122,ON,Family Medicine,TRX,202508,ADRAVIL,106.72,0
+ID000117,Prescriber_116,Scarborough,M1R,M1R 0B1,Address_116,ON,Family Medicine,TRX,202508,INSUZA,92.205,0
+ID000117,Prescriber_116,Scarborough,M1R,M1R 0B1,Address_116,ON,Family Medicine,TRX,202508,DIABETES,56.192,1
+ID000117,Prescriber_116,Scarborough,M1R,M1R 0B1,Address_116,ON,Family Medicine,TRX,202508,ADRAVIL,142.011,0
+ID000117,Prescriber_116,Scarborough,M1R,M1R 0B1,Address_116,ON,Family Medicine,TRX,202508,GLIDIM,71.612,0
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202508,PROZALAN D,111.769,0
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202508,TRETONIN,70.207,0
+ID000152,Prescriber_151,Saint-Eustache,J7R,J7R 0C8,Address_151,QC,Internal Medicine,TRX,202508,DIABETES,79.933,0
+ID000152,Prescriber_151,Saint-Eustache,J7R,J7R 0C8,Address_151,QC,Internal Medicine,TRX,202508,PROZALAN D,102.705,0
+ID000152,Prescriber_151,Saint-Eustache,J7R,J7R 0C8,Address_151,QC,Internal Medicine,TRX,202508,SYNTHGLYPTIN,129.851,0
+ID000340,Prescriber_339,Terrebonne,J6X,J6X 4L9,Address_339,QC,Family Medicine,TRX,202509,TRETONIN,75.569,0
+ID000322,Prescriber_321,Bedford,J0J,J0J 1A0,Address_321,QC,Family Medicine,TRX,202509,GLIDIM,87.253,0
+ID000370,Prescriber_369,Terrebonne,J6W,J6W 1T8,Address_369,QC,Family Medicine,TRX,202509,INSUZA,103.835,0
+ID000360,Prescriber_359,Chicoutimi,G7H,G7H 1P6,Address_359,QC,Family Medicine,TRX,202509,DIABETES,96.941,0
+ID000360,Prescriber_359,Chicoutimi,G7H,G7H 1P6,Address_359,QC,Family Medicine,TRX,202509,ALL OTHERS,130.47,0
+ID000359,Prescriber_358,Lanark,K0G,K0G 1K0,Address_358,ON,Family Medicine,TRX,202509,TRETONIN,24.339,0
+ID000319,Prescriber_318,Chicoutimi,G7H,G7H 6B9,Address_318,QC,Family Medicine,TRX,202509,ADRAVIL,82.487,1
+ID000263,Prescriber_262,Lloydminster,T9V,T9V 2P7,Address_262,AB,Family Medicine,TRX,202509,DIABETES,141.995,1
+ID000263,Prescriber_262,Lloydminster,T9V,T9V 2P7,Address_262,AB,Family Medicine,TRX,202509,ALL OTHERS,85.595,0
+ID000262,Prescriber_261,Saskatoon,S7N,S7N 0W8,Address_261,SK,Pediatrics,TRX,202509,ADRAVIL,180.287,0
+ID000290,Prescriber_289,Trois-Rivieres,G8T,G8T 7A6,Address_289,QC,Family Medicine,TRX,202509,PROZALAN D,100.898,0
+ID000312,Prescriber_311,Saint-Bruno,J3V,J3V 1Y8,Address_311,QC,Family Medicine,TRX,202509,PROZALAN D,66.126,0
+ID000310,Prescriber_309,Saint-Hubert,J3Y,J3Y 8Z4,Address_309,QC,Medical Internship,TRX,202509,PLOMAX,136.625,1
+ID000310,Prescriber_309,Saint-Hubert,J3Y,J3Y 8Z4,Address_309,QC,Medical Internship,TRX,202509,PROZALAN D,81.197,0
+ID000302,Prescriber_301,Bridgewater,B4V,B4V 3S6,Address_301,NS,Psychiatry,TRX,202509,ADRAVIL,132.186,0
+ID000296,Prescriber_295,North York,M3H,M3H 5Y8,Address_295,ON,Family Medicine,TRX,202509,ADRAVIL,121.086,0
+ID000463,Prescriber_462,Vimont,H7M,H7M 2Y2,Address_462,QC,Family Medicine,TRX,202509,PLOMAX,174.487,0
+ID000449,Prescriber_448,Trois-Rivieres,G8Z,G8Z 3R8,Address_448,QC,Family Medicine,TRX,202509,ADRAVIL,119.886,0
+ID000447,Prescriber_446,Mississauga,L5V,L5V 1N3,Address_446,ON,Family Medicine,TRX,202509,DIABETES,97.923,1
+ID000475,Prescriber_474,Peterborough,K9J,K9J 7C6,Address_474,ON,Family Medicine,TRX,202509,SYNTHGLYPTIN,89.267,0
+ID000262,Prescriber_261,Saskatoon,S7N,S7N 0W8,Address_261,SK,Pediatrics,TRX,202509,SYNTHGLYPTIN,97.892,0
+ID000493,Prescriber_492,Ste-Catherine-De-La-J-Cartier,G3N,G3N 2T5,Address_492,QC,Family Medicine,TRX,202509,TRETONIN,146.473,0
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202509,TRETONIN,110.126,0
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202509,PLOMAX,181.446,1
+ID000440,Prescriber_439,Richmond Hill,L4B,L4B 0E6,Address_439,ON,Family Medicine,TRX,202509,ADRAVIL,162.597,0
+ID000440,Prescriber_439,Richmond Hill,L4B,L4B 0E6,Address_439,ON,Family Medicine,TRX,202509,ALL OTHERS,56.343,0
+ID000408,Prescriber_407,Port Perry,L9L,L9L 1L9,Address_407,ON,General Practice,TRX,202509,OTHER COMP,87.437,0
+ID000402,Prescriber_401,Barrhead,T7N,T7N 1A4,Address_401,AB,General Practice,TRX,202509,INSUZA,74.61,0
+ID000401,Prescriber_400,Trenton,K8V,K8V 3S1,Address_400,ON,Family Medicine,TRX,202509,INSUZA,127.738,0
+ID000401,Prescriber_400,Trenton,K8V,K8V 3S1,Address_400,ON,Family Medicine,TRX,202509,DIABETES,131.68,0
+ID000400,Prescriber_399,Toronto,M4Y,M4Y 1R4,Address_399,ON,Family Medicine,TRX,202509,INSUZA,82.282,1
+ID000400,Prescriber_399,Toronto,M4Y,M4Y 1R4,Address_399,ON,Family Medicine,TRX,202509,ALL OTHERS,117.117,1
+ID000412,Prescriber_411,Maniwaki,J9E,J9E 2E7,Address_411,QC,Family Medicine,TRX,202509,PROZALAN D,56.99,0
+ID000412,Prescriber_411,Maniwaki,J9E,J9E 2E7,Address_411,QC,Family Medicine,TRX,202509,GLIDIM,37.89,0
+ID000437,Prescriber_436,Huntsville,P1H,P1H 1H8,Address_436,ON,General Practice,TRX,202509,DIABETES,174.702,0
+ID000440,Prescriber_439,Richmond Hill,L4B,L4B 0E6,Address_439,ON,Family Medicine,TRX,202509,SYNTHGLYPTIN,44.803,1
+ID000261,Prescriber_260,Gatineau,J9A,J9A 1K7,Address_260,QC,Psychiatry,TRX,202509,DIABETES,105.434,0
+ID000259,Prescriber_258,Shawinigan,G9N,G9N 0C8,Address_258,QC,Family Medicine,TRX,202509,INSUZA,94.365,0
+ID000091,Prescriber_90,Timmins,P4N,P4N 2R8,Address_90,ON,Family Medicine,TRX,202509,PROZALAN D,41.749,0
+ID000087,Prescriber_86,Pickering,L1V,L1V 6R6,Address_86,ON,Dermatology,TRX,202509,PLOMAX,59.999,0
+ID000069,Prescriber_68,Chateauguay,J6K,J6K 4W8,Address_68,QC,Family Medicine,TRX,202509,ADRAVIL,142.519,0
+ID000069,Prescriber_68,Chateauguay,J6K,J6K 4W8,Address_68,QC,Family Medicine,TRX,202509,INSUZA,174.372,1
+ID000069,Prescriber_68,Chateauguay,J6K,J6K 4W8,Address_68,QC,Family Medicine,TRX,202509,GLIDIM,226.949,0
+ID000099,Prescriber_98,Toronto,M7A,M7A 1B3,Address_98,ON,Family Medicine,TRX,202509,ADRAVIL,62.492,0
+ID000118,Prescriber_117,Nepean,K2J,K2J 3R2,Address_117,ON,Family Medicine,TRX,202509,PLOMAX,174.43,0
+ID000118,Prescriber_117,Nepean,K2J,K2J 3R2,Address_117,ON,Family Medicine,TRX,202509,DIABETES,129.33,1
+ID000118,Prescriber_117,Nepean,K2J,K2J 3R2,Address_117,ON,Family Medicine,TRX,202509,SYNTHGLYPTIN,77.054,1
+ID000118,Prescriber_117,Nepean,K2J,K2J 3R2,Address_117,ON,Family Medicine,TRX,202509,TRETONIN,196.236,1
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202509,PROZALAN D,162.39,0
+ID000111,Prescriber_110,Trois-Rivieres,G8Z,G8Z 4K4,Address_110,QC,Family Medicine,TRX,202509,ADRAVIL,57.996,0
+ID000111,Prescriber_110,Trois-Rivieres,G8Z,G8Z 4K4,Address_110,QC,Family Medicine,TRX,202509,SYNTHGLYPTIN,83.814,0
+ID000111,Prescriber_110,Trois-Rivieres,G8Z,G8Z 4K4,Address_110,QC,Family Medicine,TRX,202509,TRETONIN,103.794,1
+ID000109,Prescriber_108,Edmonton,T6J,T6J 7K1,Address_108,AB,Family Medicine,TRX,202509,PLOMAX,159.172,0
+ID000109,Prescriber_108,Edmonton,T6J,T6J 7K1,Address_108,AB,Family Medicine,TRX,202509,PLOMAX,132.058,1
+ID000109,Prescriber_108,Edmonton,T6J,T6J 7K1,Address_108,AB,Family Medicine,TRX,202509,INSUZA,164.119,0
+ID000106,Prescriber_105,Brampton,L6R,L6R 3S9,Address_105,ON,Family Medicine,TRX,202509,INSUZA,137.512,0
+ID000106,Prescriber_105,Brampton,L6R,L6R 3S9,Address_105,ON,Family Medicine,TRX,202509,GLIDIM,148.07,1
+ID000103,Prescriber_102,Gatineau,J8Y,J8Y 3B5,Address_102,QC,Family Medicine,TRX,202509,INSUZA,79.74,0
+ID000103,Prescriber_102,Gatineau,J8Y,J8Y 3B5,Address_102,QC,Family Medicine,TRX,202509,GLIDIM,81.587,1
+ID000098,Prescriber_97,Whitby,L1N,L1N 2L1,Address_97,ON,Family Medicine,TRX,202509,SYNTHGLYPTIN,53.825,0
+ID000031,Prescriber_30,Mississauga,L4Y,L4Y 2N8,Address_30,ON,Family Medicine,TRX,202509,ADRAVIL,100.632,0
+ID000010,Prescriber_9,Regina,S4V,S4V 3A3,Address_9,SK,Cardiology,TRX,202509,PROZALAN D,119.743,0
+ID000009,Prescriber_8,Schomberg,L0G,L0G 1T0,Address_8,ON,Family Medicine,TRX,202509,OTHER COMP,141.883,1
+ID000058,Prescriber_57,Salaberry-De-Valleyfield,J6T,J6T 6C1,Address_57,QC,Internal Medicine,TRX,202509,ADRAVIL,261.628,1
+ID000124,Prescriber_123,Saint-Lambert,J4R,J4R 2L1,Address_123,QC,General Practice,TRX,202509,GLIDIM,81.861,0
+ID000214,Prescriber_213,Quebec,G1R,G1R 2J6,Address_213,QC,Nephrology,TRX,202509,DIABETES,26.566,0
+ID000214,Prescriber_213,Quebec,G1R,G1R 2J6,Address_213,QC,Nephrology,TRX,202509,SYNTHGLYPTIN,89.858,1
+ID000123,Prescriber_122,Hamilton,L8P,L8P 1A1,Address_122,ON,Family Medicine,TRX,202509,INSUZA,55.05,0
+ID000251,Prescriber_250,Windsor,N9A,N9A 1E1,Address_250,ON,Endocrinology & Metabolism,TRX,202509,ADRAVIL,87.939,0
+ID000251,Prescriber_250,Windsor,N9A,N9A 1E1,Address_250,ON,Endocrinology & Metabolism,TRX,202509,OTHER COMP,67.328,0
+ID000251,Prescriber_250,Windsor,N9A,N9A 1E1,Address_250,ON,Endocrinology & Metabolism,TRX,202509,DIABETES,99.84,0
+ID000152,Prescriber_151,Saint-Eustache,J7R,J7R 0C8,Address_151,QC,Internal Medicine,TRX,202509,PLOMAX,120.733,0
+ID000152,Prescriber_151,Saint-Eustache,J7R,J7R 0C8,Address_151,QC,Internal Medicine,TRX,202509,PROZALAN D,80.51,0
+ID000152,Prescriber_151,Saint-Eustache,J7R,J7R 0C8,Address_151,QC,Internal Medicine,TRX,202509,PLOMAX,125.479,1
+ID000135,Prescriber_134,Burlington,L7R,L7R 3M8,Address_134,ON,Family Medicine,TRX,202509,INSUZA,119.798,1
+ID000185,Prescriber_184,Oakville,L6H,L6H 7G9,Address_184,ON,Nephrology,TRX,202509,TRETONIN,83.814,0
+ID000176,Prescriber_175,Atikokan,P0T,P0T 1C0,Address_175,ON,General Practice,TRX,202509,GLIDIM,149.248,0
+ID000168,Prescriber_167,Stittsville,K2S,K2S 1B1,Address_167,ON,Family Medicine,TRX,202509,PROZALAN D,120.867,0
+ID000340,Prescriber_339,Terrebonne,J6X,J6X 4L9,Address_339,QC,Family Medicine,TRX,202510,OTHER COMP,99.399,1
+ID000340,Prescriber_339,Terrebonne,J6X,J6X 4L9,Address_339,QC,Family Medicine,TRX,202510,SYNTHGLYPTIN,88.88,0
+ID000322,Prescriber_321,Bedford,J0J,J0J 1A0,Address_321,QC,Family Medicine,TRX,202510,ALL OTHERS,125.958,0
+ID000360,Prescriber_359,Chicoutimi,G7H,G7H 1P6,Address_359,QC,Family Medicine,TRX,202510,ADRAVIL,49.829,0
+ID000359,Prescriber_358,Lanark,K0G,K0G 1K0,Address_358,ON,Family Medicine,TRX,202510,TRETONIN,179.731,0
+ID000304,Prescriber_303,Rigaud,J0P,J0P 1P0,Address_303,QC,Family Medicine,TRX,202510,PROZALAN D,82.309,0
+ID000312,Prescriber_311,Saint-Bruno,J3V,J3V 1Y8,Address_311,QC,Family Medicine,TRX,202510,INSUZA,150.3,0
+ID000290,Prescriber_289,Trois-Rivieres,G8T,G8T 7A6,Address_289,QC,Family Medicine,TRX,202510,DIABETES,93.614,0
+ID000290,Prescriber_289,Trois-Rivieres,G8T,G8T 7A6,Address_289,QC,Family Medicine,TRX,202510,TRETONIN,141.094,0
+ID000453,Prescriber_452,Toronto,M6G,M6G 4A1,Address_452,ON,General Practice,TRX,202510,INSUZA,155.693,0
+ID000449,Prescriber_448,Trois-Rivieres,G8Z,G8Z 3R8,Address_448,QC,Family Medicine,TRX,202510,ADRAVIL,131.587,0
+ID000449,Prescriber_448,Trois-Rivieres,G8Z,G8Z 3R8,Address_448,QC,Family Medicine,TRX,202510,TRETONIN,137.634,1
+ID000449,Prescriber_448,Trois-Rivieres,G8Z,G8Z 3R8,Address_448,QC,Family Medicine,TRX,202510,INSUZA,86.442,1
+ID000440,Prescriber_439,Richmond Hill,L4B,L4B 0E6,Address_439,ON,Family Medicine,TRX,202510,PROZALAN D,62.484,0
+ID000437,Prescriber_436,Huntsville,P1H,P1H 1H8,Address_436,ON,General Practice,TRX,202510,OTHER COMP,112.541,1
+ID000437,Prescriber_436,Huntsville,P1H,P1H 1H8,Address_436,ON,General Practice,TRX,202510,TRETONIN,39.131,0
+ID000437,Prescriber_436,Huntsville,P1H,P1H 1H8,Address_436,ON,General Practice,TRX,202510,GLIDIM,99.116,1
+ID000437,Prescriber_436,Huntsville,P1H,P1H 1H8,Address_436,ON,General Practice,TRX,202510,SYNTHGLYPTIN,87.404,0
+ID000437,Prescriber_436,Huntsville,P1H,P1H 1H8,Address_436,ON,General Practice,TRX,202510,GLIDIM,139.719,0
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202510,PROZALAN D,97.365,0
+ID000482,Prescriber_481,Oakville,L6M,L6M 1M1,Address_481,ON,Endocrinology & Metabolism,TRX,202510,ALL OTHERS,77.55,1
+ID000470,Prescriber_469,Midland,L4R,L4R 4P4,Address_469,ON,Family Medicine,TRX,202510,ADRAVIL,96.028,1
+ID000470,Prescriber_469,Midland,L4R,L4R 4P4,Address_469,ON,Family Medicine,TRX,202510,DIABETES,143.081,0
+ID000463,Prescriber_462,Vimont,H7M,H7M 2Y2,Address_462,QC,Family Medicine,TRX,202510,TRETONIN,121.828,0
+ID000460,Prescriber_459,Saskatoon,S7K,S7K 3H4,Address_459,SK,General Practice,TRX,202510,GLIDIM,132.661,0
+ID000394,Prescriber_393,Baie-Comeau,G4Z,G4Z 1K3,Address_393,QC,Family Medicine,TRX,202510,GLIDIM,65.616,0
+ID000394,Prescriber_393,Baie-Comeau,G4Z,G4Z 1K3,Address_393,QC,Family Medicine,TRX,202510,SYNTHGLYPTIN,102.649,0
+ID000394,Prescriber_393,Baie-Comeau,G4Z,G4Z 1K3,Address_393,QC,Family Medicine,TRX,202510,INSUZA,128.58,1
+ID000394,Prescriber_393,Baie-Comeau,G4Z,G4Z 1K3,Address_393,QC,Family Medicine,TRX,202510,INSUZA,64.833,0
+ID000389,Prescriber_388,Edmonton,T5Y,T5Y 4E1,Address_388,AB,Family Medicine,TRX,202510,GLIDIM,106.08,0
+ID000402,Prescriber_401,Barrhead,T7N,T7N 1A4,Address_401,AB,General Practice,TRX,202510,OTHER COMP,94.074,1
+ID000412,Prescriber_411,Maniwaki,J9E,J9E 2E7,Address_411,QC,Family Medicine,TRX,202510,PLOMAX,138.851,0
+ID000412,Prescriber_411,Maniwaki,J9E,J9E 2E7,Address_411,QC,Family Medicine,TRX,202510,PROZALAN D,87.738,0
+ID000263,Prescriber_262,Lloydminster,T9V,T9V 2P7,Address_262,AB,Family Medicine,TRX,202510,SYNTHGLYPTIN,80.216,0
+ID000261,Prescriber_260,Gatineau,J9A,J9A 1K7,Address_260,QC,Psychiatry,TRX,202510,ADRAVIL,63.394,0
+ID000087,Prescriber_86,Pickering,L1V,L1V 6R6,Address_86,ON,Dermatology,TRX,202510,PROZALAN D,138.725,0
+ID000084,Prescriber_83,Guelph,N1H,N1H 6H9,Address_83,ON,Family Medicine,TRX,202510,PLOMAX,123.807,0
+ID000098,Prescriber_97,Whitby,L1N,L1N 2L1,Address_97,ON,Family Medicine,TRX,202510,SYNTHGLYPTIN,85.281,1
+ID000106,Prescriber_105,Brampton,L6R,L6R 3S9,Address_105,ON,Family Medicine,TRX,202510,INSUZA,161.502,0
+ID000127,Prescriber_126,Brampton,L6R,L6R 3J7,Address_126,ON,Cardiology,TRX,202510,PROZALAN D,59.658,1
+ID000127,Prescriber_126,Brampton,L6R,L6R 3J7,Address_126,ON,Cardiology,TRX,202510,ADRAVIL,62.062,1
+ID000124,Prescriber_123,Saint-Lambert,J4R,J4R 2L1,Address_123,QC,General Practice,TRX,202510,ALL OTHERS,83.698,1
+ID000069,Prescriber_68,Chateauguay,J6K,J6K 4W8,Address_68,QC,Family Medicine,TRX,202510,ADRAVIL,91.651,0
+ID000118,Prescriber_117,Nepean,K2J,K2J 3R2,Address_117,ON,Family Medicine,TRX,202510,SYNTHGLYPTIN,91.769,0
+ID000118,Prescriber_117,Nepean,K2J,K2J 3R2,Address_117,ON,Family Medicine,TRX,202510,GLIDIM,90.805,1
+ID000116,Prescriber_115,Whitecourt,T7S,T7S 1P9,Address_115,AB,Family Medicine,TRX,202510,ALL OTHERS,88.494,0
+ID000116,Prescriber_115,Whitecourt,T7S,T7S 1P9,Address_115,AB,Family Medicine,TRX,202510,GLIDIM,109.177,0
+ID000106,Prescriber_105,Brampton,L6R,L6R 3S9,Address_105,ON,Family Medicine,TRX,202510,PLOMAX,107.813,1
+ID000106,Prescriber_105,Brampton,L6R,L6R 3S9,Address_105,ON,Family Medicine,TRX,202510,ALL OTHERS,118.235,0
+ID000069,Prescriber_68,Chateauguay,J6K,J6K 4W8,Address_68,QC,Family Medicine,TRX,202510,SYNTHGLYPTIN,48.73,1
+ID000010,Prescriber_9,Regina,S4V,S4V 3A3,Address_9,SK,Cardiology,TRX,202510,ALL OTHERS,130.4,0
+ID000031,Prescriber_30,Mississauga,L4Y,L4Y 2N8,Address_30,ON,Family Medicine,TRX,202510,SYNTHGLYPTIN,159.409,1
+ID000058,Prescriber_57,Salaberry-De-Valleyfield,J6T,J6T 6C1,Address_57,QC,Internal Medicine,TRX,202510,DIABETES,65.593,0
+ID000058,Prescriber_57,Salaberry-De-Valleyfield,J6T,J6T 6C1,Address_57,QC,Internal Medicine,TRX,202510,PROZALAN D,101.784,0
+ID000056,Prescriber_55,Hamilton,L8N,L8N 4A6,Address_55,ON,Internal Medicine,TRX,202510,PROZALAN D,145.738,1
+ID000056,Prescriber_55,Hamilton,L8N,L8N 4A6,Address_55,ON,Internal Medicine,TRX,202510,INSUZA,120.176,0
+ID000056,Prescriber_55,Hamilton,L8N,L8N 4A6,Address_55,ON,Internal Medicine,TRX,202510,PROZALAN D,69.605,0
+ID000069,Prescriber_68,Chateauguay,J6K,J6K 4W8,Address_68,QC,Family Medicine,TRX,202510,SYNTHGLYPTIN,100.54,1
+ID000262,Prescriber_261,Saskatoon,S7N,S7N 0W8,Address_261,SK,Pediatrics,TRX,202510,DIABETES,76.715,0
+ID000261,Prescriber_260,Gatineau,J9A,J9A 1K7,Address_260,QC,Psychiatry,TRX,202510,ALL OTHERS,152.982,0
+ID000259,Prescriber_258,Shawinigan,G9N,G9N 0C8,Address_258,QC,Family Medicine,TRX,202510,OTHER COMP,131.822,0
+ID000251,Prescriber_250,Windsor,N9A,N9A 1E1,Address_250,ON,Endocrinology & Metabolism,TRX,202510,ALL OTHERS,113.15,0
+ID000250,Prescriber_249,Cambridge,N1R,N1R 3E5,Address_249,ON,Family Medicine,TRX,202510,ALL OTHERS,113.34,1
+ID000250,Prescriber_249,Cambridge,N1R,N1R 3E5,Address_249,ON,Family Medicine,TRX,202510,GLIDIM,39.412,0
+ID000248,Prescriber_247,Montreal,H2X,H2X 0A9,Address_247,QC,Neurology,TRX,202510,INSUZA,61.533,0
+ID000250,Prescriber_249,Cambridge,N1R,N1R 3E5,Address_249,ON,Family Medicine,TRX,202510,ADRAVIL,109.195,0
+ID000199,Prescriber_198,Greenfield Park,J4V,J4V 2G9,Address_198,QC,Family Medicine,TRX,202510,INSUZA,80.675,0
+ID000168,Prescriber_167,Stittsville,K2S,K2S 1B1,Address_167,ON,Family Medicine,TRX,202510,INSUZA,179.647,0
+ID000152,Prescriber_151,Saint-Eustache,J7R,J7R 0C8,Address_151,QC,Internal Medicine,TRX,202510,GLIDIM,103.442,1
+ID000135,Prescriber_134,Burlington,L7R,L7R 3M8,Address_134,ON,Family Medicine,TRX,202510,SYNTHGLYPTIN,179.368,0
+ID000135,Prescriber_134,Burlington,L7R,L7R 3M8,Address_134,ON,Family Medicine,TRX,202510,ALL OTHERS,89.277,1
+ID000135,Prescriber_134,Burlington,L7R,L7R 3M8,Address_134,ON,Family Medicine,TRX,202510,ADRAVIL,105.219,0
+ID000199,Prescriber_198,Greenfield Park,J4V,J4V 2G9,Address_198,QC,Family Medicine,TRX,202510,TRETONIN,181.861,1
+ID000185,Prescriber_184,Oakville,L6H,L6H 7G9,Address_184,ON,Nephrology,TRX,202510,TRETONIN,167.107,1
+ID000174,Prescriber_173,North York,M3J,M3J 0K2,Address_173,ON,Family Medicine,TRX,202510,INSUZA,167.056,0
+ID000176,Prescriber_175,Atikokan,P0T,P0T 1C0,Address_175,ON,General Practice,TRX,202510,ALL OTHERS,64.503,0
+ID000180,Prescriber_179,Brampton,L7A,L7A 3E5,Address_179,ON,Family Medicine,TRX,202510,ALL OTHERS,122.2,0
+ID000180,Prescriber_179,Brampton,L7A,L7A 3E5,Address_179,ON,Family Medicine,TRX,202510,INSUZA,92.578,0
+ID000180,Prescriber_179,Brampton,L7A,L7A 3E5,Address_179,ON,Family Medicine,TRX,202510,GLIDIM,160.972,0
+ID000370,Prescriber_369,Terrebonne,J6W,J6W 1T8,Address_369,QC,Family Medicine,TRX,202511,DIABETES,98.041,0
+ID000359,Prescriber_358,Lanark,K0G,K0G 1K0,Address_358,ON,Family Medicine,TRX,202511,PLOMAX,104.042,0
+ID000262,Prescriber_261,Saskatoon,S7N,S7N 0W8,Address_261,SK,Pediatrics,TRX,202511,OTHER COMP,123.134,1
+ID000290,Prescriber_289,Trois-Rivieres,G8T,G8T 7A6,Address_289,QC,Family Medicine,TRX,202511,PLOMAX,125.303,0
+ID000290,Prescriber_289,Trois-Rivieres,G8T,G8T 7A6,Address_289,QC,Family Medicine,TRX,202511,TRETONIN,46.221,1
+ID000290,Prescriber_289,Trois-Rivieres,G8T,G8T 7A6,Address_289,QC,Family Medicine,TRX,202511,PLOMAX,152.445,1
+ID000319,Prescriber_318,Chicoutimi,G7H,G7H 6B9,Address_318,QC,Family Medicine,TRX,202511,OTHER COMP,67.276,0
+ID000312,Prescriber_311,Saint-Bruno,J3V,J3V 1Y8,Address_311,QC,Family Medicine,TRX,202511,ALL OTHERS,111.622,0
+ID000302,Prescriber_301,Bridgewater,B4V,B4V 3S6,Address_301,NS,Psychiatry,TRX,202511,OTHER COMP,138.694,0
+ID000302,Prescriber_301,Bridgewater,B4V,B4V 3S6,Address_301,NS,Psychiatry,TRX,202511,OTHER COMP,84.332,0
+ID000302,Prescriber_301,Bridgewater,B4V,B4V 3S6,Address_301,NS,Psychiatry,TRX,202511,PROZALAN D,79.379,0
+ID000296,Prescriber_295,North York,M3H,M3H 5Y8,Address_295,ON,Family Medicine,TRX,202511,PROZALAN D,71.468,1
+ID000296,Prescriber_295,North York,M3H,M3H 5Y8,Address_295,ON,Family Medicine,TRX,202511,SYNTHGLYPTIN,118.794,0
+ID000463,Prescriber_462,Vimont,H7M,H7M 2Y2,Address_462,QC,Family Medicine,TRX,202511,GLIDIM,57.078,0
+ID000455,Prescriber_454,Guelph,N1H,N1H 4J4,Address_454,ON,Family Medicine,TRX,202511,PROZALAN D,160.617,0
+ID000455,Prescriber_454,Guelph,N1H,N1H 4J4,Address_454,ON,Family Medicine,TRX,202511,TRETONIN,197.758,0
+ID000453,Prescriber_452,Toronto,M6G,M6G 4A1,Address_452,ON,General Practice,TRX,202511,ADRAVIL,106.047,0
+ID000449,Prescriber_448,Trois-Rivieres,G8Z,G8Z 3R8,Address_448,QC,Family Medicine,TRX,202511,OTHER COMP,105.879,0
+ID000447,Prescriber_446,Mississauga,L5V,L5V 1N3,Address_446,ON,Family Medicine,TRX,202511,ALL OTHERS,210.684,1
+ID000470,Prescriber_469,Midland,L4R,L4R 4P4,Address_469,ON,Family Medicine,TRX,202511,TRETONIN,32.814,1
+ID000262,Prescriber_261,Saskatoon,S7N,S7N 0W8,Address_261,SK,Pediatrics,TRX,202511,TRETONIN,83.343,0
+ID000493,Prescriber_492,Ste-Catherine-De-La-J-Cartier,G3N,G3N 2T5,Address_492,QC,Family Medicine,TRX,202511,DIABETES,113.876,1
+ID000488,Prescriber_487,Fredericton,E3B,E3B 3B7,Address_487,NB,Anesthesiology,TRX,202511,SYNTHGLYPTIN,140.12,0
+ID000488,Prescriber_487,Fredericton,E3B,E3B 3B7,Address_487,NB,Anesthesiology,TRX,202511,PROZALAN D,106.602,1
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202511,PROZALAN D,197.183,0
+ID000482,Prescriber_481,Oakville,L6M,L6M 1M1,Address_481,ON,Endocrinology & Metabolism,TRX,202511,ADRAVIL,113.531,0
+ID000475,Prescriber_474,Peterborough,K9J,K9J 7C6,Address_474,ON,Family Medicine,TRX,202511,PROZALAN D,130.295,0
+ID000402,Prescriber_401,Barrhead,T7N,T7N 1A4,Address_401,AB,General Practice,TRX,202511,INSUZA,85.915,0
+ID000401,Prescriber_400,Trenton,K8V,K8V 3S1,Address_400,ON,Family Medicine,TRX,202511,INSUZA,155.689,0
+ID000401,Prescriber_400,Trenton,K8V,K8V 3S1,Address_400,ON,Family Medicine,TRX,202511,SYNTHGLYPTIN,149.783,0
+ID000400,Prescriber_399,Toronto,M4Y,M4Y 1R4,Address_399,ON,Family Medicine,TRX,202511,INSUZA,126.439,0
+ID000400,Prescriber_399,Toronto,M4Y,M4Y 1R4,Address_399,ON,Family Medicine,TRX,202511,DIABETES,92.917,0
+ID000394,Prescriber_393,Baie-Comeau,G4Z,G4Z 1K3,Address_393,QC,Family Medicine,TRX,202511,GLIDIM,138.047,0
+ID000394,Prescriber_393,Baie-Comeau,G4Z,G4Z 1K3,Address_393,QC,Family Medicine,TRX,202511,ADRAVIL,144.376,0
+ID000394,Prescriber_393,Baie-Comeau,G4Z,G4Z 1K3,Address_393,QC,Family Medicine,TRX,202511,SYNTHGLYPTIN,120.938,0
+ID000394,Prescriber_393,Baie-Comeau,G4Z,G4Z 1K3,Address_393,QC,Family Medicine,TRX,202511,DIABETES,144.428,0
+ID000412,Prescriber_411,Maniwaki,J9E,J9E 2E7,Address_411,QC,Family Medicine,TRX,202511,PROZALAN D,50.179,0
+ID000412,Prescriber_411,Maniwaki,J9E,J9E 2E7,Address_411,QC,Family Medicine,TRX,202511,SYNTHGLYPTIN,48.611,1
+ID000261,Prescriber_260,Gatineau,J9A,J9A 1K7,Address_260,QC,Psychiatry,TRX,202511,OTHER COMP,101.359,0
+ID000261,Prescriber_260,Gatineau,J9A,J9A 1K7,Address_260,QC,Psychiatry,TRX,202511,INSUZA,115.474,0
+ID000087,Prescriber_86,Pickering,L1V,L1V 6R6,Address_86,ON,Dermatology,TRX,202511,TRETONIN,100.724,0
+ID000069,Prescriber_68,Chateauguay,J6K,J6K 4W8,Address_68,QC,Family Medicine,TRX,202511,INSUZA,115.141,0
+ID000069,Prescriber_68,Chateauguay,J6K,J6K 4W8,Address_68,QC,Family Medicine,TRX,202511,INSUZA,39.607,0
+ID000087,Prescriber_86,Pickering,L1V,L1V 6R6,Address_86,ON,Dermatology,TRX,202511,PLOMAX,77.836,0
+ID000117,Prescriber_116,Scarborough,M1R,M1R 0B1,Address_116,ON,Family Medicine,TRX,202511,ADRAVIL,80.867,0
+ID000116,Prescriber_115,Whitecourt,T7S,T7S 1P9,Address_115,AB,Family Medicine,TRX,202511,ADRAVIL,181.125,0
+ID000116,Prescriber_115,Whitecourt,T7S,T7S 1P9,Address_115,AB,Family Medicine,TRX,202511,INSUZA,85.722,0
+ID000109,Prescriber_108,Edmonton,T6J,T6J 7K1,Address_108,AB,Family Medicine,TRX,202511,GLIDIM,48.794,0
+ID000106,Prescriber_105,Brampton,L6R,L6R 3S9,Address_105,ON,Family Medicine,TRX,202511,ALL OTHERS,205.146,1
+ID000106,Prescriber_105,Brampton,L6R,L6R 3S9,Address_105,ON,Family Medicine,TRX,202511,ALL OTHERS,84.869,1
+ID000099,Prescriber_98,Toronto,M7A,M7A 1B3,Address_98,ON,Family Medicine,TRX,202511,PROZALAN D,69.887,0
+ID000099,Prescriber_98,Toronto,M7A,M7A 1B3,Address_98,ON,Family Medicine,TRX,202511,GLIDIM,73.967,1
+ID000098,Prescriber_97,Whitby,L1N,L1N 2L1,Address_97,ON,Family Medicine,TRX,202511,ADRAVIL,79.866,0
+ID000098,Prescriber_97,Whitby,L1N,L1N 2L1,Address_97,ON,Family Medicine,TRX,202511,PROZALAN D,203.36,0
+ID000117,Prescriber_116,Scarborough,M1R,M1R 0B1,Address_116,ON,Family Medicine,TRX,202511,SYNTHGLYPTIN,111.117,1
+ID000058,Prescriber_57,Salaberry-De-Valleyfield,J6T,J6T 6C1,Address_57,QC,Internal Medicine,TRX,202511,GLIDIM,91.432,0
+ID000010,Prescriber_9,Regina,S4V,S4V 3A3,Address_9,SK,Cardiology,TRX,202511,GLIDIM,96.819,0
+ID000010,Prescriber_9,Regina,S4V,S4V 3A3,Address_9,SK,Cardiology,TRX,202511,OTHER COMP,41.001,0
+ID000009,Prescriber_8,Schomberg,L0G,L0G 1T0,Address_8,ON,Family Medicine,TRX,202511,GLIDIM,129.635,1
+ID000009,Prescriber_8,Schomberg,L0G,L0G 1T0,Address_8,ON,Family Medicine,TRX,202511,SYNTHGLYPTIN,86.619,1
+ID000009,Prescriber_8,Schomberg,L0G,L0G 1T0,Address_8,ON,Family Medicine,TRX,202511,ADRAVIL,37.009,0
+ID000056,Prescriber_55,Hamilton,L8N,L8N 4A6,Address_55,ON,Internal Medicine,TRX,202511,ALL OTHERS,149.944,0
+ID000118,Prescriber_117,Nepean,K2J,K2J 3R2,Address_117,ON,Family Medicine,TRX,202511,PLOMAX,104.719,1
+ID000261,Prescriber_260,Gatineau,J9A,J9A 1K7,Address_260,QC,Psychiatry,TRX,202511,INSUZA,104.702,0
+ID000214,Prescriber_213,Quebec,G1R,G1R 2J6,Address_213,QC,Nephrology,TRX,202511,DIABETES,106.815,0
+ID000214,Prescriber_213,Quebec,G1R,G1R 2J6,Address_213,QC,Nephrology,TRX,202511,GLIDIM,72.399,0
+ID000199,Prescriber_198,Greenfield Park,J4V,J4V 2G9,Address_198,QC,Family Medicine,TRX,202511,PLOMAX,140.56,0
+ID000199,Prescriber_198,Greenfield Park,J4V,J4V 2G9,Address_198,QC,Family Medicine,TRX,202511,ALL OTHERS,68.059,0
+ID000250,Prescriber_249,Cambridge,N1R,N1R 3E5,Address_249,ON,Family Medicine,TRX,202511,PROZALAN D,201.35,1
+ID000248,Prescriber_247,Montreal,H2X,H2X 0A9,Address_247,QC,Neurology,TRX,202511,GLIDIM,217.338,0
+ID000152,Prescriber_151,Saint-Eustache,J7R,J7R 0C8,Address_151,QC,Internal Medicine,TRX,202511,GLIDIM,149.25,0
+ID000152,Prescriber_151,Saint-Eustache,J7R,J7R 0C8,Address_151,QC,Internal Medicine,TRX,202511,ALL OTHERS,108.731,1
+ID000152,Prescriber_151,Saint-Eustache,J7R,J7R 0C8,Address_151,QC,Internal Medicine,TRX,202511,DIABETES,179.543,0
+ID000135,Prescriber_134,Burlington,L7R,L7R 3M8,Address_134,ON,Family Medicine,TRX,202511,GLIDIM,103.225,0
+ID000135,Prescriber_134,Burlington,L7R,L7R 3M8,Address_134,ON,Family Medicine,TRX,202511,DIABETES,27.183,0
+ID000127,Prescriber_126,Brampton,L6R,L6R 3J7,Address_126,ON,Cardiology,TRX,202511,GLIDIM,81.874,1
+ID000127,Prescriber_126,Brampton,L6R,L6R 3J7,Address_126,ON,Cardiology,TRX,202511,ADRAVIL,49.168,0
+ID000123,Prescriber_122,Hamilton,L8P,L8P 1A1,Address_122,ON,Family Medicine,TRX,202511,DIABETES,78.145,1
+ID000152,Prescriber_151,Saint-Eustache,J7R,J7R 0C8,Address_151,QC,Internal Medicine,TRX,202511,ALL OTHERS,63.499,0
+ID000185,Prescriber_184,Oakville,L6H,L6H 7G9,Address_184,ON,Nephrology,TRX,202511,ALL OTHERS,66.431,0
+ID000185,Prescriber_184,Oakville,L6H,L6H 7G9,Address_184,ON,Nephrology,TRX,202511,OTHER COMP,122.429,0
+ID000319,Prescriber_318,Chicoutimi,G7H,G7H 6B9,Address_318,QC,Family Medicine,TRX,202512,PROZALAN D,78.889,1
+ID000322,Prescriber_321,Bedford,J0J,J0J 1A0,Address_321,QC,Family Medicine,TRX,202512,TRETONIN,66.45,1
+ID000312,Prescriber_311,Saint-Bruno,J3V,J3V 1Y8,Address_311,QC,Family Medicine,TRX,202512,PLOMAX,112.985,1
+ID000310,Prescriber_309,Saint-Hubert,J3Y,J3Y 8Z4,Address_309,QC,Medical Internship,TRX,202512,PLOMAX,122.384,0
+ID000310,Prescriber_309,Saint-Hubert,J3Y,J3Y 8Z4,Address_309,QC,Medical Internship,TRX,202512,GLIDIM,264.98,0
+ID000312,Prescriber_311,Saint-Bruno,J3V,J3V 1Y8,Address_311,QC,Family Medicine,TRX,202512,INSUZA,91.531,1
+ID000370,Prescriber_369,Terrebonne,J6W,J6W 1T8,Address_369,QC,Family Medicine,TRX,202512,GLIDIM,112.272,0
+ID000360,Prescriber_359,Chicoutimi,G7H,G7H 1P6,Address_359,QC,Family Medicine,TRX,202512,ALL OTHERS,63.676,0
+ID000340,Prescriber_339,Terrebonne,J6X,J6X 4L9,Address_339,QC,Family Medicine,TRX,202512,ADRAVIL,124.483,0
+ID000340,Prescriber_339,Terrebonne,J6X,J6X 4L9,Address_339,QC,Family Medicine,TRX,202512,GLIDIM,167.552,0
+ID000261,Prescriber_260,Gatineau,J9A,J9A 1K7,Address_260,QC,Psychiatry,TRX,202512,OTHER COMP,175.967,1
+ID000261,Prescriber_260,Gatineau,J9A,J9A 1K7,Address_260,QC,Psychiatry,TRX,202512,TRETONIN,187.183,1
+ID000259,Prescriber_258,Shawinigan,G9N,G9N 0C8,Address_258,QC,Family Medicine,TRX,202512,PROZALAN D,144.451,0
+ID000251,Prescriber_250,Windsor,N9A,N9A 1E1,Address_250,ON,Endocrinology & Metabolism,TRX,202512,GLIDIM,160.789,0
+ID000250,Prescriber_249,Cambridge,N1R,N1R 3E5,Address_249,ON,Family Medicine,TRX,202512,ALL OTHERS,220.646,0
+ID000250,Prescriber_249,Cambridge,N1R,N1R 3E5,Address_249,ON,Family Medicine,TRX,202512,OTHER COMP,46.272,0
+ID000262,Prescriber_261,Saskatoon,S7N,S7N 0W8,Address_261,SK,Pediatrics,TRX,202512,SYNTHGLYPTIN,86.029,0
+ID000250,Prescriber_249,Cambridge,N1R,N1R 3E5,Address_249,ON,Family Medicine,TRX,202512,ALL OTHERS,100.563,0
+ID000248,Prescriber_247,Montreal,H2X,H2X 0A9,Address_247,QC,Neurology,TRX,202512,GLIDIM,130.333,0
+ID000248,Prescriber_247,Montreal,H2X,H2X 0A9,Address_247,QC,Neurology,TRX,202512,SYNTHGLYPTIN,46.001,0
+ID000263,Prescriber_262,Lloydminster,T9V,T9V 2P7,Address_262,AB,Family Medicine,TRX,202512,ALL OTHERS,103.505,0
+ID000290,Prescriber_289,Trois-Rivieres,G8T,G8T 7A6,Address_289,QC,Family Medicine,TRX,202512,SYNTHGLYPTIN,148.755,0
+ID000263,Prescriber_262,Lloydminster,T9V,T9V 2P7,Address_262,AB,Family Medicine,TRX,202512,SYNTHGLYPTIN,89.585,1
+ID000470,Prescriber_469,Midland,L4R,L4R 4P4,Address_469,ON,Family Medicine,TRX,202512,ALL OTHERS,130.103,0
+ID000470,Prescriber_469,Midland,L4R,L4R 4P4,Address_469,ON,Family Medicine,TRX,202512,GLIDIM,91.506,0
+ID000455,Prescriber_454,Guelph,N1H,N1H 4J4,Address_454,ON,Family Medicine,TRX,202512,SYNTHGLYPTIN,99.656,1
+ID000451,Prescriber_450,Calgary,T2R,T2R 0X7,Address_450,AB,Family Medicine,TRX,202512,ALL OTHERS,46.599,0
+ID000451,Prescriber_450,Calgary,T2R,T2R 0X7,Address_450,AB,Family Medicine,TRX,202512,INSUZA,51.91,0
+ID000451,Prescriber_450,Calgary,T2R,T2R 0X7,Address_450,AB,Family Medicine,TRX,202512,ALL OTHERS,185.043,0
+ID000449,Prescriber_448,Trois-Rivieres,G8Z,G8Z 3R8,Address_448,QC,Family Medicine,TRX,202512,INSUZA,193.111,1
+ID000447,Prescriber_446,Mississauga,L5V,L5V 1N3,Address_446,ON,Family Medicine,TRX,202512,SYNTHGLYPTIN,168.651,0
+ID000440,Prescriber_439,Richmond Hill,L4B,L4B 0E6,Address_439,ON,Family Medicine,TRX,202512,TRETONIN,123.968,0
+ID000440,Prescriber_439,Richmond Hill,L4B,L4B 0E6,Address_439,ON,Family Medicine,TRX,202512,OTHER COMP,65.658,0
+ID000488,Prescriber_487,Fredericton,E3B,E3B 3B7,Address_487,NB,Anesthesiology,TRX,202512,ADRAVIL,171.075,0
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202512,ADRAVIL,161.966,0
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202512,PLOMAX,69.315,1
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202512,OTHER COMP,88.703,0
+ID000482,Prescriber_481,Oakville,L6M,L6M 1M1,Address_481,ON,Endocrinology & Metabolism,TRX,202512,INSUZA,57.569,0
+ID000482,Prescriber_481,Oakville,L6M,L6M 1M1,Address_481,ON,Endocrinology & Metabolism,TRX,202512,GLIDIM,166.042,1
+ID000394,Prescriber_393,Baie-Comeau,G4Z,G4Z 1K3,Address_393,QC,Family Medicine,TRX,202512,ALL OTHERS,71.762,0
+ID000394,Prescriber_393,Baie-Comeau,G4Z,G4Z 1K3,Address_393,QC,Family Medicine,TRX,202512,ALL OTHERS,136.194,1
+ID000389,Prescriber_388,Edmonton,T5Y,T5Y 4E1,Address_388,AB,Family Medicine,TRX,202512,PLOMAX,79.835,0
+ID000401,Prescriber_400,Trenton,K8V,K8V 3S1,Address_400,ON,Family Medicine,TRX,202512,SYNTHGLYPTIN,126.489,0
+ID000437,Prescriber_436,Huntsville,P1H,P1H 1H8,Address_436,ON,General Practice,TRX,202512,PLOMAX,72.5,0
+ID000058,Prescriber_57,Salaberry-De-Valleyfield,J6T,J6T 6C1,Address_57,QC,Internal Medicine,TRX,202512,ALL OTHERS,104.065,1
+ID000056,Prescriber_55,Hamilton,L8N,L8N 4A6,Address_55,ON,Internal Medicine,TRX,202512,DIABETES,76.158,1
+ID000109,Prescriber_108,Edmonton,T6J,T6J 7K1,Address_108,AB,Family Medicine,TRX,202512,SYNTHGLYPTIN,95.284,0
+ID000106,Prescriber_105,Brampton,L6R,L6R 3S9,Address_105,ON,Family Medicine,TRX,202512,SYNTHGLYPTIN,143.727,0
+ID000103,Prescriber_102,Gatineau,J8Y,J8Y 3B5,Address_102,QC,Family Medicine,TRX,202512,INSUZA,146.246,0
+ID000103,Prescriber_102,Gatineau,J8Y,J8Y 3B5,Address_102,QC,Family Medicine,TRX,202512,ALL OTHERS,79.901,1
+ID000099,Prescriber_98,Toronto,M7A,M7A 1B3,Address_98,ON,Family Medicine,TRX,202512,PLOMAX,175.606,0
+ID000098,Prescriber_97,Whitby,L1N,L1N 2L1,Address_97,ON,Family Medicine,TRX,202512,ADRAVIL,60.79,0
+ID000087,Prescriber_86,Pickering,L1V,L1V 6R6,Address_86,ON,Dermatology,TRX,202512,ADRAVIL,136.328,1
+ID000084,Prescriber_83,Guelph,N1H,N1H 6H9,Address_83,ON,Family Medicine,TRX,202512,GLIDIM,97.178,0
+ID000010,Prescriber_9,Regina,S4V,S4V 3A3,Address_9,SK,Cardiology,TRX,202512,ADRAVIL,162.4,0
+ID000009,Prescriber_8,Schomberg,L0G,L0G 1T0,Address_8,ON,Family Medicine,TRX,202512,PLOMAX,109.813,0
+ID000109,Prescriber_108,Edmonton,T6J,T6J 7K1,Address_108,AB,Family Medicine,TRX,202512,DIABETES,84.834,0
+ID000031,Prescriber_30,Mississauga,L4Y,L4Y 2N8,Address_30,ON,Family Medicine,TRX,202512,SYNTHGLYPTIN,32.679,0
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202512,DIABETES,43.151,1
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202512,OTHER COMP,30.56,0
+ID000180,Prescriber_179,Brampton,L7A,L7A 3E5,Address_179,ON,Family Medicine,TRX,202512,PLOMAX,28.99,1
+ID000180,Prescriber_179,Brampton,L7A,L7A 3E5,Address_179,ON,Family Medicine,TRX,202512,GLIDIM,98.707,1
+ID000199,Prescriber_198,Greenfield Park,J4V,J4V 2G9,Address_198,QC,Family Medicine,TRX,202512,ALL OTHERS,60.759,0
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202512,SYNTHGLYPTIN,134.458,0
+ID000216,Prescriber_215,Val-D'or,J9P,J9P 3Y1,Address_215,QC,Family Medicine,TRX,202512,ALL OTHERS,191.192,0
+ID000216,Prescriber_215,Val-D'or,J9P,J9P 3Y1,Address_215,QC,Family Medicine,TRX,202512,TRETONIN,101.173,1
+ID000176,Prescriber_175,Atikokan,P0T,P0T 1C0,Address_175,ON,General Practice,TRX,202512,SYNTHGLYPTIN,144.451,0
+ID000214,Prescriber_213,Quebec,G1R,G1R 2J6,Address_213,QC,Nephrology,TRX,202512,GLIDIM,101.774,0
+ID000214,Prescriber_213,Quebec,G1R,G1R 2J6,Address_213,QC,Nephrology,TRX,202512,SYNTHGLYPTIN,117.055,1
+ID000168,Prescriber_167,Stittsville,K2S,K2S 1B1,Address_167,ON,Family Medicine,TRX,202512,SYNTHGLYPTIN,113.122,0
+ID000127,Prescriber_126,Brampton,L6R,L6R 3J7,Address_126,ON,Cardiology,TRX,202512,GLIDIM,88.84,1
+ID000124,Prescriber_123,Saint-Lambert,J4R,J4R 2L1,Address_123,QC,General Practice,TRX,202512,ALL OTHERS,95.403,1
+ID000123,Prescriber_122,Hamilton,L8P,L8P 1A1,Address_122,ON,Family Medicine,TRX,202512,TRETONIN,104.692,0
+ID000118,Prescriber_117,Nepean,K2J,K2J 3R2,Address_117,ON,Family Medicine,TRX,202512,INSUZA,62.384,0
+ID000118,Prescriber_117,Nepean,K2J,K2J 3R2,Address_117,ON,Family Medicine,TRX,202512,OTHER COMP,92.456,1
+ID000117,Prescriber_116,Scarborough,M1R,M1R 0B1,Address_116,ON,Family Medicine,TRX,202512,INSUZA,96.864,0
+ID000116,Prescriber_115,Whitecourt,T7S,T7S 1P9,Address_115,AB,Family Medicine,TRX,202512,GLIDIM,61.643,0
+ID000116,Prescriber_115,Whitecourt,T7S,T7S 1P9,Address_115,AB,Family Medicine,TRX,202512,DIABETES,64.734,0
+ID000123,Prescriber_122,Hamilton,L8P,L8P 1A1,Address_122,ON,Family Medicine,TRX,202512,OTHER COMP,132.862,1
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202512,DIABETES,44.783,1
+ID000168,Prescriber_167,Stittsville,K2S,K2S 1B1,Address_167,ON,Family Medicine,TRX,202512,DIABETES,29.802,0
+ID000322,Prescriber_321,Bedford,J0J,J0J 1A0,Address_321,QC,Family Medicine,TRX,202601,TRETONIN,66.45,1
+ID000319,Prescriber_318,Chicoutimi,G7H,G7H 6B9,Address_318,QC,Family Medicine,TRX,202601,PROZALAN D,78.889,1
+ID000312,Prescriber_311,Saint-Bruno,J3V,J3V 1Y8,Address_311,QC,Family Medicine,TRX,202601,INSUZA,91.531,1
+ID000312,Prescriber_311,Saint-Bruno,J3V,J3V 1Y8,Address_311,QC,Family Medicine,TRX,202601,PLOMAX,112.985,1
+ID000310,Prescriber_309,Saint-Hubert,J3Y,J3Y 8Z4,Address_309,QC,Medical Internship,TRX,202601,PLOMAX,122.384,0
+ID000310,Prescriber_309,Saint-Hubert,J3Y,J3Y 8Z4,Address_309,QC,Medical Internship,TRX,202601,GLIDIM,264.98,0
+ID000370,Prescriber_369,Terrebonne,J6W,J6W 1T8,Address_369,QC,Family Medicine,TRX,202601,GLIDIM,112.272,0
+ID000360,Prescriber_359,Chicoutimi,G7H,G7H 1P6,Address_359,QC,Family Medicine,TRX,202601,ALL OTHERS,63.676,0
+ID000340,Prescriber_339,Terrebonne,J6X,J6X 4L9,Address_339,QC,Family Medicine,TRX,202601,ADRAVIL,124.483,0
+ID000340,Prescriber_339,Terrebonne,J6X,J6X 4L9,Address_339,QC,Family Medicine,TRX,202601,GLIDIM,167.552,0
+ID000261,Prescriber_260,Gatineau,J9A,J9A 1K7,Address_260,QC,Psychiatry,TRX,202601,TRETONIN,187.183,1
+ID000259,Prescriber_258,Shawinigan,G9N,G9N 0C8,Address_258,QC,Family Medicine,TRX,202601,PROZALAN D,144.451,0
+ID000251,Prescriber_250,Windsor,N9A,N9A 1E1,Address_250,ON,Endocrinology & Metabolism,TRX,202601,GLIDIM,160.789,0
+ID000250,Prescriber_249,Cambridge,N1R,N1R 3E5,Address_249,ON,Family Medicine,TRX,202601,ALL OTHERS,220.646,0
+ID000250,Prescriber_249,Cambridge,N1R,N1R 3E5,Address_249,ON,Family Medicine,TRX,202601,OTHER COMP,46.272,0
+ID000250,Prescriber_249,Cambridge,N1R,N1R 3E5,Address_249,ON,Family Medicine,TRX,202601,ALL OTHERS,100.563,0
+ID000248,Prescriber_247,Montreal,H2X,H2X 0A9,Address_247,QC,Neurology,TRX,202601,GLIDIM,130.333,0
+ID000248,Prescriber_247,Montreal,H2X,H2X 0A9,Address_247,QC,Neurology,TRX,202601,SYNTHGLYPTIN,46.001,0
+ID000261,Prescriber_260,Gatineau,J9A,J9A 1K7,Address_260,QC,Psychiatry,TRX,202601,OTHER COMP,175.967,1
+ID000262,Prescriber_261,Saskatoon,S7N,S7N 0W8,Address_261,SK,Pediatrics,TRX,202601,SYNTHGLYPTIN,86.029,0
+ID000263,Prescriber_262,Lloydminster,T9V,T9V 2P7,Address_262,AB,Family Medicine,TRX,202601,ALL OTHERS,103.505,0
+ID000263,Prescriber_262,Lloydminster,T9V,T9V 2P7,Address_262,AB,Family Medicine,TRX,202601,SYNTHGLYPTIN,89.585,1
+ID000290,Prescriber_289,Trois-Rivieres,G8T,G8T 7A6,Address_289,QC,Family Medicine,TRX,202601,SYNTHGLYPTIN,148.755,0
+ID000470,Prescriber_469,Midland,L4R,L4R 4P4,Address_469,ON,Family Medicine,TRX,202601,GLIDIM,91.506,0
+ID000455,Prescriber_454,Guelph,N1H,N1H 4J4,Address_454,ON,Family Medicine,TRX,202601,SYNTHGLYPTIN,99.656,1
+ID000451,Prescriber_450,Calgary,T2R,T2R 0X7,Address_450,AB,Family Medicine,TRX,202601,ALL OTHERS,46.599,0
+ID000451,Prescriber_450,Calgary,T2R,T2R 0X7,Address_450,AB,Family Medicine,TRX,202601,INSUZA,51.91,0
+ID000451,Prescriber_450,Calgary,T2R,T2R 0X7,Address_450,AB,Family Medicine,TRX,202601,ALL OTHERS,185.043,0
+ID000449,Prescriber_448,Trois-Rivieres,G8Z,G8Z 3R8,Address_448,QC,Family Medicine,TRX,202601,INSUZA,193.111,1
+ID000447,Prescriber_446,Mississauga,L5V,L5V 1N3,Address_446,ON,Family Medicine,TRX,202601,SYNTHGLYPTIN,168.651,0
+ID000440,Prescriber_439,Richmond Hill,L4B,L4B 0E6,Address_439,ON,Family Medicine,TRX,202601,TRETONIN,123.968,0
+ID000440,Prescriber_439,Richmond Hill,L4B,L4B 0E6,Address_439,ON,Family Medicine,TRX,202601,OTHER COMP,65.658,0
+ID000470,Prescriber_469,Midland,L4R,L4R 4P4,Address_469,ON,Family Medicine,TRX,202601,ALL OTHERS,130.103,0
+ID000488,Prescriber_487,Fredericton,E3B,E3B 3B7,Address_487,NB,Anesthesiology,TRX,202601,ADRAVIL,171.075,0
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202601,ADRAVIL,161.966,0
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202601,PLOMAX,69.315,1
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202601,OTHER COMP,88.703,0
+ID000482,Prescriber_481,Oakville,L6M,L6M 1M1,Address_481,ON,Endocrinology & Metabolism,TRX,202601,INSUZA,57.569,0
+ID000482,Prescriber_481,Oakville,L6M,L6M 1M1,Address_481,ON,Endocrinology & Metabolism,TRX,202601,GLIDIM,166.042,1
+ID000437,Prescriber_436,Huntsville,P1H,P1H 1H8,Address_436,ON,General Practice,TRX,202601,PLOMAX,72.5,0
+ID000394,Prescriber_393,Baie-Comeau,G4Z,G4Z 1K3,Address_393,QC,Family Medicine,TRX,202601,ALL OTHERS,71.762,0
+ID000394,Prescriber_393,Baie-Comeau,G4Z,G4Z 1K3,Address_393,QC,Family Medicine,TRX,202601,ALL OTHERS,136.194,1
+ID000389,Prescriber_388,Edmonton,T5Y,T5Y 4E1,Address_388,AB,Family Medicine,TRX,202601,PLOMAX,79.835,0
+ID000401,Prescriber_400,Trenton,K8V,K8V 3S1,Address_400,ON,Family Medicine,TRX,202601,SYNTHGLYPTIN,126.489,0
+ID000058,Prescriber_57,Salaberry-De-Valleyfield,J6T,J6T 6C1,Address_57,QC,Internal Medicine,TRX,202601,ALL OTHERS,104.065,1
+ID000056,Prescriber_55,Hamilton,L8N,L8N 4A6,Address_55,ON,Internal Medicine,TRX,202601,DIABETES,76.158,1
+ID000109,Prescriber_108,Edmonton,T6J,T6J 7K1,Address_108,AB,Family Medicine,TRX,202601,DIABETES,84.834,0
+ID000109,Prescriber_108,Edmonton,T6J,T6J 7K1,Address_108,AB,Family Medicine,TRX,202601,SYNTHGLYPTIN,95.284,0
+ID000106,Prescriber_105,Brampton,L6R,L6R 3S9,Address_105,ON,Family Medicine,TRX,202601,SYNTHGLYPTIN,143.727,0
+ID000103,Prescriber_102,Gatineau,J8Y,J8Y 3B5,Address_102,QC,Family Medicine,TRX,202601,INSUZA,146.246,0
+ID000103,Prescriber_102,Gatineau,J8Y,J8Y 3B5,Address_102,QC,Family Medicine,TRX,202601,ALL OTHERS,79.901,1
+ID000099,Prescriber_98,Toronto,M7A,M7A 1B3,Address_98,ON,Family Medicine,TRX,202601,PLOMAX,175.606,0
+ID000098,Prescriber_97,Whitby,L1N,L1N 2L1,Address_97,ON,Family Medicine,TRX,202601,ADRAVIL,60.79,0
+ID000087,Prescriber_86,Pickering,L1V,L1V 6R6,Address_86,ON,Dermatology,TRX,202601,ADRAVIL,136.328,1
+ID000084,Prescriber_83,Guelph,N1H,N1H 6H9,Address_83,ON,Family Medicine,TRX,202601,GLIDIM,97.178,0
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202601,DIABETES,43.151,1
+ID000010,Prescriber_9,Regina,S4V,S4V 3A3,Address_9,SK,Cardiology,TRX,202601,ADRAVIL,162.4,0
+ID000009,Prescriber_8,Schomberg,L0G,L0G 1T0,Address_8,ON,Family Medicine,TRX,202601,PLOMAX,109.813,0
+ID000031,Prescriber_30,Mississauga,L4Y,L4Y 2N8,Address_30,ON,Family Medicine,TRX,202601,SYNTHGLYPTIN,32.679,0
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202601,SYNTHGLYPTIN,134.458,0
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202601,DIABETES,44.783,1
+ID000199,Prescriber_198,Greenfield Park,J4V,J4V 2G9,Address_198,QC,Family Medicine,TRX,202601,ALL OTHERS,60.759,0
+ID000180,Prescriber_179,Brampton,L7A,L7A 3E5,Address_179,ON,Family Medicine,TRX,202601,PLOMAX,28.99,1
+ID000180,Prescriber_179,Brampton,L7A,L7A 3E5,Address_179,ON,Family Medicine,TRX,202601,GLIDIM,98.707,1
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202601,OTHER COMP,30.56,0
+ID000216,Prescriber_215,Val-D'or,J9P,J9P 3Y1,Address_215,QC,Family Medicine,TRX,202601,ALL OTHERS,191.192,0
+ID000214,Prescriber_213,Quebec,G1R,G1R 2J6,Address_213,QC,Nephrology,TRX,202601,SYNTHGLYPTIN,117.055,1
+ID000214,Prescriber_213,Quebec,G1R,G1R 2J6,Address_213,QC,Nephrology,TRX,202601,GLIDIM,101.774,0
+ID000216,Prescriber_215,Val-D'or,J9P,J9P 3Y1,Address_215,QC,Family Medicine,TRX,202601,TRETONIN,101.173,1
+ID000176,Prescriber_175,Atikokan,P0T,P0T 1C0,Address_175,ON,General Practice,TRX,202601,SYNTHGLYPTIN,144.451,0
+ID000127,Prescriber_126,Brampton,L6R,L6R 3J7,Address_126,ON,Cardiology,TRX,202601,GLIDIM,88.84,1
+ID000124,Prescriber_123,Saint-Lambert,J4R,J4R 2L1,Address_123,QC,General Practice,TRX,202601,ALL OTHERS,95.403,1
+ID000123,Prescriber_122,Hamilton,L8P,L8P 1A1,Address_122,ON,Family Medicine,TRX,202601,OTHER COMP,132.862,1
+ID000123,Prescriber_122,Hamilton,L8P,L8P 1A1,Address_122,ON,Family Medicine,TRX,202601,TRETONIN,104.692,0
+ID000118,Prescriber_117,Nepean,K2J,K2J 3R2,Address_117,ON,Family Medicine,TRX,202601,INSUZA,62.384,0
+ID000118,Prescriber_117,Nepean,K2J,K2J 3R2,Address_117,ON,Family Medicine,TRX,202601,OTHER COMP,92.456,1
+ID000117,Prescriber_116,Scarborough,M1R,M1R 0B1,Address_116,ON,Family Medicine,TRX,202601,INSUZA,96.864,0
+ID000116,Prescriber_115,Whitecourt,T7S,T7S 1P9,Address_115,AB,Family Medicine,TRX,202601,GLIDIM,61.643,0
+ID000116,Prescriber_115,Whitecourt,T7S,T7S 1P9,Address_115,AB,Family Medicine,TRX,202601,DIABETES,64.734,0
+ID000168,Prescriber_167,Stittsville,K2S,K2S 1B1,Address_167,ON,Family Medicine,TRX,202601,SYNTHGLYPTIN,113.122,0
+ID000168,Prescriber_167,Stittsville,K2S,K2S 1B1,Address_167,ON,Family Medicine,TRX,202601,DIABETES,29.802,0
+ID000319,Prescriber_318,Chicoutimi,G7H,G7H 6B9,Address_318,QC,Family Medicine,TRX,202602,PROZALAN D,78.889,1
+ID000322,Prescriber_321,Bedford,J0J,J0J 1A0,Address_321,QC,Family Medicine,TRX,202602,TRETONIN,66.45,1
+ID000312,Prescriber_311,Saint-Bruno,J3V,J3V 1Y8,Address_311,QC,Family Medicine,TRX,202602,PLOMAX,112.985,1
+ID000310,Prescriber_309,Saint-Hubert,J3Y,J3Y 8Z4,Address_309,QC,Medical Internship,TRX,202602,PLOMAX,122.384,0
+ID000310,Prescriber_309,Saint-Hubert,J3Y,J3Y 8Z4,Address_309,QC,Medical Internship,TRX,202602,GLIDIM,264.98,0
+ID000312,Prescriber_311,Saint-Bruno,J3V,J3V 1Y8,Address_311,QC,Family Medicine,TRX,202602,INSUZA,91.531,1
+ID000370,Prescriber_369,Terrebonne,J6W,J6W 1T8,Address_369,QC,Family Medicine,TRX,202602,GLIDIM,112.272,0
+ID000360,Prescriber_359,Chicoutimi,G7H,G7H 1P6,Address_359,QC,Family Medicine,TRX,202602,ALL OTHERS,63.676,0
+ID000340,Prescriber_339,Terrebonne,J6X,J6X 4L9,Address_339,QC,Family Medicine,TRX,202602,ADRAVIL,124.483,0
+ID000340,Prescriber_339,Terrebonne,J6X,J6X 4L9,Address_339,QC,Family Medicine,TRX,202602,GLIDIM,167.552,0
+ID000261,Prescriber_260,Gatineau,J9A,J9A 1K7,Address_260,QC,Psychiatry,TRX,202602,OTHER COMP,175.967,1
+ID000261,Prescriber_260,Gatineau,J9A,J9A 1K7,Address_260,QC,Psychiatry,TRX,202602,TRETONIN,187.183,1
+ID000259,Prescriber_258,Shawinigan,G9N,G9N 0C8,Address_258,QC,Family Medicine,TRX,202602,PROZALAN D,144.451,0
+ID000251,Prescriber_250,Windsor,N9A,N9A 1E1,Address_250,ON,Endocrinology & Metabolism,TRX,202602,GLIDIM,160.789,0
+ID000250,Prescriber_249,Cambridge,N1R,N1R 3E5,Address_249,ON,Family Medicine,TRX,202602,ALL OTHERS,220.646,0
+ID000250,Prescriber_249,Cambridge,N1R,N1R 3E5,Address_249,ON,Family Medicine,TRX,202602,OTHER COMP,46.272,0
+ID000250,Prescriber_249,Cambridge,N1R,N1R 3E5,Address_249,ON,Family Medicine,TRX,202602,ALL OTHERS,100.563,0
+ID000248,Prescriber_247,Montreal,H2X,H2X 0A9,Address_247,QC,Neurology,TRX,202602,GLIDIM,130.333,0
+ID000248,Prescriber_247,Montreal,H2X,H2X 0A9,Address_247,QC,Neurology,TRX,202602,SYNTHGLYPTIN,46.001,0
+ID000262,Prescriber_261,Saskatoon,S7N,S7N 0W8,Address_261,SK,Pediatrics,TRX,202602,SYNTHGLYPTIN,86.029,0
+ID000263,Prescriber_262,Lloydminster,T9V,T9V 2P7,Address_262,AB,Family Medicine,TRX,202602,ALL OTHERS,103.505,0
+ID000263,Prescriber_262,Lloydminster,T9V,T9V 2P7,Address_262,AB,Family Medicine,TRX,202602,SYNTHGLYPTIN,89.585,1
+ID000290,Prescriber_289,Trois-Rivieres,G8T,G8T 7A6,Address_289,QC,Family Medicine,TRX,202602,SYNTHGLYPTIN,148.755,0
+ID000470,Prescriber_469,Midland,L4R,L4R 4P4,Address_469,ON,Family Medicine,TRX,202602,ALL OTHERS,130.103,0
+ID000470,Prescriber_469,Midland,L4R,L4R 4P4,Address_469,ON,Family Medicine,TRX,202602,GLIDIM,91.506,0
+ID000455,Prescriber_454,Guelph,N1H,N1H 4J4,Address_454,ON,Family Medicine,TRX,202602,SYNTHGLYPTIN,99.656,1
+ID000451,Prescriber_450,Calgary,T2R,T2R 0X7,Address_450,AB,Family Medicine,TRX,202602,ALL OTHERS,46.599,0
+ID000451,Prescriber_450,Calgary,T2R,T2R 0X7,Address_450,AB,Family Medicine,TRX,202602,INSUZA,51.91,0
+ID000451,Prescriber_450,Calgary,T2R,T2R 0X7,Address_450,AB,Family Medicine,TRX,202602,ALL OTHERS,185.043,0
+ID000449,Prescriber_448,Trois-Rivieres,G8Z,G8Z 3R8,Address_448,QC,Family Medicine,TRX,202602,INSUZA,193.111,1
+ID000447,Prescriber_446,Mississauga,L5V,L5V 1N3,Address_446,ON,Family Medicine,TRX,202602,SYNTHGLYPTIN,168.651,0
+ID000440,Prescriber_439,Richmond Hill,L4B,L4B 0E6,Address_439,ON,Family Medicine,TRX,202602,TRETONIN,123.968,0
+ID000440,Prescriber_439,Richmond Hill,L4B,L4B 0E6,Address_439,ON,Family Medicine,TRX,202602,OTHER COMP,65.658,0
+ID000488,Prescriber_487,Fredericton,E3B,E3B 3B7,Address_487,NB,Anesthesiology,TRX,202602,ADRAVIL,171.075,0
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202602,ADRAVIL,161.966,0
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202602,PLOMAX,69.315,1
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202602,OTHER COMP,88.703,0
+ID000482,Prescriber_481,Oakville,L6M,L6M 1M1,Address_481,ON,Endocrinology & Metabolism,TRX,202602,INSUZA,57.569,0
+ID000482,Prescriber_481,Oakville,L6M,L6M 1M1,Address_481,ON,Endocrinology & Metabolism,TRX,202602,GLIDIM,166.042,1
+ID000394,Prescriber_393,Baie-Comeau,G4Z,G4Z 1K3,Address_393,QC,Family Medicine,TRX,202602,ALL OTHERS,71.762,0
+ID000394,Prescriber_393,Baie-Comeau,G4Z,G4Z 1K3,Address_393,QC,Family Medicine,TRX,202602,ALL OTHERS,136.194,1
+ID000389,Prescriber_388,Edmonton,T5Y,T5Y 4E1,Address_388,AB,Family Medicine,TRX,202602,PLOMAX,79.835,0
+ID000401,Prescriber_400,Trenton,K8V,K8V 3S1,Address_400,ON,Family Medicine,TRX,202602,SYNTHGLYPTIN,126.489,0
+ID000437,Prescriber_436,Huntsville,P1H,P1H 1H8,Address_436,ON,General Practice,TRX,202602,PLOMAX,72.5,0
+ID000058,Prescriber_57,Salaberry-De-Valleyfield,J6T,J6T 6C1,Address_57,QC,Internal Medicine,TRX,202602,ALL OTHERS,104.065,1
+ID000056,Prescriber_55,Hamilton,L8N,L8N 4A6,Address_55,ON,Internal Medicine,TRX,202602,DIABETES,76.158,1
+ID000109,Prescriber_108,Edmonton,T6J,T6J 7K1,Address_108,AB,Family Medicine,TRX,202602,DIABETES,84.834,0
+ID000109,Prescriber_108,Edmonton,T6J,T6J 7K1,Address_108,AB,Family Medicine,TRX,202602,SYNTHGLYPTIN,95.284,0
+ID000106,Prescriber_105,Brampton,L6R,L6R 3S9,Address_105,ON,Family Medicine,TRX,202602,SYNTHGLYPTIN,143.727,0
+ID000103,Prescriber_102,Gatineau,J8Y,J8Y 3B5,Address_102,QC,Family Medicine,TRX,202602,INSUZA,146.246,0
+ID000103,Prescriber_102,Gatineau,J8Y,J8Y 3B5,Address_102,QC,Family Medicine,TRX,202602,ALL OTHERS,79.901,1
+ID000099,Prescriber_98,Toronto,M7A,M7A 1B3,Address_98,ON,Family Medicine,TRX,202602,PLOMAX,175.606,0
+ID000098,Prescriber_97,Whitby,L1N,L1N 2L1,Address_97,ON,Family Medicine,TRX,202602,ADRAVIL,60.79,0
+ID000087,Prescriber_86,Pickering,L1V,L1V 6R6,Address_86,ON,Dermatology,TRX,202602,ADRAVIL,136.328,1
+ID000084,Prescriber_83,Guelph,N1H,N1H 6H9,Address_83,ON,Family Medicine,TRX,202602,GLIDIM,97.178,0
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202602,DIABETES,43.151,1
+ID000010,Prescriber_9,Regina,S4V,S4V 3A3,Address_9,SK,Cardiology,TRX,202602,ADRAVIL,162.4,0
+ID000009,Prescriber_8,Schomberg,L0G,L0G 1T0,Address_8,ON,Family Medicine,TRX,202602,PLOMAX,109.813,0
+ID000031,Prescriber_30,Mississauga,L4Y,L4Y 2N8,Address_30,ON,Family Medicine,TRX,202602,SYNTHGLYPTIN,32.679,0
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202602,SYNTHGLYPTIN,134.458,0
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202602,DIABETES,44.783,1
+ID000199,Prescriber_198,Greenfield Park,J4V,J4V 2G9,Address_198,QC,Family Medicine,TRX,202602,ALL OTHERS,60.759,0
+ID000180,Prescriber_179,Brampton,L7A,L7A 3E5,Address_179,ON,Family Medicine,TRX,202602,PLOMAX,28.99,1
+ID000180,Prescriber_179,Brampton,L7A,L7A 3E5,Address_179,ON,Family Medicine,TRX,202602,GLIDIM,98.707,1
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202602,OTHER COMP,30.56,0
+ID000216,Prescriber_215,Val-D'or,J9P,J9P 3Y1,Address_215,QC,Family Medicine,TRX,202602,ALL OTHERS,191.192,0
+ID000216,Prescriber_215,Val-D'or,J9P,J9P 3Y1,Address_215,QC,Family Medicine,TRX,202602,TRETONIN,101.173,1
+ID000214,Prescriber_213,Quebec,G1R,G1R 2J6,Address_213,QC,Nephrology,TRX,202602,SYNTHGLYPTIN,117.055,1
+ID000214,Prescriber_213,Quebec,G1R,G1R 2J6,Address_213,QC,Nephrology,TRX,202602,GLIDIM,101.774,0
+ID000176,Prescriber_175,Atikokan,P0T,P0T 1C0,Address_175,ON,General Practice,TRX,202602,SYNTHGLYPTIN,144.451,0
+ID000127,Prescriber_126,Brampton,L6R,L6R 3J7,Address_126,ON,Cardiology,TRX,202602,GLIDIM,88.84,1
+ID000124,Prescriber_123,Saint-Lambert,J4R,J4R 2L1,Address_123,QC,General Practice,TRX,202602,ALL OTHERS,95.403,1
+ID000123,Prescriber_122,Hamilton,L8P,L8P 1A1,Address_122,ON,Family Medicine,TRX,202602,OTHER COMP,132.862,1
+ID000123,Prescriber_122,Hamilton,L8P,L8P 1A1,Address_122,ON,Family Medicine,TRX,202602,TRETONIN,104.692,0
+ID000118,Prescriber_117,Nepean,K2J,K2J 3R2,Address_117,ON,Family Medicine,TRX,202602,INSUZA,62.384,0
+ID000118,Prescriber_117,Nepean,K2J,K2J 3R2,Address_117,ON,Family Medicine,TRX,202602,OTHER COMP,92.456,1
+ID000117,Prescriber_116,Scarborough,M1R,M1R 0B1,Address_116,ON,Family Medicine,TRX,202602,INSUZA,96.864,0
+ID000116,Prescriber_115,Whitecourt,T7S,T7S 1P9,Address_115,AB,Family Medicine,TRX,202602,GLIDIM,61.643,0
+ID000116,Prescriber_115,Whitecourt,T7S,T7S 1P9,Address_115,AB,Family Medicine,TRX,202602,DIABETES,64.734,0
+ID000168,Prescriber_167,Stittsville,K2S,K2S 1B1,Address_167,ON,Family Medicine,TRX,202602,DIABETES,29.802,0
+ID000168,Prescriber_167,Stittsville,K2S,K2S 1B1,Address_167,ON,Family Medicine,TRX,202602,SYNTHGLYPTIN,113.122,0
+ID000319,Prescriber_318,Chicoutimi,G7H,G7H 6B9,Address_318,QC,Family Medicine,TRX,202603,PROZALAN D,78.889,1
+ID000322,Prescriber_321,Bedford,J0J,J0J 1A0,Address_321,QC,Family Medicine,TRX,202603,TRETONIN,66.45,1
+ID000312,Prescriber_311,Saint-Bruno,J3V,J3V 1Y8,Address_311,QC,Family Medicine,TRX,202603,PLOMAX,112.985,1
+ID000310,Prescriber_309,Saint-Hubert,J3Y,J3Y 8Z4,Address_309,QC,Medical Internship,TRX,202603,PLOMAX,122.384,0
+ID000310,Prescriber_309,Saint-Hubert,J3Y,J3Y 8Z4,Address_309,QC,Medical Internship,TRX,202603,GLIDIM,264.98,0
+ID000312,Prescriber_311,Saint-Bruno,J3V,J3V 1Y8,Address_311,QC,Family Medicine,TRX,202603,INSUZA,91.531,1
+ID000370,Prescriber_369,Terrebonne,J6W,J6W 1T8,Address_369,QC,Family Medicine,TRX,202603,GLIDIM,112.272,0
+ID000360,Prescriber_359,Chicoutimi,G7H,G7H 1P6,Address_359,QC,Family Medicine,TRX,202603,ALL OTHERS,63.676,0
+ID000340,Prescriber_339,Terrebonne,J6X,J6X 4L9,Address_339,QC,Family Medicine,TRX,202603,ADRAVIL,124.483,0
+ID000340,Prescriber_339,Terrebonne,J6X,J6X 4L9,Address_339,QC,Family Medicine,TRX,202603,GLIDIM,167.552,0
+ID000261,Prescriber_260,Gatineau,J9A,J9A 1K7,Address_260,QC,Psychiatry,TRX,202603,OTHER COMP,175.967,1
+ID000261,Prescriber_260,Gatineau,J9A,J9A 1K7,Address_260,QC,Psychiatry,TRX,202603,TRETONIN,187.183,1
+ID000259,Prescriber_258,Shawinigan,G9N,G9N 0C8,Address_258,QC,Family Medicine,TRX,202603,PROZALAN D,144.451,0
+ID000251,Prescriber_250,Windsor,N9A,N9A 1E1,Address_250,ON,Endocrinology & Metabolism,TRX,202603,GLIDIM,160.789,0
+ID000250,Prescriber_249,Cambridge,N1R,N1R 3E5,Address_249,ON,Family Medicine,TRX,202603,ALL OTHERS,220.646,0
+ID000250,Prescriber_249,Cambridge,N1R,N1R 3E5,Address_249,ON,Family Medicine,TRX,202603,OTHER COMP,46.272,0
+ID000262,Prescriber_261,Saskatoon,S7N,S7N 0W8,Address_261,SK,Pediatrics,TRX,202603,SYNTHGLYPTIN,86.029,0
+ID000250,Prescriber_249,Cambridge,N1R,N1R 3E5,Address_249,ON,Family Medicine,TRX,202603,ALL OTHERS,100.563,0
+ID000248,Prescriber_247,Montreal,H2X,H2X 0A9,Address_247,QC,Neurology,TRX,202603,GLIDIM,130.333,0
+ID000248,Prescriber_247,Montreal,H2X,H2X 0A9,Address_247,QC,Neurology,TRX,202603,SYNTHGLYPTIN,46.001,0
+ID000263,Prescriber_262,Lloydminster,T9V,T9V 2P7,Address_262,AB,Family Medicine,TRX,202603,ALL OTHERS,103.505,0
+ID000290,Prescriber_289,Trois-Rivieres,G8T,G8T 7A6,Address_289,QC,Family Medicine,TRX,202603,SYNTHGLYPTIN,148.755,0
+ID000263,Prescriber_262,Lloydminster,T9V,T9V 2P7,Address_262,AB,Family Medicine,TRX,202603,SYNTHGLYPTIN,89.585,1
+ID000470,Prescriber_469,Midland,L4R,L4R 4P4,Address_469,ON,Family Medicine,TRX,202603,ALL OTHERS,130.103,0
+ID000470,Prescriber_469,Midland,L4R,L4R 4P4,Address_469,ON,Family Medicine,TRX,202603,GLIDIM,91.506,0
+ID000455,Prescriber_454,Guelph,N1H,N1H 4J4,Address_454,ON,Family Medicine,TRX,202603,SYNTHGLYPTIN,99.656,1
+ID000451,Prescriber_450,Calgary,T2R,T2R 0X7,Address_450,AB,Family Medicine,TRX,202603,ALL OTHERS,46.599,0
+ID000451,Prescriber_450,Calgary,T2R,T2R 0X7,Address_450,AB,Family Medicine,TRX,202603,INSUZA,51.91,0
+ID000451,Prescriber_450,Calgary,T2R,T2R 0X7,Address_450,AB,Family Medicine,TRX,202603,ALL OTHERS,185.043,0
+ID000449,Prescriber_448,Trois-Rivieres,G8Z,G8Z 3R8,Address_448,QC,Family Medicine,TRX,202603,INSUZA,193.111,1
+ID000447,Prescriber_446,Mississauga,L5V,L5V 1N3,Address_446,ON,Family Medicine,TRX,202603,SYNTHGLYPTIN,168.651,0
+ID000440,Prescriber_439,Richmond Hill,L4B,L4B 0E6,Address_439,ON,Family Medicine,TRX,202603,TRETONIN,123.968,0
+ID000440,Prescriber_439,Richmond Hill,L4B,L4B 0E6,Address_439,ON,Family Medicine,TRX,202603,OTHER COMP,65.658,0
+ID000488,Prescriber_487,Fredericton,E3B,E3B 3B7,Address_487,NB,Anesthesiology,TRX,202603,ADRAVIL,171.075,0
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202603,ADRAVIL,161.966,0
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202603,PLOMAX,69.315,1
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202603,OTHER COMP,88.703,0
+ID000482,Prescriber_481,Oakville,L6M,L6M 1M1,Address_481,ON,Endocrinology & Metabolism,TRX,202603,INSUZA,57.569,0
+ID000482,Prescriber_481,Oakville,L6M,L6M 1M1,Address_481,ON,Endocrinology & Metabolism,TRX,202603,GLIDIM,166.042,1
+ID000394,Prescriber_393,Baie-Comeau,G4Z,G4Z 1K3,Address_393,QC,Family Medicine,TRX,202603,ALL OTHERS,71.762,0
+ID000394,Prescriber_393,Baie-Comeau,G4Z,G4Z 1K3,Address_393,QC,Family Medicine,TRX,202603,ALL OTHERS,136.194,1
+ID000389,Prescriber_388,Edmonton,T5Y,T5Y 4E1,Address_388,AB,Family Medicine,TRX,202603,PLOMAX,79.835,0
+ID000401,Prescriber_400,Trenton,K8V,K8V 3S1,Address_400,ON,Family Medicine,TRX,202603,SYNTHGLYPTIN,126.489,0
+ID000437,Prescriber_436,Huntsville,P1H,P1H 1H8,Address_436,ON,General Practice,TRX,202603,PLOMAX,72.5,0
+ID000058,Prescriber_57,Salaberry-De-Valleyfield,J6T,J6T 6C1,Address_57,QC,Internal Medicine,TRX,202603,ALL OTHERS,104.065,1
+ID000056,Prescriber_55,Hamilton,L8N,L8N 4A6,Address_55,ON,Internal Medicine,TRX,202603,DIABETES,76.158,1
+ID000109,Prescriber_108,Edmonton,T6J,T6J 7K1,Address_108,AB,Family Medicine,TRX,202603,SYNTHGLYPTIN,95.284,0
+ID000106,Prescriber_105,Brampton,L6R,L6R 3S9,Address_105,ON,Family Medicine,TRX,202603,SYNTHGLYPTIN,143.727,0
+ID000103,Prescriber_102,Gatineau,J8Y,J8Y 3B5,Address_102,QC,Family Medicine,TRX,202603,INSUZA,146.246,0
+ID000103,Prescriber_102,Gatineau,J8Y,J8Y 3B5,Address_102,QC,Family Medicine,TRX,202603,ALL OTHERS,79.901,1
+ID000099,Prescriber_98,Toronto,M7A,M7A 1B3,Address_98,ON,Family Medicine,TRX,202603,PLOMAX,175.606,0
+ID000098,Prescriber_97,Whitby,L1N,L1N 2L1,Address_97,ON,Family Medicine,TRX,202603,ADRAVIL,60.79,0
+ID000087,Prescriber_86,Pickering,L1V,L1V 6R6,Address_86,ON,Dermatology,TRX,202603,ADRAVIL,136.328,1
+ID000084,Prescriber_83,Guelph,N1H,N1H 6H9,Address_83,ON,Family Medicine,TRX,202603,GLIDIM,97.178,0
+ID000010,Prescriber_9,Regina,S4V,S4V 3A3,Address_9,SK,Cardiology,TRX,202603,ADRAVIL,162.4,0
+ID000009,Prescriber_8,Schomberg,L0G,L0G 1T0,Address_8,ON,Family Medicine,TRX,202603,PLOMAX,109.813,0
+ID000109,Prescriber_108,Edmonton,T6J,T6J 7K1,Address_108,AB,Family Medicine,TRX,202603,DIABETES,84.834,0
+ID000031,Prescriber_30,Mississauga,L4Y,L4Y 2N8,Address_30,ON,Family Medicine,TRX,202603,SYNTHGLYPTIN,32.679,0
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202603,DIABETES,43.151,1
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202603,OTHER COMP,30.56,0
+ID000180,Prescriber_179,Brampton,L7A,L7A 3E5,Address_179,ON,Family Medicine,TRX,202603,PLOMAX,28.99,1
+ID000180,Prescriber_179,Brampton,L7A,L7A 3E5,Address_179,ON,Family Medicine,TRX,202603,GLIDIM,98.707,1
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202603,SYNTHGLYPTIN,134.458,0
+ID000216,Prescriber_215,Val-D'or,J9P,J9P 3Y1,Address_215,QC,Family Medicine,TRX,202603,ALL OTHERS,191.192,0
+ID000176,Prescriber_175,Atikokan,P0T,P0T 1C0,Address_175,ON,General Practice,TRX,202603,SYNTHGLYPTIN,144.451,0
+ID000216,Prescriber_215,Val-D'or,J9P,J9P 3Y1,Address_215,QC,Family Medicine,TRX,202603,TRETONIN,101.173,1
+ID000214,Prescriber_213,Quebec,G1R,G1R 2J6,Address_213,QC,Nephrology,TRX,202603,SYNTHGLYPTIN,117.055,1
+ID000214,Prescriber_213,Quebec,G1R,G1R 2J6,Address_213,QC,Nephrology,TRX,202603,GLIDIM,101.774,0
+ID000199,Prescriber_198,Greenfield Park,J4V,J4V 2G9,Address_198,QC,Family Medicine,TRX,202603,ALL OTHERS,60.759,0
+ID000127,Prescriber_126,Brampton,L6R,L6R 3J7,Address_126,ON,Cardiology,TRX,202603,GLIDIM,88.84,1
+ID000124,Prescriber_123,Saint-Lambert,J4R,J4R 2L1,Address_123,QC,General Practice,TRX,202603,ALL OTHERS,95.403,1
+ID000123,Prescriber_122,Hamilton,L8P,L8P 1A1,Address_122,ON,Family Medicine,TRX,202603,TRETONIN,104.692,0
+ID000118,Prescriber_117,Nepean,K2J,K2J 3R2,Address_117,ON,Family Medicine,TRX,202603,INSUZA,62.384,0
+ID000118,Prescriber_117,Nepean,K2J,K2J 3R2,Address_117,ON,Family Medicine,TRX,202603,OTHER COMP,92.456,1
+ID000117,Prescriber_116,Scarborough,M1R,M1R 0B1,Address_116,ON,Family Medicine,TRX,202603,INSUZA,96.864,0
+ID000116,Prescriber_115,Whitecourt,T7S,T7S 1P9,Address_115,AB,Family Medicine,TRX,202603,GLIDIM,61.643,0
+ID000116,Prescriber_115,Whitecourt,T7S,T7S 1P9,Address_115,AB,Family Medicine,TRX,202603,DIABETES,64.734,0
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202603,DIABETES,44.783,1
+ID000123,Prescriber_122,Hamilton,L8P,L8P 1A1,Address_122,ON,Family Medicine,TRX,202603,OTHER COMP,132.862,1
+ID000168,Prescriber_167,Stittsville,K2S,K2S 1B1,Address_167,ON,Family Medicine,TRX,202603,DIABETES,29.802,0
+ID000168,Prescriber_167,Stittsville,K2S,K2S 1B1,Address_167,ON,Family Medicine,TRX,202603,SYNTHGLYPTIN,113.122,0
+ID000319,Prescriber_318,Chicoutimi,G7H,G7H 6B9,Address_318,QC,Family Medicine,TRX,202604,PROZALAN D,78.889,1
+ID000322,Prescriber_321,Bedford,J0J,J0J 1A0,Address_321,QC,Family Medicine,TRX,202604,TRETONIN,66.45,1
+ID000312,Prescriber_311,Saint-Bruno,J3V,J3V 1Y8,Address_311,QC,Family Medicine,TRX,202604,INSUZA,91.531,1
+ID000312,Prescriber_311,Saint-Bruno,J3V,J3V 1Y8,Address_311,QC,Family Medicine,TRX,202604,PLOMAX,112.985,1
+ID000310,Prescriber_309,Saint-Hubert,J3Y,J3Y 8Z4,Address_309,QC,Medical Internship,TRX,202604,PLOMAX,122.384,0
+ID000310,Prescriber_309,Saint-Hubert,J3Y,J3Y 8Z4,Address_309,QC,Medical Internship,TRX,202604,GLIDIM,264.98,0
+ID000370,Prescriber_369,Terrebonne,J6W,J6W 1T8,Address_369,QC,Family Medicine,TRX,202604,GLIDIM,112.272,0
+ID000360,Prescriber_359,Chicoutimi,G7H,G7H 1P6,Address_359,QC,Family Medicine,TRX,202604,ALL OTHERS,63.676,0
+ID000340,Prescriber_339,Terrebonne,J6X,J6X 4L9,Address_339,QC,Family Medicine,TRX,202604,ADRAVIL,124.483,0
+ID000340,Prescriber_339,Terrebonne,J6X,J6X 4L9,Address_339,QC,Family Medicine,TRX,202604,GLIDIM,167.552,0
+ID000261,Prescriber_260,Gatineau,J9A,J9A 1K7,Address_260,QC,Psychiatry,TRX,202604,OTHER COMP,175.967,1
+ID000261,Prescriber_260,Gatineau,J9A,J9A 1K7,Address_260,QC,Psychiatry,TRX,202604,TRETONIN,187.183,1
+ID000259,Prescriber_258,Shawinigan,G9N,G9N 0C8,Address_258,QC,Family Medicine,TRX,202604,PROZALAN D,144.451,0
+ID000251,Prescriber_250,Windsor,N9A,N9A 1E1,Address_250,ON,Endocrinology & Metabolism,TRX,202604,GLIDIM,160.789,0
+ID000250,Prescriber_249,Cambridge,N1R,N1R 3E5,Address_249,ON,Family Medicine,TRX,202604,ALL OTHERS,220.646,0
+ID000250,Prescriber_249,Cambridge,N1R,N1R 3E5,Address_249,ON,Family Medicine,TRX,202604,OTHER COMP,46.272,0
+ID000250,Prescriber_249,Cambridge,N1R,N1R 3E5,Address_249,ON,Family Medicine,TRX,202604,ALL OTHERS,100.563,0
+ID000248,Prescriber_247,Montreal,H2X,H2X 0A9,Address_247,QC,Neurology,TRX,202604,GLIDIM,130.333,0
+ID000248,Prescriber_247,Montreal,H2X,H2X 0A9,Address_247,QC,Neurology,TRX,202604,SYNTHGLYPTIN,46.001,0
+ID000262,Prescriber_261,Saskatoon,S7N,S7N 0W8,Address_261,SK,Pediatrics,TRX,202604,SYNTHGLYPTIN,86.029,0
+ID000263,Prescriber_262,Lloydminster,T9V,T9V 2P7,Address_262,AB,Family Medicine,TRX,202604,ALL OTHERS,103.505,0
+ID000263,Prescriber_262,Lloydminster,T9V,T9V 2P7,Address_262,AB,Family Medicine,TRX,202604,SYNTHGLYPTIN,89.585,1
+ID000290,Prescriber_289,Trois-Rivieres,G8T,G8T 7A6,Address_289,QC,Family Medicine,TRX,202604,SYNTHGLYPTIN,148.755,0
+ID000470,Prescriber_469,Midland,L4R,L4R 4P4,Address_469,ON,Family Medicine,TRX,202604,ALL OTHERS,130.103,0
+ID000470,Prescriber_469,Midland,L4R,L4R 4P4,Address_469,ON,Family Medicine,TRX,202604,GLIDIM,91.506,0
+ID000455,Prescriber_454,Guelph,N1H,N1H 4J4,Address_454,ON,Family Medicine,TRX,202604,SYNTHGLYPTIN,99.656,1
+ID000451,Prescriber_450,Calgary,T2R,T2R 0X7,Address_450,AB,Family Medicine,TRX,202604,ALL OTHERS,46.599,0
+ID000451,Prescriber_450,Calgary,T2R,T2R 0X7,Address_450,AB,Family Medicine,TRX,202604,INSUZA,51.91,0
+ID000451,Prescriber_450,Calgary,T2R,T2R 0X7,Address_450,AB,Family Medicine,TRX,202604,ALL OTHERS,185.043,0
+ID000449,Prescriber_448,Trois-Rivieres,G8Z,G8Z 3R8,Address_448,QC,Family Medicine,TRX,202604,INSUZA,193.111,1
+ID000447,Prescriber_446,Mississauga,L5V,L5V 1N3,Address_446,ON,Family Medicine,TRX,202604,SYNTHGLYPTIN,168.651,0
+ID000440,Prescriber_439,Richmond Hill,L4B,L4B 0E6,Address_439,ON,Family Medicine,TRX,202604,TRETONIN,123.968,0
+ID000440,Prescriber_439,Richmond Hill,L4B,L4B 0E6,Address_439,ON,Family Medicine,TRX,202604,OTHER COMP,65.658,0
+ID000488,Prescriber_487,Fredericton,E3B,E3B 3B7,Address_487,NB,Anesthesiology,TRX,202604,ADRAVIL,171.075,0
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202604,ADRAVIL,161.966,0
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202604,PLOMAX,69.315,1
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202604,OTHER COMP,88.703,0
+ID000482,Prescriber_481,Oakville,L6M,L6M 1M1,Address_481,ON,Endocrinology & Metabolism,TRX,202604,INSUZA,57.569,0
+ID000482,Prescriber_481,Oakville,L6M,L6M 1M1,Address_481,ON,Endocrinology & Metabolism,TRX,202604,GLIDIM,166.042,1
+ID000401,Prescriber_400,Trenton,K8V,K8V 3S1,Address_400,ON,Family Medicine,TRX,202604,SYNTHGLYPTIN,126.489,0
+ID000394,Prescriber_393,Baie-Comeau,G4Z,G4Z 1K3,Address_393,QC,Family Medicine,TRX,202604,ALL OTHERS,71.762,0
+ID000394,Prescriber_393,Baie-Comeau,G4Z,G4Z 1K3,Address_393,QC,Family Medicine,TRX,202604,ALL OTHERS,136.194,1
+ID000389,Prescriber_388,Edmonton,T5Y,T5Y 4E1,Address_388,AB,Family Medicine,TRX,202604,PLOMAX,79.835,0
+ID000437,Prescriber_436,Huntsville,P1H,P1H 1H8,Address_436,ON,General Practice,TRX,202604,PLOMAX,72.5,0
+ID000058,Prescriber_57,Salaberry-De-Valleyfield,J6T,J6T 6C1,Address_57,QC,Internal Medicine,TRX,202604,ALL OTHERS,104.065,1
+ID000056,Prescriber_55,Hamilton,L8N,L8N 4A6,Address_55,ON,Internal Medicine,TRX,202604,DIABETES,76.158,1
+ID000109,Prescriber_108,Edmonton,T6J,T6J 7K1,Address_108,AB,Family Medicine,TRX,202604,DIABETES,84.834,0
+ID000109,Prescriber_108,Edmonton,T6J,T6J 7K1,Address_108,AB,Family Medicine,TRX,202604,SYNTHGLYPTIN,95.284,0
+ID000106,Prescriber_105,Brampton,L6R,L6R 3S9,Address_105,ON,Family Medicine,TRX,202604,SYNTHGLYPTIN,143.727,0
+ID000103,Prescriber_102,Gatineau,J8Y,J8Y 3B5,Address_102,QC,Family Medicine,TRX,202604,INSUZA,146.246,0
+ID000103,Prescriber_102,Gatineau,J8Y,J8Y 3B5,Address_102,QC,Family Medicine,TRX,202604,ALL OTHERS,79.901,1
+ID000099,Prescriber_98,Toronto,M7A,M7A 1B3,Address_98,ON,Family Medicine,TRX,202604,PLOMAX,175.606,0
+ID000098,Prescriber_97,Whitby,L1N,L1N 2L1,Address_97,ON,Family Medicine,TRX,202604,ADRAVIL,60.79,0
+ID000087,Prescriber_86,Pickering,L1V,L1V 6R6,Address_86,ON,Dermatology,TRX,202604,ADRAVIL,136.328,1
+ID000084,Prescriber_83,Guelph,N1H,N1H 6H9,Address_83,ON,Family Medicine,TRX,202604,GLIDIM,97.178,0
+ID000010,Prescriber_9,Regina,S4V,S4V 3A3,Address_9,SK,Cardiology,TRX,202604,ADRAVIL,162.4,0
+ID000009,Prescriber_8,Schomberg,L0G,L0G 1T0,Address_8,ON,Family Medicine,TRX,202604,PLOMAX,109.813,0
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202604,DIABETES,43.151,1
+ID000031,Prescriber_30,Mississauga,L4Y,L4Y 2N8,Address_30,ON,Family Medicine,TRX,202604,SYNTHGLYPTIN,32.679,0
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202604,SYNTHGLYPTIN,134.458,0
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202604,DIABETES,44.783,1
+ID000199,Prescriber_198,Greenfield Park,J4V,J4V 2G9,Address_198,QC,Family Medicine,TRX,202604,ALL OTHERS,60.759,0
+ID000180,Prescriber_179,Brampton,L7A,L7A 3E5,Address_179,ON,Family Medicine,TRX,202604,PLOMAX,28.99,1
+ID000180,Prescriber_179,Brampton,L7A,L7A 3E5,Address_179,ON,Family Medicine,TRX,202604,GLIDIM,98.707,1
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202604,OTHER COMP,30.56,0
+ID000216,Prescriber_215,Val-D'or,J9P,J9P 3Y1,Address_215,QC,Family Medicine,TRX,202604,ALL OTHERS,191.192,0
+ID000214,Prescriber_213,Quebec,G1R,G1R 2J6,Address_213,QC,Nephrology,TRX,202604,SYNTHGLYPTIN,117.055,1
+ID000214,Prescriber_213,Quebec,G1R,G1R 2J6,Address_213,QC,Nephrology,TRX,202604,GLIDIM,101.774,0
+ID000216,Prescriber_215,Val-D'or,J9P,J9P 3Y1,Address_215,QC,Family Medicine,TRX,202604,TRETONIN,101.173,1
+ID000176,Prescriber_175,Atikokan,P0T,P0T 1C0,Address_175,ON,General Practice,TRX,202604,SYNTHGLYPTIN,144.451,0
+ID000127,Prescriber_126,Brampton,L6R,L6R 3J7,Address_126,ON,Cardiology,TRX,202604,GLIDIM,88.84,1
+ID000124,Prescriber_123,Saint-Lambert,J4R,J4R 2L1,Address_123,QC,General Practice,TRX,202604,ALL OTHERS,95.403,1
+ID000123,Prescriber_122,Hamilton,L8P,L8P 1A1,Address_122,ON,Family Medicine,TRX,202604,OTHER COMP,132.862,1
+ID000123,Prescriber_122,Hamilton,L8P,L8P 1A1,Address_122,ON,Family Medicine,TRX,202604,TRETONIN,104.692,0
+ID000118,Prescriber_117,Nepean,K2J,K2J 3R2,Address_117,ON,Family Medicine,TRX,202604,INSUZA,62.384,0
+ID000118,Prescriber_117,Nepean,K2J,K2J 3R2,Address_117,ON,Family Medicine,TRX,202604,OTHER COMP,92.456,1
+ID000117,Prescriber_116,Scarborough,M1R,M1R 0B1,Address_116,ON,Family Medicine,TRX,202604,INSUZA,96.864,0
+ID000116,Prescriber_115,Whitecourt,T7S,T7S 1P9,Address_115,AB,Family Medicine,TRX,202604,GLIDIM,61.643,0
+ID000116,Prescriber_115,Whitecourt,T7S,T7S 1P9,Address_115,AB,Family Medicine,TRX,202604,DIABETES,64.734,0
+ID000168,Prescriber_167,Stittsville,K2S,K2S 1B1,Address_167,ON,Family Medicine,TRX,202604,SYNTHGLYPTIN,113.122,0
+ID000168,Prescriber_167,Stittsville,K2S,K2S 1B1,Address_167,ON,Family Medicine,TRX,202604,DIABETES,29.802,0
+ID000319,Prescriber_318,Chicoutimi,G7H,G7H 6B9,Address_318,QC,Family Medicine,TRX,202605,PROZALAN D,78.889,1
+ID000322,Prescriber_321,Bedford,J0J,J0J 1A0,Address_321,QC,Family Medicine,TRX,202605,TRETONIN,66.45,1
+ID000312,Prescriber_311,Saint-Bruno,J3V,J3V 1Y8,Address_311,QC,Family Medicine,TRX,202605,INSUZA,91.531,1
+ID000312,Prescriber_311,Saint-Bruno,J3V,J3V 1Y8,Address_311,QC,Family Medicine,TRX,202605,PLOMAX,112.985,1
+ID000310,Prescriber_309,Saint-Hubert,J3Y,J3Y 8Z4,Address_309,QC,Medical Internship,TRX,202605,PLOMAX,122.384,0
+ID000310,Prescriber_309,Saint-Hubert,J3Y,J3Y 8Z4,Address_309,QC,Medical Internship,TRX,202605,GLIDIM,264.98,0
+ID000370,Prescriber_369,Terrebonne,J6W,J6W 1T8,Address_369,QC,Family Medicine,TRX,202605,GLIDIM,112.272,0
+ID000360,Prescriber_359,Chicoutimi,G7H,G7H 1P6,Address_359,QC,Family Medicine,TRX,202605,ALL OTHERS,63.676,0
+ID000340,Prescriber_339,Terrebonne,J6X,J6X 4L9,Address_339,QC,Family Medicine,TRX,202605,ADRAVIL,124.483,0
+ID000340,Prescriber_339,Terrebonne,J6X,J6X 4L9,Address_339,QC,Family Medicine,TRX,202605,GLIDIM,167.552,0
+ID000262,Prescriber_261,Saskatoon,S7N,S7N 0W8,Address_261,SK,Pediatrics,TRX,202605,SYNTHGLYPTIN,86.029,0
+ID000261,Prescriber_260,Gatineau,J9A,J9A 1K7,Address_260,QC,Psychiatry,TRX,202605,OTHER COMP,175.967,1
+ID000261,Prescriber_260,Gatineau,J9A,J9A 1K7,Address_260,QC,Psychiatry,TRX,202605,TRETONIN,187.183,1
+ID000259,Prescriber_258,Shawinigan,G9N,G9N 0C8,Address_258,QC,Family Medicine,TRX,202605,PROZALAN D,144.451,0
+ID000251,Prescriber_250,Windsor,N9A,N9A 1E1,Address_250,ON,Endocrinology & Metabolism,TRX,202605,GLIDIM,160.789,0
+ID000250,Prescriber_249,Cambridge,N1R,N1R 3E5,Address_249,ON,Family Medicine,TRX,202605,ALL OTHERS,220.646,0
+ID000250,Prescriber_249,Cambridge,N1R,N1R 3E5,Address_249,ON,Family Medicine,TRX,202605,OTHER COMP,46.272,0
+ID000250,Prescriber_249,Cambridge,N1R,N1R 3E5,Address_249,ON,Family Medicine,TRX,202605,ALL OTHERS,100.563,0
+ID000248,Prescriber_247,Montreal,H2X,H2X 0A9,Address_247,QC,Neurology,TRX,202605,GLIDIM,130.333,0
+ID000248,Prescriber_247,Montreal,H2X,H2X 0A9,Address_247,QC,Neurology,TRX,202605,SYNTHGLYPTIN,46.001,0
+ID000263,Prescriber_262,Lloydminster,T9V,T9V 2P7,Address_262,AB,Family Medicine,TRX,202605,ALL OTHERS,103.505,0
+ID000263,Prescriber_262,Lloydminster,T9V,T9V 2P7,Address_262,AB,Family Medicine,TRX,202605,SYNTHGLYPTIN,89.585,1
+ID000290,Prescriber_289,Trois-Rivieres,G8T,G8T 7A6,Address_289,QC,Family Medicine,TRX,202605,SYNTHGLYPTIN,148.755,0
+ID000470,Prescriber_469,Midland,L4R,L4R 4P4,Address_469,ON,Family Medicine,TRX,202605,ALL OTHERS,130.103,0
+ID000470,Prescriber_469,Midland,L4R,L4R 4P4,Address_469,ON,Family Medicine,TRX,202605,GLIDIM,91.506,0
+ID000455,Prescriber_454,Guelph,N1H,N1H 4J4,Address_454,ON,Family Medicine,TRX,202605,SYNTHGLYPTIN,99.656,1
+ID000451,Prescriber_450,Calgary,T2R,T2R 0X7,Address_450,AB,Family Medicine,TRX,202605,ALL OTHERS,46.599,0
+ID000451,Prescriber_450,Calgary,T2R,T2R 0X7,Address_450,AB,Family Medicine,TRX,202605,INSUZA,51.91,0
+ID000451,Prescriber_450,Calgary,T2R,T2R 0X7,Address_450,AB,Family Medicine,TRX,202605,ALL OTHERS,185.043,0
+ID000449,Prescriber_448,Trois-Rivieres,G8Z,G8Z 3R8,Address_448,QC,Family Medicine,TRX,202605,INSUZA,193.111,1
+ID000447,Prescriber_446,Mississauga,L5V,L5V 1N3,Address_446,ON,Family Medicine,TRX,202605,SYNTHGLYPTIN,168.651,0
+ID000440,Prescriber_439,Richmond Hill,L4B,L4B 0E6,Address_439,ON,Family Medicine,TRX,202605,TRETONIN,123.968,0
+ID000440,Prescriber_439,Richmond Hill,L4B,L4B 0E6,Address_439,ON,Family Medicine,TRX,202605,OTHER COMP,65.658,0
+ID000488,Prescriber_487,Fredericton,E3B,E3B 3B7,Address_487,NB,Anesthesiology,TRX,202605,ADRAVIL,171.075,0
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202605,ADRAVIL,161.966,0
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202605,PLOMAX,69.315,1
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202605,OTHER COMP,88.703,0
+ID000482,Prescriber_481,Oakville,L6M,L6M 1M1,Address_481,ON,Endocrinology & Metabolism,TRX,202605,INSUZA,57.569,0
+ID000482,Prescriber_481,Oakville,L6M,L6M 1M1,Address_481,ON,Endocrinology & Metabolism,TRX,202605,GLIDIM,166.042,1
+ID000437,Prescriber_436,Huntsville,P1H,P1H 1H8,Address_436,ON,General Practice,TRX,202605,PLOMAX,72.5,0
+ID000401,Prescriber_400,Trenton,K8V,K8V 3S1,Address_400,ON,Family Medicine,TRX,202605,SYNTHGLYPTIN,126.489,0
+ID000394,Prescriber_393,Baie-Comeau,G4Z,G4Z 1K3,Address_393,QC,Family Medicine,TRX,202605,ALL OTHERS,71.762,0
+ID000394,Prescriber_393,Baie-Comeau,G4Z,G4Z 1K3,Address_393,QC,Family Medicine,TRX,202605,ALL OTHERS,136.194,1
+ID000389,Prescriber_388,Edmonton,T5Y,T5Y 4E1,Address_388,AB,Family Medicine,TRX,202605,PLOMAX,79.835,0
+ID000058,Prescriber_57,Salaberry-De-Valleyfield,J6T,J6T 6C1,Address_57,QC,Internal Medicine,TRX,202605,ALL OTHERS,104.065,1
+ID000056,Prescriber_55,Hamilton,L8N,L8N 4A6,Address_55,ON,Internal Medicine,TRX,202605,DIABETES,76.158,1
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202605,DIABETES,43.151,1
+ID000109,Prescriber_108,Edmonton,T6J,T6J 7K1,Address_108,AB,Family Medicine,TRX,202605,DIABETES,84.834,0
+ID000109,Prescriber_108,Edmonton,T6J,T6J 7K1,Address_108,AB,Family Medicine,TRX,202605,SYNTHGLYPTIN,95.284,0
+ID000106,Prescriber_105,Brampton,L6R,L6R 3S9,Address_105,ON,Family Medicine,TRX,202605,SYNTHGLYPTIN,143.727,0
+ID000103,Prescriber_102,Gatineau,J8Y,J8Y 3B5,Address_102,QC,Family Medicine,TRX,202605,INSUZA,146.246,0
+ID000103,Prescriber_102,Gatineau,J8Y,J8Y 3B5,Address_102,QC,Family Medicine,TRX,202605,ALL OTHERS,79.901,1
+ID000099,Prescriber_98,Toronto,M7A,M7A 1B3,Address_98,ON,Family Medicine,TRX,202605,PLOMAX,175.606,0
+ID000098,Prescriber_97,Whitby,L1N,L1N 2L1,Address_97,ON,Family Medicine,TRX,202605,ADRAVIL,60.79,0
+ID000087,Prescriber_86,Pickering,L1V,L1V 6R6,Address_86,ON,Dermatology,TRX,202605,ADRAVIL,136.328,1
+ID000084,Prescriber_83,Guelph,N1H,N1H 6H9,Address_83,ON,Family Medicine,TRX,202605,GLIDIM,97.178,0
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202605,SYNTHGLYPTIN,134.458,0
+ID000010,Prescriber_9,Regina,S4V,S4V 3A3,Address_9,SK,Cardiology,TRX,202605,ADRAVIL,162.4,0
+ID000009,Prescriber_8,Schomberg,L0G,L0G 1T0,Address_8,ON,Family Medicine,TRX,202605,PLOMAX,109.813,0
+ID000031,Prescriber_30,Mississauga,L4Y,L4Y 2N8,Address_30,ON,Family Medicine,TRX,202605,SYNTHGLYPTIN,32.679,0
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202605,OTHER COMP,30.56,0
+ID000199,Prescriber_198,Greenfield Park,J4V,J4V 2G9,Address_198,QC,Family Medicine,TRX,202605,ALL OTHERS,60.759,0
+ID000180,Prescriber_179,Brampton,L7A,L7A 3E5,Address_179,ON,Family Medicine,TRX,202605,PLOMAX,28.99,1
+ID000180,Prescriber_179,Brampton,L7A,L7A 3E5,Address_179,ON,Family Medicine,TRX,202605,GLIDIM,98.707,1
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202605,DIABETES,44.783,1
+ID000216,Prescriber_215,Val-D'or,J9P,J9P 3Y1,Address_215,QC,Family Medicine,TRX,202605,ALL OTHERS,191.192,0
+ID000214,Prescriber_213,Quebec,G1R,G1R 2J6,Address_213,QC,Nephrology,TRX,202605,SYNTHGLYPTIN,117.055,1
+ID000214,Prescriber_213,Quebec,G1R,G1R 2J6,Address_213,QC,Nephrology,TRX,202605,GLIDIM,101.774,0
+ID000216,Prescriber_215,Val-D'or,J9P,J9P 3Y1,Address_215,QC,Family Medicine,TRX,202605,TRETONIN,101.173,1
+ID000127,Prescriber_126,Brampton,L6R,L6R 3J7,Address_126,ON,Cardiology,TRX,202605,GLIDIM,88.84,1
+ID000124,Prescriber_123,Saint-Lambert,J4R,J4R 2L1,Address_123,QC,General Practice,TRX,202605,ALL OTHERS,95.403,1
+ID000123,Prescriber_122,Hamilton,L8P,L8P 1A1,Address_122,ON,Family Medicine,TRX,202605,OTHER COMP,132.862,1
+ID000123,Prescriber_122,Hamilton,L8P,L8P 1A1,Address_122,ON,Family Medicine,TRX,202605,TRETONIN,104.692,0
+ID000118,Prescriber_117,Nepean,K2J,K2J 3R2,Address_117,ON,Family Medicine,TRX,202605,INSUZA,62.384,0
+ID000118,Prescriber_117,Nepean,K2J,K2J 3R2,Address_117,ON,Family Medicine,TRX,202605,OTHER COMP,92.456,1
+ID000117,Prescriber_116,Scarborough,M1R,M1R 0B1,Address_116,ON,Family Medicine,TRX,202605,INSUZA,96.864,0
+ID000116,Prescriber_115,Whitecourt,T7S,T7S 1P9,Address_115,AB,Family Medicine,TRX,202605,GLIDIM,61.643,0
+ID000116,Prescriber_115,Whitecourt,T7S,T7S 1P9,Address_115,AB,Family Medicine,TRX,202605,DIABETES,64.734,0
+ID000176,Prescriber_175,Atikokan,P0T,P0T 1C0,Address_175,ON,General Practice,TRX,202605,SYNTHGLYPTIN,144.451,0
+ID000168,Prescriber_167,Stittsville,K2S,K2S 1B1,Address_167,ON,Family Medicine,TRX,202605,SYNTHGLYPTIN,113.122,0
+ID000168,Prescriber_167,Stittsville,K2S,K2S 1B1,Address_167,ON,Family Medicine,TRX,202605,DIABETES,29.802,0
+ID000322,Prescriber_321,Bedford,J0J,J0J 1A0,Address_321,QC,Family Medicine,TRX,202606,TRETONIN,66.45,1
+ID000319,Prescriber_318,Chicoutimi,G7H,G7H 6B9,Address_318,QC,Family Medicine,TRX,202606,PROZALAN D,78.889,1
+ID000312,Prescriber_311,Saint-Bruno,J3V,J3V 1Y8,Address_311,QC,Family Medicine,TRX,202606,INSUZA,91.531,1
+ID000312,Prescriber_311,Saint-Bruno,J3V,J3V 1Y8,Address_311,QC,Family Medicine,TRX,202606,PLOMAX,112.985,1
+ID000310,Prescriber_309,Saint-Hubert,J3Y,J3Y 8Z4,Address_309,QC,Medical Internship,TRX,202606,PLOMAX,122.384,0
+ID000310,Prescriber_309,Saint-Hubert,J3Y,J3Y 8Z4,Address_309,QC,Medical Internship,TRX,202606,GLIDIM,264.98,0
+ID000370,Prescriber_369,Terrebonne,J6W,J6W 1T8,Address_369,QC,Family Medicine,TRX,202606,GLIDIM,112.272,0
+ID000360,Prescriber_359,Chicoutimi,G7H,G7H 1P6,Address_359,QC,Family Medicine,TRX,202606,ALL OTHERS,63.676,0
+ID000340,Prescriber_339,Terrebonne,J6X,J6X 4L9,Address_339,QC,Family Medicine,TRX,202606,ADRAVIL,124.483,0
+ID000340,Prescriber_339,Terrebonne,J6X,J6X 4L9,Address_339,QC,Family Medicine,TRX,202606,GLIDIM,167.552,0
+ID000261,Prescriber_260,Gatineau,J9A,J9A 1K7,Address_260,QC,Psychiatry,TRX,202606,TRETONIN,187.183,1
+ID000259,Prescriber_258,Shawinigan,G9N,G9N 0C8,Address_258,QC,Family Medicine,TRX,202606,PROZALAN D,144.451,0
+ID000251,Prescriber_250,Windsor,N9A,N9A 1E1,Address_250,ON,Endocrinology & Metabolism,TRX,202606,GLIDIM,160.789,0
+ID000250,Prescriber_249,Cambridge,N1R,N1R 3E5,Address_249,ON,Family Medicine,TRX,202606,ALL OTHERS,220.646,0
+ID000250,Prescriber_249,Cambridge,N1R,N1R 3E5,Address_249,ON,Family Medicine,TRX,202606,OTHER COMP,46.272,0
+ID000250,Prescriber_249,Cambridge,N1R,N1R 3E5,Address_249,ON,Family Medicine,TRX,202606,ALL OTHERS,100.563,0
+ID000248,Prescriber_247,Montreal,H2X,H2X 0A9,Address_247,QC,Neurology,TRX,202606,GLIDIM,130.333,0
+ID000248,Prescriber_247,Montreal,H2X,H2X 0A9,Address_247,QC,Neurology,TRX,202606,SYNTHGLYPTIN,46.001,0
+ID000261,Prescriber_260,Gatineau,J9A,J9A 1K7,Address_260,QC,Psychiatry,TRX,202606,OTHER COMP,175.967,1
+ID000262,Prescriber_261,Saskatoon,S7N,S7N 0W8,Address_261,SK,Pediatrics,TRX,202606,SYNTHGLYPTIN,86.029,0
+ID000263,Prescriber_262,Lloydminster,T9V,T9V 2P7,Address_262,AB,Family Medicine,TRX,202606,ALL OTHERS,103.505,0
+ID000263,Prescriber_262,Lloydminster,T9V,T9V 2P7,Address_262,AB,Family Medicine,TRX,202606,SYNTHGLYPTIN,89.585,1
+ID000290,Prescriber_289,Trois-Rivieres,G8T,G8T 7A6,Address_289,QC,Family Medicine,TRX,202606,SYNTHGLYPTIN,148.755,0
+ID000470,Prescriber_469,Midland,L4R,L4R 4P4,Address_469,ON,Family Medicine,TRX,202606,ALL OTHERS,130.103,0
+ID000470,Prescriber_469,Midland,L4R,L4R 4P4,Address_469,ON,Family Medicine,TRX,202606,GLIDIM,91.506,0
+ID000455,Prescriber_454,Guelph,N1H,N1H 4J4,Address_454,ON,Family Medicine,TRX,202606,SYNTHGLYPTIN,99.656,1
+ID000451,Prescriber_450,Calgary,T2R,T2R 0X7,Address_450,AB,Family Medicine,TRX,202606,ALL OTHERS,46.599,0
+ID000451,Prescriber_450,Calgary,T2R,T2R 0X7,Address_450,AB,Family Medicine,TRX,202606,INSUZA,51.91,0
+ID000451,Prescriber_450,Calgary,T2R,T2R 0X7,Address_450,AB,Family Medicine,TRX,202606,ALL OTHERS,185.043,0
+ID000449,Prescriber_448,Trois-Rivieres,G8Z,G8Z 3R8,Address_448,QC,Family Medicine,TRX,202606,INSUZA,193.111,1
+ID000447,Prescriber_446,Mississauga,L5V,L5V 1N3,Address_446,ON,Family Medicine,TRX,202606,SYNTHGLYPTIN,168.651,0
+ID000440,Prescriber_439,Richmond Hill,L4B,L4B 0E6,Address_439,ON,Family Medicine,TRX,202606,TRETONIN,123.968,0
+ID000440,Prescriber_439,Richmond Hill,L4B,L4B 0E6,Address_439,ON,Family Medicine,TRX,202606,OTHER COMP,65.658,0
+ID000488,Prescriber_487,Fredericton,E3B,E3B 3B7,Address_487,NB,Anesthesiology,TRX,202606,ADRAVIL,171.075,0
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202606,ADRAVIL,161.966,0
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202606,PLOMAX,69.315,1
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202606,OTHER COMP,88.703,0
+ID000482,Prescriber_481,Oakville,L6M,L6M 1M1,Address_481,ON,Endocrinology & Metabolism,TRX,202606,INSUZA,57.569,0
+ID000482,Prescriber_481,Oakville,L6M,L6M 1M1,Address_481,ON,Endocrinology & Metabolism,TRX,202606,GLIDIM,166.042,1
+ID000401,Prescriber_400,Trenton,K8V,K8V 3S1,Address_400,ON,Family Medicine,TRX,202606,SYNTHGLYPTIN,126.489,0
+ID000394,Prescriber_393,Baie-Comeau,G4Z,G4Z 1K3,Address_393,QC,Family Medicine,TRX,202606,ALL OTHERS,71.762,0
+ID000394,Prescriber_393,Baie-Comeau,G4Z,G4Z 1K3,Address_393,QC,Family Medicine,TRX,202606,ALL OTHERS,136.194,1
+ID000389,Prescriber_388,Edmonton,T5Y,T5Y 4E1,Address_388,AB,Family Medicine,TRX,202606,PLOMAX,79.835,0
+ID000437,Prescriber_436,Huntsville,P1H,P1H 1H8,Address_436,ON,General Practice,TRX,202606,PLOMAX,72.5,0
+ID000058,Prescriber_57,Salaberry-De-Valleyfield,J6T,J6T 6C1,Address_57,QC,Internal Medicine,TRX,202606,ALL OTHERS,104.065,1
+ID000056,Prescriber_55,Hamilton,L8N,L8N 4A6,Address_55,ON,Internal Medicine,TRX,202606,DIABETES,76.158,1
+ID000109,Prescriber_108,Edmonton,T6J,T6J 7K1,Address_108,AB,Family Medicine,TRX,202606,DIABETES,84.834,0
+ID000109,Prescriber_108,Edmonton,T6J,T6J 7K1,Address_108,AB,Family Medicine,TRX,202606,SYNTHGLYPTIN,95.284,0
+ID000106,Prescriber_105,Brampton,L6R,L6R 3S9,Address_105,ON,Family Medicine,TRX,202606,SYNTHGLYPTIN,143.727,0
+ID000103,Prescriber_102,Gatineau,J8Y,J8Y 3B5,Address_102,QC,Family Medicine,TRX,202606,INSUZA,146.246,0
+ID000103,Prescriber_102,Gatineau,J8Y,J8Y 3B5,Address_102,QC,Family Medicine,TRX,202606,ALL OTHERS,79.901,1
+ID000099,Prescriber_98,Toronto,M7A,M7A 1B3,Address_98,ON,Family Medicine,TRX,202606,PLOMAX,175.606,0
+ID000098,Prescriber_97,Whitby,L1N,L1N 2L1,Address_97,ON,Family Medicine,TRX,202606,ADRAVIL,60.79,0
+ID000087,Prescriber_86,Pickering,L1V,L1V 6R6,Address_86,ON,Dermatology,TRX,202606,ADRAVIL,136.328,1
+ID000084,Prescriber_83,Guelph,N1H,N1H 6H9,Address_83,ON,Family Medicine,TRX,202606,GLIDIM,97.178,0
+ID000010,Prescriber_9,Regina,S4V,S4V 3A3,Address_9,SK,Cardiology,TRX,202606,ADRAVIL,162.4,0
+ID000009,Prescriber_8,Schomberg,L0G,L0G 1T0,Address_8,ON,Family Medicine,TRX,202606,PLOMAX,109.813,0
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202606,DIABETES,43.151,1
+ID000031,Prescriber_30,Mississauga,L4Y,L4Y 2N8,Address_30,ON,Family Medicine,TRX,202606,SYNTHGLYPTIN,32.679,0
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202606,SYNTHGLYPTIN,134.458,0
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202606,DIABETES,44.783,1
+ID000199,Prescriber_198,Greenfield Park,J4V,J4V 2G9,Address_198,QC,Family Medicine,TRX,202606,ALL OTHERS,60.759,0
+ID000180,Prescriber_179,Brampton,L7A,L7A 3E5,Address_179,ON,Family Medicine,TRX,202606,PLOMAX,28.99,1
+ID000180,Prescriber_179,Brampton,L7A,L7A 3E5,Address_179,ON,Family Medicine,TRX,202606,GLIDIM,98.707,1
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202606,OTHER COMP,30.56,0
+ID000216,Prescriber_215,Val-D'or,J9P,J9P 3Y1,Address_215,QC,Family Medicine,TRX,202606,ALL OTHERS,191.192,0
+ID000214,Prescriber_213,Quebec,G1R,G1R 2J6,Address_213,QC,Nephrology,TRX,202606,SYNTHGLYPTIN,117.055,1
+ID000214,Prescriber_213,Quebec,G1R,G1R 2J6,Address_213,QC,Nephrology,TRX,202606,GLIDIM,101.774,0
+ID000216,Prescriber_215,Val-D'or,J9P,J9P 3Y1,Address_215,QC,Family Medicine,TRX,202606,TRETONIN,101.173,1
+ID000176,Prescriber_175,Atikokan,P0T,P0T 1C0,Address_175,ON,General Practice,TRX,202606,SYNTHGLYPTIN,144.451,0
+ID000127,Prescriber_126,Brampton,L6R,L6R 3J7,Address_126,ON,Cardiology,TRX,202606,GLIDIM,88.84,1
+ID000123,Prescriber_122,Hamilton,L8P,L8P 1A1,Address_122,ON,Family Medicine,TRX,202606,OTHER COMP,132.862,1
+ID000123,Prescriber_122,Hamilton,L8P,L8P 1A1,Address_122,ON,Family Medicine,TRX,202606,TRETONIN,104.692,0
+ID000118,Prescriber_117,Nepean,K2J,K2J 3R2,Address_117,ON,Family Medicine,TRX,202606,INSUZA,62.384,0
+ID000118,Prescriber_117,Nepean,K2J,K2J 3R2,Address_117,ON,Family Medicine,TRX,202606,OTHER COMP,92.456,1
+ID000117,Prescriber_116,Scarborough,M1R,M1R 0B1,Address_116,ON,Family Medicine,TRX,202606,INSUZA,96.864,0
+ID000116,Prescriber_115,Whitecourt,T7S,T7S 1P9,Address_115,AB,Family Medicine,TRX,202606,GLIDIM,61.643,0
+ID000116,Prescriber_115,Whitecourt,T7S,T7S 1P9,Address_115,AB,Family Medicine,TRX,202606,DIABETES,64.734,0
+ID000124,Prescriber_123,Saint-Lambert,J4R,J4R 2L1,Address_123,QC,General Practice,TRX,202606,ALL OTHERS,95.403,1
+ID000168,Prescriber_167,Stittsville,K2S,K2S 1B1,Address_167,ON,Family Medicine,TRX,202606,SYNTHGLYPTIN,113.122,0
+ID000168,Prescriber_167,Stittsville,K2S,K2S 1B1,Address_167,ON,Family Medicine,TRX,202606,DIABETES,29.802,0
+ID000319,Prescriber_318,Chicoutimi,G7H,G7H 6B9,Address_318,QC,Family Medicine,TRX,202607,PROZALAN D,78.889,1
+ID000322,Prescriber_321,Bedford,J0J,J0J 1A0,Address_321,QC,Family Medicine,TRX,202607,TRETONIN,66.45,1
+ID000312,Prescriber_311,Saint-Bruno,J3V,J3V 1Y8,Address_311,QC,Family Medicine,TRX,202607,INSUZA,91.531,1
+ID000312,Prescriber_311,Saint-Bruno,J3V,J3V 1Y8,Address_311,QC,Family Medicine,TRX,202607,PLOMAX,112.985,1
+ID000310,Prescriber_309,Saint-Hubert,J3Y,J3Y 8Z4,Address_309,QC,Medical Internship,TRX,202607,PLOMAX,122.384,0
+ID000310,Prescriber_309,Saint-Hubert,J3Y,J3Y 8Z4,Address_309,QC,Medical Internship,TRX,202607,GLIDIM,264.98,0
+ID000370,Prescriber_369,Terrebonne,J6W,J6W 1T8,Address_369,QC,Family Medicine,TRX,202607,GLIDIM,112.272,0
+ID000360,Prescriber_359,Chicoutimi,G7H,G7H 1P6,Address_359,QC,Family Medicine,TRX,202607,ALL OTHERS,63.676,0
+ID000340,Prescriber_339,Terrebonne,J6X,J6X 4L9,Address_339,QC,Family Medicine,TRX,202607,ADRAVIL,124.483,0
+ID000340,Prescriber_339,Terrebonne,J6X,J6X 4L9,Address_339,QC,Family Medicine,TRX,202607,GLIDIM,167.552,0
+ID000261,Prescriber_260,Gatineau,J9A,J9A 1K7,Address_260,QC,Psychiatry,TRX,202607,OTHER COMP,175.967,1
+ID000261,Prescriber_260,Gatineau,J9A,J9A 1K7,Address_260,QC,Psychiatry,TRX,202607,TRETONIN,187.183,1
+ID000259,Prescriber_258,Shawinigan,G9N,G9N 0C8,Address_258,QC,Family Medicine,TRX,202607,PROZALAN D,144.451,0
+ID000251,Prescriber_250,Windsor,N9A,N9A 1E1,Address_250,ON,Endocrinology & Metabolism,TRX,202607,GLIDIM,160.789,0
+ID000250,Prescriber_249,Cambridge,N1R,N1R 3E5,Address_249,ON,Family Medicine,TRX,202607,ALL OTHERS,220.646,0
+ID000250,Prescriber_249,Cambridge,N1R,N1R 3E5,Address_249,ON,Family Medicine,TRX,202607,OTHER COMP,46.272,0
+ID000250,Prescriber_249,Cambridge,N1R,N1R 3E5,Address_249,ON,Family Medicine,TRX,202607,ALL OTHERS,100.563,0
+ID000248,Prescriber_247,Montreal,H2X,H2X 0A9,Address_247,QC,Neurology,TRX,202607,GLIDIM,130.333,0
+ID000248,Prescriber_247,Montreal,H2X,H2X 0A9,Address_247,QC,Neurology,TRX,202607,SYNTHGLYPTIN,46.001,0
+ID000262,Prescriber_261,Saskatoon,S7N,S7N 0W8,Address_261,SK,Pediatrics,TRX,202607,SYNTHGLYPTIN,86.029,0
+ID000263,Prescriber_262,Lloydminster,T9V,T9V 2P7,Address_262,AB,Family Medicine,TRX,202607,ALL OTHERS,103.505,0
+ID000263,Prescriber_262,Lloydminster,T9V,T9V 2P7,Address_262,AB,Family Medicine,TRX,202607,SYNTHGLYPTIN,89.585,1
+ID000290,Prescriber_289,Trois-Rivieres,G8T,G8T 7A6,Address_289,QC,Family Medicine,TRX,202607,SYNTHGLYPTIN,148.755,0
+ID000470,Prescriber_469,Midland,L4R,L4R 4P4,Address_469,ON,Family Medicine,TRX,202607,GLIDIM,91.506,0
+ID000455,Prescriber_454,Guelph,N1H,N1H 4J4,Address_454,ON,Family Medicine,TRX,202607,SYNTHGLYPTIN,99.656,1
+ID000451,Prescriber_450,Calgary,T2R,T2R 0X7,Address_450,AB,Family Medicine,TRX,202607,ALL OTHERS,46.599,0
+ID000451,Prescriber_450,Calgary,T2R,T2R 0X7,Address_450,AB,Family Medicine,TRX,202607,INSUZA,51.91,0
+ID000451,Prescriber_450,Calgary,T2R,T2R 0X7,Address_450,AB,Family Medicine,TRX,202607,ALL OTHERS,185.043,0
+ID000449,Prescriber_448,Trois-Rivieres,G8Z,G8Z 3R8,Address_448,QC,Family Medicine,TRX,202607,INSUZA,193.111,1
+ID000447,Prescriber_446,Mississauga,L5V,L5V 1N3,Address_446,ON,Family Medicine,TRX,202607,SYNTHGLYPTIN,168.651,0
+ID000440,Prescriber_439,Richmond Hill,L4B,L4B 0E6,Address_439,ON,Family Medicine,TRX,202607,TRETONIN,123.968,0
+ID000440,Prescriber_439,Richmond Hill,L4B,L4B 0E6,Address_439,ON,Family Medicine,TRX,202607,OTHER COMP,65.658,0
+ID000470,Prescriber_469,Midland,L4R,L4R 4P4,Address_469,ON,Family Medicine,TRX,202607,ALL OTHERS,130.103,0
+ID000488,Prescriber_487,Fredericton,E3B,E3B 3B7,Address_487,NB,Anesthesiology,TRX,202607,ADRAVIL,171.075,0
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202607,ADRAVIL,161.966,0
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202607,PLOMAX,69.315,1
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202607,OTHER COMP,88.703,0
+ID000482,Prescriber_481,Oakville,L6M,L6M 1M1,Address_481,ON,Endocrinology & Metabolism,TRX,202607,INSUZA,57.569,0
+ID000482,Prescriber_481,Oakville,L6M,L6M 1M1,Address_481,ON,Endocrinology & Metabolism,TRX,202607,GLIDIM,166.042,1
+ID000437,Prescriber_436,Huntsville,P1H,P1H 1H8,Address_436,ON,General Practice,TRX,202607,PLOMAX,72.5,0
+ID000394,Prescriber_393,Baie-Comeau,G4Z,G4Z 1K3,Address_393,QC,Family Medicine,TRX,202607,ALL OTHERS,71.762,0
+ID000394,Prescriber_393,Baie-Comeau,G4Z,G4Z 1K3,Address_393,QC,Family Medicine,TRX,202607,ALL OTHERS,136.194,1
+ID000389,Prescriber_388,Edmonton,T5Y,T5Y 4E1,Address_388,AB,Family Medicine,TRX,202607,PLOMAX,79.835,0
+ID000401,Prescriber_400,Trenton,K8V,K8V 3S1,Address_400,ON,Family Medicine,TRX,202607,SYNTHGLYPTIN,126.489,0
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202607,OTHER COMP,30.56,0
+ID000058,Prescriber_57,Salaberry-De-Valleyfield,J6T,J6T 6C1,Address_57,QC,Internal Medicine,TRX,202607,ALL OTHERS,104.065,1
+ID000056,Prescriber_55,Hamilton,L8N,L8N 4A6,Address_55,ON,Internal Medicine,TRX,202607,DIABETES,76.158,1
+ID000109,Prescriber_108,Edmonton,T6J,T6J 7K1,Address_108,AB,Family Medicine,TRX,202607,SYNTHGLYPTIN,95.284,0
+ID000106,Prescriber_105,Brampton,L6R,L6R 3S9,Address_105,ON,Family Medicine,TRX,202607,SYNTHGLYPTIN,143.727,0
+ID000103,Prescriber_102,Gatineau,J8Y,J8Y 3B5,Address_102,QC,Family Medicine,TRX,202607,INSUZA,146.246,0
+ID000103,Prescriber_102,Gatineau,J8Y,J8Y 3B5,Address_102,QC,Family Medicine,TRX,202607,ALL OTHERS,79.901,1
+ID000099,Prescriber_98,Toronto,M7A,M7A 1B3,Address_98,ON,Family Medicine,TRX,202607,PLOMAX,175.606,0
+ID000098,Prescriber_97,Whitby,L1N,L1N 2L1,Address_97,ON,Family Medicine,TRX,202607,ADRAVIL,60.79,0
+ID000087,Prescriber_86,Pickering,L1V,L1V 6R6,Address_86,ON,Dermatology,TRX,202607,ADRAVIL,136.328,1
+ID000084,Prescriber_83,Guelph,N1H,N1H 6H9,Address_83,ON,Family Medicine,TRX,202607,GLIDIM,97.178,0
+ID000010,Prescriber_9,Regina,S4V,S4V 3A3,Address_9,SK,Cardiology,TRX,202607,ADRAVIL,162.4,0
+ID000009,Prescriber_8,Schomberg,L0G,L0G 1T0,Address_8,ON,Family Medicine,TRX,202607,PLOMAX,109.813,0
+ID000109,Prescriber_108,Edmonton,T6J,T6J 7K1,Address_108,AB,Family Medicine,TRX,202607,DIABETES,84.834,0
+ID000031,Prescriber_30,Mississauga,L4Y,L4Y 2N8,Address_30,ON,Family Medicine,TRX,202607,SYNTHGLYPTIN,32.679,0
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202607,DIABETES,43.151,1
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202607,DIABETES,44.783,1
+ID000199,Prescriber_198,Greenfield Park,J4V,J4V 2G9,Address_198,QC,Family Medicine,TRX,202607,ALL OTHERS,60.759,0
+ID000180,Prescriber_179,Brampton,L7A,L7A 3E5,Address_179,ON,Family Medicine,TRX,202607,PLOMAX,28.99,1
+ID000180,Prescriber_179,Brampton,L7A,L7A 3E5,Address_179,ON,Family Medicine,TRX,202607,GLIDIM,98.707,1
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202607,SYNTHGLYPTIN,134.458,0
+ID000216,Prescriber_215,Val-D'or,J9P,J9P 3Y1,Address_215,QC,Family Medicine,TRX,202607,ALL OTHERS,191.192,0
+ID000214,Prescriber_213,Quebec,G1R,G1R 2J6,Address_213,QC,Nephrology,TRX,202607,SYNTHGLYPTIN,117.055,1
+ID000214,Prescriber_213,Quebec,G1R,G1R 2J6,Address_213,QC,Nephrology,TRX,202607,GLIDIM,101.774,0
+ID000216,Prescriber_215,Val-D'or,J9P,J9P 3Y1,Address_215,QC,Family Medicine,TRX,202607,TRETONIN,101.173,1
+ID000176,Prescriber_175,Atikokan,P0T,P0T 1C0,Address_175,ON,General Practice,TRX,202607,SYNTHGLYPTIN,144.451,0
+ID000127,Prescriber_126,Brampton,L6R,L6R 3J7,Address_126,ON,Cardiology,TRX,202607,GLIDIM,88.84,1
+ID000124,Prescriber_123,Saint-Lambert,J4R,J4R 2L1,Address_123,QC,General Practice,TRX,202607,ALL OTHERS,95.403,1
+ID000123,Prescriber_122,Hamilton,L8P,L8P 1A1,Address_122,ON,Family Medicine,TRX,202607,OTHER COMP,132.862,1
+ID000123,Prescriber_122,Hamilton,L8P,L8P 1A1,Address_122,ON,Family Medicine,TRX,202607,TRETONIN,104.692,0
+ID000118,Prescriber_117,Nepean,K2J,K2J 3R2,Address_117,ON,Family Medicine,TRX,202607,INSUZA,62.384,0
+ID000118,Prescriber_117,Nepean,K2J,K2J 3R2,Address_117,ON,Family Medicine,TRX,202607,OTHER COMP,92.456,1
+ID000117,Prescriber_116,Scarborough,M1R,M1R 0B1,Address_116,ON,Family Medicine,TRX,202607,INSUZA,96.864,0
+ID000116,Prescriber_115,Whitecourt,T7S,T7S 1P9,Address_115,AB,Family Medicine,TRX,202607,GLIDIM,61.643,0
+ID000116,Prescriber_115,Whitecourt,T7S,T7S 1P9,Address_115,AB,Family Medicine,TRX,202607,DIABETES,64.734,0
+ID000168,Prescriber_167,Stittsville,K2S,K2S 1B1,Address_167,ON,Family Medicine,TRX,202607,SYNTHGLYPTIN,113.122,0
+ID000168,Prescriber_167,Stittsville,K2S,K2S 1B1,Address_167,ON,Family Medicine,TRX,202607,DIABETES,29.802,0
+ID000319,Prescriber_318,Chicoutimi,G7H,G7H 6B9,Address_318,QC,Family Medicine,TRX,202608,PROZALAN D,78.889,1
+ID000322,Prescriber_321,Bedford,J0J,J0J 1A0,Address_321,QC,Family Medicine,TRX,202608,TRETONIN,66.45,1
+ID000312,Prescriber_311,Saint-Bruno,J3V,J3V 1Y8,Address_311,QC,Family Medicine,TRX,202608,INSUZA,91.531,1
+ID000312,Prescriber_311,Saint-Bruno,J3V,J3V 1Y8,Address_311,QC,Family Medicine,TRX,202608,PLOMAX,112.985,1
+ID000310,Prescriber_309,Saint-Hubert,J3Y,J3Y 8Z4,Address_309,QC,Medical Internship,TRX,202608,PLOMAX,122.384,0
+ID000310,Prescriber_309,Saint-Hubert,J3Y,J3Y 8Z4,Address_309,QC,Medical Internship,TRX,202608,GLIDIM,264.98,0
+ID000370,Prescriber_369,Terrebonne,J6W,J6W 1T8,Address_369,QC,Family Medicine,TRX,202608,GLIDIM,112.272,0
+ID000360,Prescriber_359,Chicoutimi,G7H,G7H 1P6,Address_359,QC,Family Medicine,TRX,202608,ALL OTHERS,63.676,0
+ID000340,Prescriber_339,Terrebonne,J6X,J6X 4L9,Address_339,QC,Family Medicine,TRX,202608,ADRAVIL,124.483,0
+ID000340,Prescriber_339,Terrebonne,J6X,J6X 4L9,Address_339,QC,Family Medicine,TRX,202608,GLIDIM,167.552,0
+ID000262,Prescriber_261,Saskatoon,S7N,S7N 0W8,Address_261,SK,Pediatrics,TRX,202608,SYNTHGLYPTIN,86.029,0
+ID000261,Prescriber_260,Gatineau,J9A,J9A 1K7,Address_260,QC,Psychiatry,TRX,202608,OTHER COMP,175.967,1
+ID000261,Prescriber_260,Gatineau,J9A,J9A 1K7,Address_260,QC,Psychiatry,TRX,202608,TRETONIN,187.183,1
+ID000259,Prescriber_258,Shawinigan,G9N,G9N 0C8,Address_258,QC,Family Medicine,TRX,202608,PROZALAN D,144.451,0
+ID000251,Prescriber_250,Windsor,N9A,N9A 1E1,Address_250,ON,Endocrinology & Metabolism,TRX,202608,GLIDIM,160.789,0
+ID000250,Prescriber_249,Cambridge,N1R,N1R 3E5,Address_249,ON,Family Medicine,TRX,202608,ALL OTHERS,220.646,0
+ID000250,Prescriber_249,Cambridge,N1R,N1R 3E5,Address_249,ON,Family Medicine,TRX,202608,OTHER COMP,46.272,0
+ID000250,Prescriber_249,Cambridge,N1R,N1R 3E5,Address_249,ON,Family Medicine,TRX,202608,ALL OTHERS,100.563,0
+ID000248,Prescriber_247,Montreal,H2X,H2X 0A9,Address_247,QC,Neurology,TRX,202608,GLIDIM,130.333,0
+ID000248,Prescriber_247,Montreal,H2X,H2X 0A9,Address_247,QC,Neurology,TRX,202608,SYNTHGLYPTIN,46.001,0
+ID000263,Prescriber_262,Lloydminster,T9V,T9V 2P7,Address_262,AB,Family Medicine,TRX,202608,ALL OTHERS,103.505,0
+ID000263,Prescriber_262,Lloydminster,T9V,T9V 2P7,Address_262,AB,Family Medicine,TRX,202608,SYNTHGLYPTIN,89.585,1
+ID000290,Prescriber_289,Trois-Rivieres,G8T,G8T 7A6,Address_289,QC,Family Medicine,TRX,202608,SYNTHGLYPTIN,148.755,0
+ID000470,Prescriber_469,Midland,L4R,L4R 4P4,Address_469,ON,Family Medicine,TRX,202608,ALL OTHERS,130.103,0
+ID000470,Prescriber_469,Midland,L4R,L4R 4P4,Address_469,ON,Family Medicine,TRX,202608,GLIDIM,91.506,0
+ID000455,Prescriber_454,Guelph,N1H,N1H 4J4,Address_454,ON,Family Medicine,TRX,202608,SYNTHGLYPTIN,99.656,1
+ID000451,Prescriber_450,Calgary,T2R,T2R 0X7,Address_450,AB,Family Medicine,TRX,202608,ALL OTHERS,46.599,0
+ID000451,Prescriber_450,Calgary,T2R,T2R 0X7,Address_450,AB,Family Medicine,TRX,202608,INSUZA,51.91,0
+ID000451,Prescriber_450,Calgary,T2R,T2R 0X7,Address_450,AB,Family Medicine,TRX,202608,ALL OTHERS,185.043,0
+ID000449,Prescriber_448,Trois-Rivieres,G8Z,G8Z 3R8,Address_448,QC,Family Medicine,TRX,202608,INSUZA,193.111,1
+ID000447,Prescriber_446,Mississauga,L5V,L5V 1N3,Address_446,ON,Family Medicine,TRX,202608,SYNTHGLYPTIN,168.651,0
+ID000440,Prescriber_439,Richmond Hill,L4B,L4B 0E6,Address_439,ON,Family Medicine,TRX,202608,TRETONIN,123.968,0
+ID000440,Prescriber_439,Richmond Hill,L4B,L4B 0E6,Address_439,ON,Family Medicine,TRX,202608,OTHER COMP,65.658,0
+ID000488,Prescriber_487,Fredericton,E3B,E3B 3B7,Address_487,NB,Anesthesiology,TRX,202608,ADRAVIL,171.075,0
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202608,ADRAVIL,161.966,0
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202608,PLOMAX,69.315,1
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202608,OTHER COMP,88.703,0
+ID000482,Prescriber_481,Oakville,L6M,L6M 1M1,Address_481,ON,Endocrinology & Metabolism,TRX,202608,INSUZA,57.569,0
+ID000482,Prescriber_481,Oakville,L6M,L6M 1M1,Address_481,ON,Endocrinology & Metabolism,TRX,202608,GLIDIM,166.042,1
+ID000437,Prescriber_436,Huntsville,P1H,P1H 1H8,Address_436,ON,General Practice,TRX,202608,PLOMAX,72.5,0
+ID000401,Prescriber_400,Trenton,K8V,K8V 3S1,Address_400,ON,Family Medicine,TRX,202608,SYNTHGLYPTIN,126.489,0
+ID000394,Prescriber_393,Baie-Comeau,G4Z,G4Z 1K3,Address_393,QC,Family Medicine,TRX,202608,ALL OTHERS,71.762,0
+ID000394,Prescriber_393,Baie-Comeau,G4Z,G4Z 1K3,Address_393,QC,Family Medicine,TRX,202608,ALL OTHERS,136.194,1
+ID000389,Prescriber_388,Edmonton,T5Y,T5Y 4E1,Address_388,AB,Family Medicine,TRX,202608,PLOMAX,79.835,0
+ID000058,Prescriber_57,Salaberry-De-Valleyfield,J6T,J6T 6C1,Address_57,QC,Internal Medicine,TRX,202608,ALL OTHERS,104.065,1
+ID000056,Prescriber_55,Hamilton,L8N,L8N 4A6,Address_55,ON,Internal Medicine,TRX,202608,DIABETES,76.158,1
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202608,DIABETES,43.151,1
+ID000109,Prescriber_108,Edmonton,T6J,T6J 7K1,Address_108,AB,Family Medicine,TRX,202608,DIABETES,84.834,0
+ID000109,Prescriber_108,Edmonton,T6J,T6J 7K1,Address_108,AB,Family Medicine,TRX,202608,SYNTHGLYPTIN,95.284,0
+ID000106,Prescriber_105,Brampton,L6R,L6R 3S9,Address_105,ON,Family Medicine,TRX,202608,SYNTHGLYPTIN,143.727,0
+ID000103,Prescriber_102,Gatineau,J8Y,J8Y 3B5,Address_102,QC,Family Medicine,TRX,202608,INSUZA,146.246,0
+ID000103,Prescriber_102,Gatineau,J8Y,J8Y 3B5,Address_102,QC,Family Medicine,TRX,202608,ALL OTHERS,79.901,1
+ID000099,Prescriber_98,Toronto,M7A,M7A 1B3,Address_98,ON,Family Medicine,TRX,202608,PLOMAX,175.606,0
+ID000098,Prescriber_97,Whitby,L1N,L1N 2L1,Address_97,ON,Family Medicine,TRX,202608,ADRAVIL,60.79,0
+ID000087,Prescriber_86,Pickering,L1V,L1V 6R6,Address_86,ON,Dermatology,TRX,202608,ADRAVIL,136.328,1
+ID000084,Prescriber_83,Guelph,N1H,N1H 6H9,Address_83,ON,Family Medicine,TRX,202608,GLIDIM,97.178,0
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202608,SYNTHGLYPTIN,134.458,0
+ID000010,Prescriber_9,Regina,S4V,S4V 3A3,Address_9,SK,Cardiology,TRX,202608,ADRAVIL,162.4,0
+ID000009,Prescriber_8,Schomberg,L0G,L0G 1T0,Address_8,ON,Family Medicine,TRX,202608,PLOMAX,109.813,0
+ID000031,Prescriber_30,Mississauga,L4Y,L4Y 2N8,Address_30,ON,Family Medicine,TRX,202608,SYNTHGLYPTIN,32.679,0
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202608,OTHER COMP,30.56,0
+ID000199,Prescriber_198,Greenfield Park,J4V,J4V 2G9,Address_198,QC,Family Medicine,TRX,202608,ALL OTHERS,60.759,0
+ID000180,Prescriber_179,Brampton,L7A,L7A 3E5,Address_179,ON,Family Medicine,TRX,202608,PLOMAX,28.99,1
+ID000180,Prescriber_179,Brampton,L7A,L7A 3E5,Address_179,ON,Family Medicine,TRX,202608,GLIDIM,98.707,1
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202608,DIABETES,44.783,1
+ID000216,Prescriber_215,Val-D'or,J9P,J9P 3Y1,Address_215,QC,Family Medicine,TRX,202608,ALL OTHERS,191.192,0
+ID000214,Prescriber_213,Quebec,G1R,G1R 2J6,Address_213,QC,Nephrology,TRX,202608,SYNTHGLYPTIN,117.055,1
+ID000214,Prescriber_213,Quebec,G1R,G1R 2J6,Address_213,QC,Nephrology,TRX,202608,GLIDIM,101.774,0
+ID000216,Prescriber_215,Val-D'or,J9P,J9P 3Y1,Address_215,QC,Family Medicine,TRX,202608,TRETONIN,101.173,1
+ID000127,Prescriber_126,Brampton,L6R,L6R 3J7,Address_126,ON,Cardiology,TRX,202608,GLIDIM,88.84,1
+ID000124,Prescriber_123,Saint-Lambert,J4R,J4R 2L1,Address_123,QC,General Practice,TRX,202608,ALL OTHERS,95.403,1
+ID000123,Prescriber_122,Hamilton,L8P,L8P 1A1,Address_122,ON,Family Medicine,TRX,202608,OTHER COMP,132.862,1
+ID000123,Prescriber_122,Hamilton,L8P,L8P 1A1,Address_122,ON,Family Medicine,TRX,202608,TRETONIN,104.692,0
+ID000118,Prescriber_117,Nepean,K2J,K2J 3R2,Address_117,ON,Family Medicine,TRX,202608,INSUZA,62.384,0
+ID000118,Prescriber_117,Nepean,K2J,K2J 3R2,Address_117,ON,Family Medicine,TRX,202608,OTHER COMP,92.456,1
+ID000117,Prescriber_116,Scarborough,M1R,M1R 0B1,Address_116,ON,Family Medicine,TRX,202608,INSUZA,96.864,0
+ID000116,Prescriber_115,Whitecourt,T7S,T7S 1P9,Address_115,AB,Family Medicine,TRX,202608,GLIDIM,61.643,0
+ID000116,Prescriber_115,Whitecourt,T7S,T7S 1P9,Address_115,AB,Family Medicine,TRX,202608,DIABETES,64.734,0
+ID000176,Prescriber_175,Atikokan,P0T,P0T 1C0,Address_175,ON,General Practice,TRX,202608,SYNTHGLYPTIN,144.451,0
+ID000168,Prescriber_167,Stittsville,K2S,K2S 1B1,Address_167,ON,Family Medicine,TRX,202608,SYNTHGLYPTIN,113.122,0
+ID000168,Prescriber_167,Stittsville,K2S,K2S 1B1,Address_167,ON,Family Medicine,TRX,202608,DIABETES,29.802,0
+ID000322,Prescriber_321,Bedford,J0J,J0J 1A0,Address_321,QC,Family Medicine,TRX,202609,TRETONIN,66.45,1
+ID000319,Prescriber_318,Chicoutimi,G7H,G7H 6B9,Address_318,QC,Family Medicine,TRX,202609,PROZALAN D,78.889,1
+ID000312,Prescriber_311,Saint-Bruno,J3V,J3V 1Y8,Address_311,QC,Family Medicine,TRX,202609,INSUZA,91.531,1
+ID000312,Prescriber_311,Saint-Bruno,J3V,J3V 1Y8,Address_311,QC,Family Medicine,TRX,202609,PLOMAX,112.985,1
+ID000310,Prescriber_309,Saint-Hubert,J3Y,J3Y 8Z4,Address_309,QC,Medical Internship,TRX,202609,PLOMAX,122.384,0
+ID000310,Prescriber_309,Saint-Hubert,J3Y,J3Y 8Z4,Address_309,QC,Medical Internship,TRX,202609,GLIDIM,264.98,0
+ID000370,Prescriber_369,Terrebonne,J6W,J6W 1T8,Address_369,QC,Family Medicine,TRX,202609,GLIDIM,112.272,0
+ID000360,Prescriber_359,Chicoutimi,G7H,G7H 1P6,Address_359,QC,Family Medicine,TRX,202609,ALL OTHERS,63.676,0
+ID000340,Prescriber_339,Terrebonne,J6X,J6X 4L9,Address_339,QC,Family Medicine,TRX,202609,ADRAVIL,124.483,0
+ID000340,Prescriber_339,Terrebonne,J6X,J6X 4L9,Address_339,QC,Family Medicine,TRX,202609,GLIDIM,167.552,0
+ID000261,Prescriber_260,Gatineau,J9A,J9A 1K7,Address_260,QC,Psychiatry,TRX,202609,TRETONIN,187.183,1
+ID000259,Prescriber_258,Shawinigan,G9N,G9N 0C8,Address_258,QC,Family Medicine,TRX,202609,PROZALAN D,144.451,0
+ID000251,Prescriber_250,Windsor,N9A,N9A 1E1,Address_250,ON,Endocrinology & Metabolism,TRX,202609,GLIDIM,160.789,0
+ID000250,Prescriber_249,Cambridge,N1R,N1R 3E5,Address_249,ON,Family Medicine,TRX,202609,ALL OTHERS,220.646,0
+ID000250,Prescriber_249,Cambridge,N1R,N1R 3E5,Address_249,ON,Family Medicine,TRX,202609,OTHER COMP,46.272,0
+ID000250,Prescriber_249,Cambridge,N1R,N1R 3E5,Address_249,ON,Family Medicine,TRX,202609,ALL OTHERS,100.563,0
+ID000248,Prescriber_247,Montreal,H2X,H2X 0A9,Address_247,QC,Neurology,TRX,202609,GLIDIM,130.333,0
+ID000248,Prescriber_247,Montreal,H2X,H2X 0A9,Address_247,QC,Neurology,TRX,202609,SYNTHGLYPTIN,46.001,0
+ID000261,Prescriber_260,Gatineau,J9A,J9A 1K7,Address_260,QC,Psychiatry,TRX,202609,OTHER COMP,175.967,1
+ID000262,Prescriber_261,Saskatoon,S7N,S7N 0W8,Address_261,SK,Pediatrics,TRX,202609,SYNTHGLYPTIN,86.029,0
+ID000263,Prescriber_262,Lloydminster,T9V,T9V 2P7,Address_262,AB,Family Medicine,TRX,202609,ALL OTHERS,103.505,0
+ID000263,Prescriber_262,Lloydminster,T9V,T9V 2P7,Address_262,AB,Family Medicine,TRX,202609,SYNTHGLYPTIN,89.585,1
+ID000290,Prescriber_289,Trois-Rivieres,G8T,G8T 7A6,Address_289,QC,Family Medicine,TRX,202609,SYNTHGLYPTIN,148.755,0
+ID000470,Prescriber_469,Midland,L4R,L4R 4P4,Address_469,ON,Family Medicine,TRX,202609,ALL OTHERS,130.103,0
+ID000470,Prescriber_469,Midland,L4R,L4R 4P4,Address_469,ON,Family Medicine,TRX,202609,GLIDIM,91.506,0
+ID000455,Prescriber_454,Guelph,N1H,N1H 4J4,Address_454,ON,Family Medicine,TRX,202609,SYNTHGLYPTIN,99.656,1
+ID000451,Prescriber_450,Calgary,T2R,T2R 0X7,Address_450,AB,Family Medicine,TRX,202609,ALL OTHERS,46.599,0
+ID000451,Prescriber_450,Calgary,T2R,T2R 0X7,Address_450,AB,Family Medicine,TRX,202609,INSUZA,51.91,0
+ID000451,Prescriber_450,Calgary,T2R,T2R 0X7,Address_450,AB,Family Medicine,TRX,202609,ALL OTHERS,185.043,0
+ID000449,Prescriber_448,Trois-Rivieres,G8Z,G8Z 3R8,Address_448,QC,Family Medicine,TRX,202609,INSUZA,193.111,1
+ID000447,Prescriber_446,Mississauga,L5V,L5V 1N3,Address_446,ON,Family Medicine,TRX,202609,SYNTHGLYPTIN,168.651,0
+ID000440,Prescriber_439,Richmond Hill,L4B,L4B 0E6,Address_439,ON,Family Medicine,TRX,202609,TRETONIN,123.968,0
+ID000440,Prescriber_439,Richmond Hill,L4B,L4B 0E6,Address_439,ON,Family Medicine,TRX,202609,OTHER COMP,65.658,0
+ID000488,Prescriber_487,Fredericton,E3B,E3B 3B7,Address_487,NB,Anesthesiology,TRX,202609,ADRAVIL,171.075,0
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202609,ADRAVIL,161.966,0
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202609,PLOMAX,69.315,1
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202609,OTHER COMP,88.703,0
+ID000482,Prescriber_481,Oakville,L6M,L6M 1M1,Address_481,ON,Endocrinology & Metabolism,TRX,202609,INSUZA,57.569,0
+ID000482,Prescriber_481,Oakville,L6M,L6M 1M1,Address_481,ON,Endocrinology & Metabolism,TRX,202609,GLIDIM,166.042,1
+ID000401,Prescriber_400,Trenton,K8V,K8V 3S1,Address_400,ON,Family Medicine,TRX,202609,SYNTHGLYPTIN,126.489,0
+ID000394,Prescriber_393,Baie-Comeau,G4Z,G4Z 1K3,Address_393,QC,Family Medicine,TRX,202609,ALL OTHERS,71.762,0
+ID000394,Prescriber_393,Baie-Comeau,G4Z,G4Z 1K3,Address_393,QC,Family Medicine,TRX,202609,ALL OTHERS,136.194,1
+ID000389,Prescriber_388,Edmonton,T5Y,T5Y 4E1,Address_388,AB,Family Medicine,TRX,202609,PLOMAX,79.835,0
+ID000437,Prescriber_436,Huntsville,P1H,P1H 1H8,Address_436,ON,General Practice,TRX,202609,PLOMAX,72.5,0
+ID000058,Prescriber_57,Salaberry-De-Valleyfield,J6T,J6T 6C1,Address_57,QC,Internal Medicine,TRX,202609,ALL OTHERS,104.065,1
+ID000056,Prescriber_55,Hamilton,L8N,L8N 4A6,Address_55,ON,Internal Medicine,TRX,202609,DIABETES,76.158,1
+ID000109,Prescriber_108,Edmonton,T6J,T6J 7K1,Address_108,AB,Family Medicine,TRX,202609,DIABETES,84.834,0
+ID000109,Prescriber_108,Edmonton,T6J,T6J 7K1,Address_108,AB,Family Medicine,TRX,202609,SYNTHGLYPTIN,95.284,0
+ID000106,Prescriber_105,Brampton,L6R,L6R 3S9,Address_105,ON,Family Medicine,TRX,202609,SYNTHGLYPTIN,143.727,0
+ID000103,Prescriber_102,Gatineau,J8Y,J8Y 3B5,Address_102,QC,Family Medicine,TRX,202609,INSUZA,146.246,0
+ID000103,Prescriber_102,Gatineau,J8Y,J8Y 3B5,Address_102,QC,Family Medicine,TRX,202609,ALL OTHERS,79.901,1
+ID000099,Prescriber_98,Toronto,M7A,M7A 1B3,Address_98,ON,Family Medicine,TRX,202609,PLOMAX,175.606,0
+ID000098,Prescriber_97,Whitby,L1N,L1N 2L1,Address_97,ON,Family Medicine,TRX,202609,ADRAVIL,60.79,0
+ID000087,Prescriber_86,Pickering,L1V,L1V 6R6,Address_86,ON,Dermatology,TRX,202609,ADRAVIL,136.328,1
+ID000084,Prescriber_83,Guelph,N1H,N1H 6H9,Address_83,ON,Family Medicine,TRX,202609,GLIDIM,97.178,0
+ID000010,Prescriber_9,Regina,S4V,S4V 3A3,Address_9,SK,Cardiology,TRX,202609,ADRAVIL,162.4,0
+ID000009,Prescriber_8,Schomberg,L0G,L0G 1T0,Address_8,ON,Family Medicine,TRX,202609,PLOMAX,109.813,0
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202609,DIABETES,43.151,1
+ID000031,Prescriber_30,Mississauga,L4Y,L4Y 2N8,Address_30,ON,Family Medicine,TRX,202609,SYNTHGLYPTIN,32.679,0
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202609,SYNTHGLYPTIN,134.458,0
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202609,DIABETES,44.783,1
+ID000199,Prescriber_198,Greenfield Park,J4V,J4V 2G9,Address_198,QC,Family Medicine,TRX,202609,ALL OTHERS,60.759,0
+ID000180,Prescriber_179,Brampton,L7A,L7A 3E5,Address_179,ON,Family Medicine,TRX,202609,PLOMAX,28.99,1
+ID000180,Prescriber_179,Brampton,L7A,L7A 3E5,Address_179,ON,Family Medicine,TRX,202609,GLIDIM,98.707,1
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202609,OTHER COMP,30.56,0
+ID000216,Prescriber_215,Val-D'or,J9P,J9P 3Y1,Address_215,QC,Family Medicine,TRX,202609,ALL OTHERS,191.192,0
+ID000214,Prescriber_213,Quebec,G1R,G1R 2J6,Address_213,QC,Nephrology,TRX,202609,SYNTHGLYPTIN,117.055,1
+ID000214,Prescriber_213,Quebec,G1R,G1R 2J6,Address_213,QC,Nephrology,TRX,202609,GLIDIM,101.774,0
+ID000216,Prescriber_215,Val-D'or,J9P,J9P 3Y1,Address_215,QC,Family Medicine,TRX,202609,TRETONIN,101.173,1
+ID000176,Prescriber_175,Atikokan,P0T,P0T 1C0,Address_175,ON,General Practice,TRX,202609,SYNTHGLYPTIN,144.451,0
+ID000127,Prescriber_126,Brampton,L6R,L6R 3J7,Address_126,ON,Cardiology,TRX,202609,GLIDIM,88.84,1
+ID000123,Prescriber_122,Hamilton,L8P,L8P 1A1,Address_122,ON,Family Medicine,TRX,202609,OTHER COMP,132.862,1
+ID000123,Prescriber_122,Hamilton,L8P,L8P 1A1,Address_122,ON,Family Medicine,TRX,202609,TRETONIN,104.692,0
+ID000118,Prescriber_117,Nepean,K2J,K2J 3R2,Address_117,ON,Family Medicine,TRX,202609,INSUZA,62.384,0
+ID000118,Prescriber_117,Nepean,K2J,K2J 3R2,Address_117,ON,Family Medicine,TRX,202609,OTHER COMP,92.456,1
+ID000117,Prescriber_116,Scarborough,M1R,M1R 0B1,Address_116,ON,Family Medicine,TRX,202609,INSUZA,96.864,0
+ID000116,Prescriber_115,Whitecourt,T7S,T7S 1P9,Address_115,AB,Family Medicine,TRX,202609,GLIDIM,61.643,0
+ID000116,Prescriber_115,Whitecourt,T7S,T7S 1P9,Address_115,AB,Family Medicine,TRX,202609,DIABETES,64.734,0
+ID000124,Prescriber_123,Saint-Lambert,J4R,J4R 2L1,Address_123,QC,General Practice,TRX,202609,ALL OTHERS,95.403,1
+ID000168,Prescriber_167,Stittsville,K2S,K2S 1B1,Address_167,ON,Family Medicine,TRX,202609,SYNTHGLYPTIN,113.122,0
+ID000168,Prescriber_167,Stittsville,K2S,K2S 1B1,Address_167,ON,Family Medicine,TRX,202609,DIABETES,29.802,0
+ID000319,Prescriber_318,Chicoutimi,G7H,G7H 6B9,Address_318,QC,Family Medicine,TRX,202610,PROZALAN D,78.889,1
+ID000322,Prescriber_321,Bedford,J0J,J0J 1A0,Address_321,QC,Family Medicine,TRX,202610,TRETONIN,66.45,1
+ID000312,Prescriber_311,Saint-Bruno,J3V,J3V 1Y8,Address_311,QC,Family Medicine,TRX,202610,INSUZA,91.531,1
+ID000312,Prescriber_311,Saint-Bruno,J3V,J3V 1Y8,Address_311,QC,Family Medicine,TRX,202610,PLOMAX,112.985,1
+ID000310,Prescriber_309,Saint-Hubert,J3Y,J3Y 8Z4,Address_309,QC,Medical Internship,TRX,202610,PLOMAX,122.384,0
+ID000310,Prescriber_309,Saint-Hubert,J3Y,J3Y 8Z4,Address_309,QC,Medical Internship,TRX,202610,GLIDIM,264.98,0
+ID000370,Prescriber_369,Terrebonne,J6W,J6W 1T8,Address_369,QC,Family Medicine,TRX,202610,GLIDIM,112.272,0
+ID000360,Prescriber_359,Chicoutimi,G7H,G7H 1P6,Address_359,QC,Family Medicine,TRX,202610,ALL OTHERS,63.676,0
+ID000340,Prescriber_339,Terrebonne,J6X,J6X 4L9,Address_339,QC,Family Medicine,TRX,202610,ADRAVIL,124.483,0
+ID000340,Prescriber_339,Terrebonne,J6X,J6X 4L9,Address_339,QC,Family Medicine,TRX,202610,GLIDIM,167.552,0
+ID000261,Prescriber_260,Gatineau,J9A,J9A 1K7,Address_260,QC,Psychiatry,TRX,202610,OTHER COMP,175.967,1
+ID000261,Prescriber_260,Gatineau,J9A,J9A 1K7,Address_260,QC,Psychiatry,TRX,202610,TRETONIN,187.183,1
+ID000259,Prescriber_258,Shawinigan,G9N,G9N 0C8,Address_258,QC,Family Medicine,TRX,202610,PROZALAN D,144.451,0
+ID000251,Prescriber_250,Windsor,N9A,N9A 1E1,Address_250,ON,Endocrinology & Metabolism,TRX,202610,GLIDIM,160.789,0
+ID000250,Prescriber_249,Cambridge,N1R,N1R 3E5,Address_249,ON,Family Medicine,TRX,202610,ALL OTHERS,220.646,0
+ID000250,Prescriber_249,Cambridge,N1R,N1R 3E5,Address_249,ON,Family Medicine,TRX,202610,OTHER COMP,46.272,0
+ID000250,Prescriber_249,Cambridge,N1R,N1R 3E5,Address_249,ON,Family Medicine,TRX,202610,ALL OTHERS,100.563,0
+ID000248,Prescriber_247,Montreal,H2X,H2X 0A9,Address_247,QC,Neurology,TRX,202610,GLIDIM,130.333,0
+ID000248,Prescriber_247,Montreal,H2X,H2X 0A9,Address_247,QC,Neurology,TRX,202610,SYNTHGLYPTIN,46.001,0
+ID000262,Prescriber_261,Saskatoon,S7N,S7N 0W8,Address_261,SK,Pediatrics,TRX,202610,SYNTHGLYPTIN,86.029,0
+ID000263,Prescriber_262,Lloydminster,T9V,T9V 2P7,Address_262,AB,Family Medicine,TRX,202610,ALL OTHERS,103.505,0
+ID000263,Prescriber_262,Lloydminster,T9V,T9V 2P7,Address_262,AB,Family Medicine,TRX,202610,SYNTHGLYPTIN,89.585,1
+ID000290,Prescriber_289,Trois-Rivieres,G8T,G8T 7A6,Address_289,QC,Family Medicine,TRX,202610,SYNTHGLYPTIN,148.755,0
+ID000470,Prescriber_469,Midland,L4R,L4R 4P4,Address_469,ON,Family Medicine,TRX,202610,GLIDIM,91.506,0
+ID000455,Prescriber_454,Guelph,N1H,N1H 4J4,Address_454,ON,Family Medicine,TRX,202610,SYNTHGLYPTIN,99.656,1
+ID000451,Prescriber_450,Calgary,T2R,T2R 0X7,Address_450,AB,Family Medicine,TRX,202610,ALL OTHERS,46.599,0
+ID000451,Prescriber_450,Calgary,T2R,T2R 0X7,Address_450,AB,Family Medicine,TRX,202610,INSUZA,51.91,0
+ID000451,Prescriber_450,Calgary,T2R,T2R 0X7,Address_450,AB,Family Medicine,TRX,202610,ALL OTHERS,185.043,0
+ID000449,Prescriber_448,Trois-Rivieres,G8Z,G8Z 3R8,Address_448,QC,Family Medicine,TRX,202610,INSUZA,193.111,1
+ID000447,Prescriber_446,Mississauga,L5V,L5V 1N3,Address_446,ON,Family Medicine,TRX,202610,SYNTHGLYPTIN,168.651,0
+ID000440,Prescriber_439,Richmond Hill,L4B,L4B 0E6,Address_439,ON,Family Medicine,TRX,202610,TRETONIN,123.968,0
+ID000440,Prescriber_439,Richmond Hill,L4B,L4B 0E6,Address_439,ON,Family Medicine,TRX,202610,OTHER COMP,65.658,0
+ID000470,Prescriber_469,Midland,L4R,L4R 4P4,Address_469,ON,Family Medicine,TRX,202610,ALL OTHERS,130.103,0
+ID000488,Prescriber_487,Fredericton,E3B,E3B 3B7,Address_487,NB,Anesthesiology,TRX,202610,ADRAVIL,171.075,0
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202610,ADRAVIL,161.966,0
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202610,PLOMAX,69.315,1
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202610,OTHER COMP,88.703,0
+ID000482,Prescriber_481,Oakville,L6M,L6M 1M1,Address_481,ON,Endocrinology & Metabolism,TRX,202610,INSUZA,57.569,0
+ID000482,Prescriber_481,Oakville,L6M,L6M 1M1,Address_481,ON,Endocrinology & Metabolism,TRX,202610,GLIDIM,166.042,1
+ID000437,Prescriber_436,Huntsville,P1H,P1H 1H8,Address_436,ON,General Practice,TRX,202610,PLOMAX,72.5,0
+ID000394,Prescriber_393,Baie-Comeau,G4Z,G4Z 1K3,Address_393,QC,Family Medicine,TRX,202610,ALL OTHERS,71.762,0
+ID000394,Prescriber_393,Baie-Comeau,G4Z,G4Z 1K3,Address_393,QC,Family Medicine,TRX,202610,ALL OTHERS,136.194,1
+ID000389,Prescriber_388,Edmonton,T5Y,T5Y 4E1,Address_388,AB,Family Medicine,TRX,202610,PLOMAX,79.835,0
+ID000401,Prescriber_400,Trenton,K8V,K8V 3S1,Address_400,ON,Family Medicine,TRX,202610,SYNTHGLYPTIN,126.489,0
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202610,DIABETES,44.783,1
+ID000058,Prescriber_57,Salaberry-De-Valleyfield,J6T,J6T 6C1,Address_57,QC,Internal Medicine,TRX,202610,ALL OTHERS,104.065,1
+ID000056,Prescriber_55,Hamilton,L8N,L8N 4A6,Address_55,ON,Internal Medicine,TRX,202610,DIABETES,76.158,1
+ID000109,Prescriber_108,Edmonton,T6J,T6J 7K1,Address_108,AB,Family Medicine,TRX,202610,DIABETES,84.834,0
+ID000109,Prescriber_108,Edmonton,T6J,T6J 7K1,Address_108,AB,Family Medicine,TRX,202610,SYNTHGLYPTIN,95.284,0
+ID000106,Prescriber_105,Brampton,L6R,L6R 3S9,Address_105,ON,Family Medicine,TRX,202610,SYNTHGLYPTIN,143.727,0
+ID000103,Prescriber_102,Gatineau,J8Y,J8Y 3B5,Address_102,QC,Family Medicine,TRX,202610,INSUZA,146.246,0
+ID000103,Prescriber_102,Gatineau,J8Y,J8Y 3B5,Address_102,QC,Family Medicine,TRX,202610,ALL OTHERS,79.901,1
+ID000099,Prescriber_98,Toronto,M7A,M7A 1B3,Address_98,ON,Family Medicine,TRX,202610,PLOMAX,175.606,0
+ID000098,Prescriber_97,Whitby,L1N,L1N 2L1,Address_97,ON,Family Medicine,TRX,202610,ADRAVIL,60.79,0
+ID000087,Prescriber_86,Pickering,L1V,L1V 6R6,Address_86,ON,Dermatology,TRX,202610,ADRAVIL,136.328,1
+ID000084,Prescriber_83,Guelph,N1H,N1H 6H9,Address_83,ON,Family Medicine,TRX,202610,GLIDIM,97.178,0
+ID000010,Prescriber_9,Regina,S4V,S4V 3A3,Address_9,SK,Cardiology,TRX,202610,ADRAVIL,162.4,0
+ID000009,Prescriber_8,Schomberg,L0G,L0G 1T0,Address_8,ON,Family Medicine,TRX,202610,PLOMAX,109.813,0
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202610,DIABETES,43.151,1
+ID000031,Prescriber_30,Mississauga,L4Y,L4Y 2N8,Address_30,ON,Family Medicine,TRX,202610,SYNTHGLYPTIN,32.679,0
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202610,SYNTHGLYPTIN,134.458,0
+ID000199,Prescriber_198,Greenfield Park,J4V,J4V 2G9,Address_198,QC,Family Medicine,TRX,202610,ALL OTHERS,60.759,0
+ID000180,Prescriber_179,Brampton,L7A,L7A 3E5,Address_179,ON,Family Medicine,TRX,202610,PLOMAX,28.99,1
+ID000180,Prescriber_179,Brampton,L7A,L7A 3E5,Address_179,ON,Family Medicine,TRX,202610,GLIDIM,98.707,1
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202610,OTHER COMP,30.56,0
+ID000216,Prescriber_215,Val-D'or,J9P,J9P 3Y1,Address_215,QC,Family Medicine,TRX,202610,ALL OTHERS,191.192,0
+ID000214,Prescriber_213,Quebec,G1R,G1R 2J6,Address_213,QC,Nephrology,TRX,202610,SYNTHGLYPTIN,117.055,1
+ID000214,Prescriber_213,Quebec,G1R,G1R 2J6,Address_213,QC,Nephrology,TRX,202610,GLIDIM,101.774,0
+ID000216,Prescriber_215,Val-D'or,J9P,J9P 3Y1,Address_215,QC,Family Medicine,TRX,202610,TRETONIN,101.173,1
+ID000127,Prescriber_126,Brampton,L6R,L6R 3J7,Address_126,ON,Cardiology,TRX,202610,GLIDIM,88.84,1
+ID000124,Prescriber_123,Saint-Lambert,J4R,J4R 2L1,Address_123,QC,General Practice,TRX,202610,ALL OTHERS,95.403,1
+ID000123,Prescriber_122,Hamilton,L8P,L8P 1A1,Address_122,ON,Family Medicine,TRX,202610,OTHER COMP,132.862,1
+ID000123,Prescriber_122,Hamilton,L8P,L8P 1A1,Address_122,ON,Family Medicine,TRX,202610,TRETONIN,104.692,0
+ID000118,Prescriber_117,Nepean,K2J,K2J 3R2,Address_117,ON,Family Medicine,TRX,202610,INSUZA,62.384,0
+ID000118,Prescriber_117,Nepean,K2J,K2J 3R2,Address_117,ON,Family Medicine,TRX,202610,OTHER COMP,92.456,1
+ID000117,Prescriber_116,Scarborough,M1R,M1R 0B1,Address_116,ON,Family Medicine,TRX,202610,INSUZA,96.864,0
+ID000116,Prescriber_115,Whitecourt,T7S,T7S 1P9,Address_115,AB,Family Medicine,TRX,202610,GLIDIM,61.643,0
+ID000116,Prescriber_115,Whitecourt,T7S,T7S 1P9,Address_115,AB,Family Medicine,TRX,202610,DIABETES,64.734,0
+ID000176,Prescriber_175,Atikokan,P0T,P0T 1C0,Address_175,ON,General Practice,TRX,202610,SYNTHGLYPTIN,144.451,0
+ID000168,Prescriber_167,Stittsville,K2S,K2S 1B1,Address_167,ON,Family Medicine,TRX,202610,SYNTHGLYPTIN,113.122,0
+ID000168,Prescriber_167,Stittsville,K2S,K2S 1B1,Address_167,ON,Family Medicine,TRX,202610,DIABETES,29.802,0
+ID000319,Prescriber_318,Chicoutimi,G7H,G7H 6B9,Address_318,QC,Family Medicine,TRX,202611,PROZALAN D,78.889,1
+ID000322,Prescriber_321,Bedford,J0J,J0J 1A0,Address_321,QC,Family Medicine,TRX,202611,TRETONIN,66.45,1
+ID000312,Prescriber_311,Saint-Bruno,J3V,J3V 1Y8,Address_311,QC,Family Medicine,TRX,202611,INSUZA,91.531,1
+ID000312,Prescriber_311,Saint-Bruno,J3V,J3V 1Y8,Address_311,QC,Family Medicine,TRX,202611,PLOMAX,112.985,1
+ID000310,Prescriber_309,Saint-Hubert,J3Y,J3Y 8Z4,Address_309,QC,Medical Internship,TRX,202611,PLOMAX,122.384,0
+ID000310,Prescriber_309,Saint-Hubert,J3Y,J3Y 8Z4,Address_309,QC,Medical Internship,TRX,202611,GLIDIM,264.98,0
+ID000370,Prescriber_369,Terrebonne,J6W,J6W 1T8,Address_369,QC,Family Medicine,TRX,202611,GLIDIM,112.272,0
+ID000360,Prescriber_359,Chicoutimi,G7H,G7H 1P6,Address_359,QC,Family Medicine,TRX,202611,ALL OTHERS,63.676,0
+ID000340,Prescriber_339,Terrebonne,J6X,J6X 4L9,Address_339,QC,Family Medicine,TRX,202611,ADRAVIL,124.483,0
+ID000340,Prescriber_339,Terrebonne,J6X,J6X 4L9,Address_339,QC,Family Medicine,TRX,202611,GLIDIM,167.552,0
+ID000261,Prescriber_260,Gatineau,J9A,J9A 1K7,Address_260,QC,Psychiatry,TRX,202611,OTHER COMP,175.967,1
+ID000261,Prescriber_260,Gatineau,J9A,J9A 1K7,Address_260,QC,Psychiatry,TRX,202611,TRETONIN,187.183,1
+ID000259,Prescriber_258,Shawinigan,G9N,G9N 0C8,Address_258,QC,Family Medicine,TRX,202611,PROZALAN D,144.451,0
+ID000251,Prescriber_250,Windsor,N9A,N9A 1E1,Address_250,ON,Endocrinology & Metabolism,TRX,202611,GLIDIM,160.789,0
+ID000250,Prescriber_249,Cambridge,N1R,N1R 3E5,Address_249,ON,Family Medicine,TRX,202611,ALL OTHERS,220.646,0
+ID000250,Prescriber_249,Cambridge,N1R,N1R 3E5,Address_249,ON,Family Medicine,TRX,202611,OTHER COMP,46.272,0
+ID000250,Prescriber_249,Cambridge,N1R,N1R 3E5,Address_249,ON,Family Medicine,TRX,202611,ALL OTHERS,100.563,0
+ID000248,Prescriber_247,Montreal,H2X,H2X 0A9,Address_247,QC,Neurology,TRX,202611,GLIDIM,130.333,0
+ID000248,Prescriber_247,Montreal,H2X,H2X 0A9,Address_247,QC,Neurology,TRX,202611,SYNTHGLYPTIN,46.001,0
+ID000262,Prescriber_261,Saskatoon,S7N,S7N 0W8,Address_261,SK,Pediatrics,TRX,202611,SYNTHGLYPTIN,86.029,0
+ID000263,Prescriber_262,Lloydminster,T9V,T9V 2P7,Address_262,AB,Family Medicine,TRX,202611,ALL OTHERS,103.505,0
+ID000263,Prescriber_262,Lloydminster,T9V,T9V 2P7,Address_262,AB,Family Medicine,TRX,202611,SYNTHGLYPTIN,89.585,1
+ID000290,Prescriber_289,Trois-Rivieres,G8T,G8T 7A6,Address_289,QC,Family Medicine,TRX,202611,SYNTHGLYPTIN,148.755,0
+ID000470,Prescriber_469,Midland,L4R,L4R 4P4,Address_469,ON,Family Medicine,TRX,202611,ALL OTHERS,130.103,0
+ID000470,Prescriber_469,Midland,L4R,L4R 4P4,Address_469,ON,Family Medicine,TRX,202611,GLIDIM,91.506,0
+ID000455,Prescriber_454,Guelph,N1H,N1H 4J4,Address_454,ON,Family Medicine,TRX,202611,SYNTHGLYPTIN,99.656,1
+ID000451,Prescriber_450,Calgary,T2R,T2R 0X7,Address_450,AB,Family Medicine,TRX,202611,ALL OTHERS,46.599,0
+ID000451,Prescriber_450,Calgary,T2R,T2R 0X7,Address_450,AB,Family Medicine,TRX,202611,INSUZA,51.91,0
+ID000451,Prescriber_450,Calgary,T2R,T2R 0X7,Address_450,AB,Family Medicine,TRX,202611,ALL OTHERS,185.043,0
+ID000449,Prescriber_448,Trois-Rivieres,G8Z,G8Z 3R8,Address_448,QC,Family Medicine,TRX,202611,INSUZA,193.111,1
+ID000447,Prescriber_446,Mississauga,L5V,L5V 1N3,Address_446,ON,Family Medicine,TRX,202611,SYNTHGLYPTIN,168.651,0
+ID000440,Prescriber_439,Richmond Hill,L4B,L4B 0E6,Address_439,ON,Family Medicine,TRX,202611,TRETONIN,123.968,0
+ID000440,Prescriber_439,Richmond Hill,L4B,L4B 0E6,Address_439,ON,Family Medicine,TRX,202611,OTHER COMP,65.658,0
+ID000488,Prescriber_487,Fredericton,E3B,E3B 3B7,Address_487,NB,Anesthesiology,TRX,202611,ADRAVIL,171.075,0
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202611,ADRAVIL,161.966,0
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202611,PLOMAX,69.315,1
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202611,OTHER COMP,88.703,0
+ID000482,Prescriber_481,Oakville,L6M,L6M 1M1,Address_481,ON,Endocrinology & Metabolism,TRX,202611,INSUZA,57.569,0
+ID000482,Prescriber_481,Oakville,L6M,L6M 1M1,Address_481,ON,Endocrinology & Metabolism,TRX,202611,GLIDIM,166.042,1
+ID000401,Prescriber_400,Trenton,K8V,K8V 3S1,Address_400,ON,Family Medicine,TRX,202611,SYNTHGLYPTIN,126.489,0
+ID000394,Prescriber_393,Baie-Comeau,G4Z,G4Z 1K3,Address_393,QC,Family Medicine,TRX,202611,ALL OTHERS,71.762,0
+ID000394,Prescriber_393,Baie-Comeau,G4Z,G4Z 1K3,Address_393,QC,Family Medicine,TRX,202611,ALL OTHERS,136.194,1
+ID000389,Prescriber_388,Edmonton,T5Y,T5Y 4E1,Address_388,AB,Family Medicine,TRX,202611,PLOMAX,79.835,0
+ID000437,Prescriber_436,Huntsville,P1H,P1H 1H8,Address_436,ON,General Practice,TRX,202611,PLOMAX,72.5,0
+ID000058,Prescriber_57,Salaberry-De-Valleyfield,J6T,J6T 6C1,Address_57,QC,Internal Medicine,TRX,202611,ALL OTHERS,104.065,1
+ID000056,Prescriber_55,Hamilton,L8N,L8N 4A6,Address_55,ON,Internal Medicine,TRX,202611,DIABETES,76.158,1
+ID000109,Prescriber_108,Edmonton,T6J,T6J 7K1,Address_108,AB,Family Medicine,TRX,202611,DIABETES,84.834,0
+ID000109,Prescriber_108,Edmonton,T6J,T6J 7K1,Address_108,AB,Family Medicine,TRX,202611,SYNTHGLYPTIN,95.284,0
+ID000106,Prescriber_105,Brampton,L6R,L6R 3S9,Address_105,ON,Family Medicine,TRX,202611,SYNTHGLYPTIN,143.727,0
+ID000103,Prescriber_102,Gatineau,J8Y,J8Y 3B5,Address_102,QC,Family Medicine,TRX,202611,INSUZA,146.246,0
+ID000103,Prescriber_102,Gatineau,J8Y,J8Y 3B5,Address_102,QC,Family Medicine,TRX,202611,ALL OTHERS,79.901,1
+ID000099,Prescriber_98,Toronto,M7A,M7A 1B3,Address_98,ON,Family Medicine,TRX,202611,PLOMAX,175.606,0
+ID000098,Prescriber_97,Whitby,L1N,L1N 2L1,Address_97,ON,Family Medicine,TRX,202611,ADRAVIL,60.79,0
+ID000087,Prescriber_86,Pickering,L1V,L1V 6R6,Address_86,ON,Dermatology,TRX,202611,ADRAVIL,136.328,1
+ID000084,Prescriber_83,Guelph,N1H,N1H 6H9,Address_83,ON,Family Medicine,TRX,202611,GLIDIM,97.178,0
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202611,DIABETES,43.151,1
+ID000010,Prescriber_9,Regina,S4V,S4V 3A3,Address_9,SK,Cardiology,TRX,202611,ADRAVIL,162.4,0
+ID000009,Prescriber_8,Schomberg,L0G,L0G 1T0,Address_8,ON,Family Medicine,TRX,202611,PLOMAX,109.813,0
+ID000031,Prescriber_30,Mississauga,L4Y,L4Y 2N8,Address_30,ON,Family Medicine,TRX,202611,SYNTHGLYPTIN,32.679,0
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202611,SYNTHGLYPTIN,134.458,0
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202611,DIABETES,44.783,1
+ID000199,Prescriber_198,Greenfield Park,J4V,J4V 2G9,Address_198,QC,Family Medicine,TRX,202611,ALL OTHERS,60.759,0
+ID000180,Prescriber_179,Brampton,L7A,L7A 3E5,Address_179,ON,Family Medicine,TRX,202611,PLOMAX,28.99,1
+ID000180,Prescriber_179,Brampton,L7A,L7A 3E5,Address_179,ON,Family Medicine,TRX,202611,GLIDIM,98.707,1
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202611,OTHER COMP,30.56,0
+ID000216,Prescriber_215,Val-D'or,J9P,J9P 3Y1,Address_215,QC,Family Medicine,TRX,202611,ALL OTHERS,191.192,0
+ID000214,Prescriber_213,Quebec,G1R,G1R 2J6,Address_213,QC,Nephrology,TRX,202611,SYNTHGLYPTIN,117.055,1
+ID000214,Prescriber_213,Quebec,G1R,G1R 2J6,Address_213,QC,Nephrology,TRX,202611,GLIDIM,101.774,0
+ID000216,Prescriber_215,Val-D'or,J9P,J9P 3Y1,Address_215,QC,Family Medicine,TRX,202611,TRETONIN,101.173,1
+ID000176,Prescriber_175,Atikokan,P0T,P0T 1C0,Address_175,ON,General Practice,TRX,202611,SYNTHGLYPTIN,144.451,0
+ID000127,Prescriber_126,Brampton,L6R,L6R 3J7,Address_126,ON,Cardiology,TRX,202611,GLIDIM,88.84,1
+ID000123,Prescriber_122,Hamilton,L8P,L8P 1A1,Address_122,ON,Family Medicine,TRX,202611,OTHER COMP,132.862,1
+ID000123,Prescriber_122,Hamilton,L8P,L8P 1A1,Address_122,ON,Family Medicine,TRX,202611,TRETONIN,104.692,0
+ID000118,Prescriber_117,Nepean,K2J,K2J 3R2,Address_117,ON,Family Medicine,TRX,202611,INSUZA,62.384,0
+ID000118,Prescriber_117,Nepean,K2J,K2J 3R2,Address_117,ON,Family Medicine,TRX,202611,OTHER COMP,92.456,1
+ID000117,Prescriber_116,Scarborough,M1R,M1R 0B1,Address_116,ON,Family Medicine,TRX,202611,INSUZA,96.864,0
+ID000116,Prescriber_115,Whitecourt,T7S,T7S 1P9,Address_115,AB,Family Medicine,TRX,202611,GLIDIM,61.643,0
+ID000116,Prescriber_115,Whitecourt,T7S,T7S 1P9,Address_115,AB,Family Medicine,TRX,202611,DIABETES,64.734,0
+ID000124,Prescriber_123,Saint-Lambert,J4R,J4R 2L1,Address_123,QC,General Practice,TRX,202611,ALL OTHERS,95.403,1
+ID000168,Prescriber_167,Stittsville,K2S,K2S 1B1,Address_167,ON,Family Medicine,TRX,202611,DIABETES,29.802,0
+ID000168,Prescriber_167,Stittsville,K2S,K2S 1B1,Address_167,ON,Family Medicine,TRX,202611,SYNTHGLYPTIN,113.122,0
+ID000322,Prescriber_321,Bedford,J0J,J0J 1A0,Address_321,QC,Family Medicine,TRX,202612,TRETONIN,66.45,1
+ID000319,Prescriber_318,Chicoutimi,G7H,G7H 6B9,Address_318,QC,Family Medicine,TRX,202612,PROZALAN D,78.889,1
+ID000310,Prescriber_309,Saint-Hubert,J3Y,J3Y 8Z4,Address_309,QC,Medical Internship,TRX,202612,GLIDIM,264.98,0
+ID000312,Prescriber_311,Saint-Bruno,J3V,J3V 1Y8,Address_311,QC,Family Medicine,TRX,202612,INSUZA,91.531,1
+ID000312,Prescriber_311,Saint-Bruno,J3V,J3V 1Y8,Address_311,QC,Family Medicine,TRX,202612,PLOMAX,112.985,1
+ID000310,Prescriber_309,Saint-Hubert,J3Y,J3Y 8Z4,Address_309,QC,Medical Internship,TRX,202612,PLOMAX,122.384,0
+ID000370,Prescriber_369,Terrebonne,J6W,J6W 1T8,Address_369,QC,Family Medicine,TRX,202612,GLIDIM,112.272,0
+ID000360,Prescriber_359,Chicoutimi,G7H,G7H 1P6,Address_359,QC,Family Medicine,TRX,202612,ALL OTHERS,63.676,0
+ID000340,Prescriber_339,Terrebonne,J6X,J6X 4L9,Address_339,QC,Family Medicine,TRX,202612,ADRAVIL,124.483,0
+ID000340,Prescriber_339,Terrebonne,J6X,J6X 4L9,Address_339,QC,Family Medicine,TRX,202612,GLIDIM,167.552,0
+ID000261,Prescriber_260,Gatineau,J9A,J9A 1K7,Address_260,QC,Psychiatry,TRX,202612,OTHER COMP,175.967,1
+ID000261,Prescriber_260,Gatineau,J9A,J9A 1K7,Address_260,QC,Psychiatry,TRX,202612,TRETONIN,187.183,1
+ID000259,Prescriber_258,Shawinigan,G9N,G9N 0C8,Address_258,QC,Family Medicine,TRX,202612,PROZALAN D,144.451,0
+ID000251,Prescriber_250,Windsor,N9A,N9A 1E1,Address_250,ON,Endocrinology & Metabolism,TRX,202612,GLIDIM,160.789,0
+ID000250,Prescriber_249,Cambridge,N1R,N1R 3E5,Address_249,ON,Family Medicine,TRX,202612,ALL OTHERS,220.646,0
+ID000250,Prescriber_249,Cambridge,N1R,N1R 3E5,Address_249,ON,Family Medicine,TRX,202612,OTHER COMP,46.272,0
+ID000250,Prescriber_249,Cambridge,N1R,N1R 3E5,Address_249,ON,Family Medicine,TRX,202612,ALL OTHERS,100.563,0
+ID000248,Prescriber_247,Montreal,H2X,H2X 0A9,Address_247,QC,Neurology,TRX,202612,GLIDIM,130.333,0
+ID000248,Prescriber_247,Montreal,H2X,H2X 0A9,Address_247,QC,Neurology,TRX,202612,SYNTHGLYPTIN,46.001,0
+ID000262,Prescriber_261,Saskatoon,S7N,S7N 0W8,Address_261,SK,Pediatrics,TRX,202612,SYNTHGLYPTIN,86.029,0
+ID000263,Prescriber_262,Lloydminster,T9V,T9V 2P7,Address_262,AB,Family Medicine,TRX,202612,ALL OTHERS,103.505,0
+ID000263,Prescriber_262,Lloydminster,T9V,T9V 2P7,Address_262,AB,Family Medicine,TRX,202612,SYNTHGLYPTIN,89.585,1
+ID000290,Prescriber_289,Trois-Rivieres,G8T,G8T 7A6,Address_289,QC,Family Medicine,TRX,202612,SYNTHGLYPTIN,148.755,0
+ID000455,Prescriber_454,Guelph,N1H,N1H 4J4,Address_454,ON,Family Medicine,TRX,202612,SYNTHGLYPTIN,99.656,1
+ID000451,Prescriber_450,Calgary,T2R,T2R 0X7,Address_450,AB,Family Medicine,TRX,202612,ALL OTHERS,46.599,0
+ID000451,Prescriber_450,Calgary,T2R,T2R 0X7,Address_450,AB,Family Medicine,TRX,202612,INSUZA,51.91,0
+ID000451,Prescriber_450,Calgary,T2R,T2R 0X7,Address_450,AB,Family Medicine,TRX,202612,ALL OTHERS,185.043,0
+ID000449,Prescriber_448,Trois-Rivieres,G8Z,G8Z 3R8,Address_448,QC,Family Medicine,TRX,202612,INSUZA,193.111,1
+ID000447,Prescriber_446,Mississauga,L5V,L5V 1N3,Address_446,ON,Family Medicine,TRX,202612,SYNTHGLYPTIN,168.651,0
+ID000440,Prescriber_439,Richmond Hill,L4B,L4B 0E6,Address_439,ON,Family Medicine,TRX,202612,TRETONIN,123.968,0
+ID000440,Prescriber_439,Richmond Hill,L4B,L4B 0E6,Address_439,ON,Family Medicine,TRX,202612,OTHER COMP,65.658,0
+ID000470,Prescriber_469,Midland,L4R,L4R 4P4,Address_469,ON,Family Medicine,TRX,202612,GLIDIM,91.506,0
+ID000470,Prescriber_469,Midland,L4R,L4R 4P4,Address_469,ON,Family Medicine,TRX,202612,ALL OTHERS,130.103,0
+ID000488,Prescriber_487,Fredericton,E3B,E3B 3B7,Address_487,NB,Anesthesiology,TRX,202612,ADRAVIL,171.075,0
+ID000437,Prescriber_436,Huntsville,P1H,P1H 1H8,Address_436,ON,General Practice,TRX,202612,PLOMAX,72.5,0
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202612,ADRAVIL,161.966,0
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202612,PLOMAX,69.315,1
+ID000483,Prescriber_482,Calgary,T3A,T3A 6A7,Address_482,AB,Family Medicine,TRX,202612,OTHER COMP,88.703,0
+ID000482,Prescriber_481,Oakville,L6M,L6M 1M1,Address_481,ON,Endocrinology & Metabolism,TRX,202612,INSUZA,57.569,0
+ID000482,Prescriber_481,Oakville,L6M,L6M 1M1,Address_481,ON,Endocrinology & Metabolism,TRX,202612,GLIDIM,166.042,1
+ID000394,Prescriber_393,Baie-Comeau,G4Z,G4Z 1K3,Address_393,QC,Family Medicine,TRX,202612,ALL OTHERS,71.762,0
+ID000394,Prescriber_393,Baie-Comeau,G4Z,G4Z 1K3,Address_393,QC,Family Medicine,TRX,202612,ALL OTHERS,136.194,1
+ID000389,Prescriber_388,Edmonton,T5Y,T5Y 4E1,Address_388,AB,Family Medicine,TRX,202612,PLOMAX,79.835,0
+ID000401,Prescriber_400,Trenton,K8V,K8V 3S1,Address_400,ON,Family Medicine,TRX,202612,SYNTHGLYPTIN,126.489,0
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202612,OTHER COMP,30.56,0
+ID000058,Prescriber_57,Salaberry-De-Valleyfield,J6T,J6T 6C1,Address_57,QC,Internal Medicine,TRX,202612,ALL OTHERS,104.065,1
+ID000056,Prescriber_55,Hamilton,L8N,L8N 4A6,Address_55,ON,Internal Medicine,TRX,202612,DIABETES,76.158,1
+ID000106,Prescriber_105,Brampton,L6R,L6R 3S9,Address_105,ON,Family Medicine,TRX,202612,SYNTHGLYPTIN,143.727,0
+ID000103,Prescriber_102,Gatineau,J8Y,J8Y 3B5,Address_102,QC,Family Medicine,TRX,202612,INSUZA,146.246,0
+ID000103,Prescriber_102,Gatineau,J8Y,J8Y 3B5,Address_102,QC,Family Medicine,TRX,202612,ALL OTHERS,79.901,1
+ID000099,Prescriber_98,Toronto,M7A,M7A 1B3,Address_98,ON,Family Medicine,TRX,202612,PLOMAX,175.606,0
+ID000098,Prescriber_97,Whitby,L1N,L1N 2L1,Address_97,ON,Family Medicine,TRX,202612,ADRAVIL,60.79,0
+ID000087,Prescriber_86,Pickering,L1V,L1V 6R6,Address_86,ON,Dermatology,TRX,202612,ADRAVIL,136.328,1
+ID000084,Prescriber_83,Guelph,N1H,N1H 6H9,Address_83,ON,Family Medicine,TRX,202612,GLIDIM,97.178,0
+ID000010,Prescriber_9,Regina,S4V,S4V 3A3,Address_9,SK,Cardiology,TRX,202612,ADRAVIL,162.4,0
+ID000009,Prescriber_8,Schomberg,L0G,L0G 1T0,Address_8,ON,Family Medicine,TRX,202612,PLOMAX,109.813,0
+ID000109,Prescriber_108,Edmonton,T6J,T6J 7K1,Address_108,AB,Family Medicine,TRX,202612,SYNTHGLYPTIN,95.284,0
+ID000031,Prescriber_30,Mississauga,L4Y,L4Y 2N8,Address_30,ON,Family Medicine,TRX,202612,SYNTHGLYPTIN,32.679,0
+ID000109,Prescriber_108,Edmonton,T6J,T6J 7K1,Address_108,AB,Family Medicine,TRX,202612,DIABETES,84.834,0
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202612,DIABETES,43.151,1
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202612,SYNTHGLYPTIN,134.458,0
+ID000180,Prescriber_179,Brampton,L7A,L7A 3E5,Address_179,ON,Family Medicine,TRX,202612,PLOMAX,28.99,1
+ID000180,Prescriber_179,Brampton,L7A,L7A 3E5,Address_179,ON,Family Medicine,TRX,202612,GLIDIM,98.707,1
+ID000199,Prescriber_198,Greenfield Park,J4V,J4V 2G9,Address_198,QC,Family Medicine,TRX,202612,ALL OTHERS,60.759,0
+ID000216,Prescriber_215,Val-D'or,J9P,J9P 3Y1,Address_215,QC,Family Medicine,TRX,202612,ALL OTHERS,191.192,0
+ID000216,Prescriber_215,Val-D'or,J9P,J9P 3Y1,Address_215,QC,Family Medicine,TRX,202612,TRETONIN,101.173,1
+ID000176,Prescriber_175,Atikokan,P0T,P0T 1C0,Address_175,ON,General Practice,TRX,202612,SYNTHGLYPTIN,144.451,0
+ID000214,Prescriber_213,Quebec,G1R,G1R 2J6,Address_213,QC,Nephrology,TRX,202612,GLIDIM,101.774,0
+ID000214,Prescriber_213,Quebec,G1R,G1R 2J6,Address_213,QC,Nephrology,TRX,202612,SYNTHGLYPTIN,117.055,1
+ID000168,Prescriber_167,Stittsville,K2S,K2S 1B1,Address_167,ON,Family Medicine,TRX,202612,SYNTHGLYPTIN,113.122,0
+ID000127,Prescriber_126,Brampton,L6R,L6R 3J7,Address_126,ON,Cardiology,TRX,202612,GLIDIM,88.84,1
+ID000124,Prescriber_123,Saint-Lambert,J4R,J4R 2L1,Address_123,QC,General Practice,TRX,202612,ALL OTHERS,95.403,1
+ID000123,Prescriber_122,Hamilton,L8P,L8P 1A1,Address_122,ON,Family Medicine,TRX,202612,OTHER COMP,132.862,1
+ID000123,Prescriber_122,Hamilton,L8P,L8P 1A1,Address_122,ON,Family Medicine,TRX,202612,TRETONIN,104.692,0
+ID000118,Prescriber_117,Nepean,K2J,K2J 3R2,Address_117,ON,Family Medicine,TRX,202612,INSUZA,62.384,0
+ID000118,Prescriber_117,Nepean,K2J,K2J 3R2,Address_117,ON,Family Medicine,TRX,202612,OTHER COMP,92.456,1
+ID000117,Prescriber_116,Scarborough,M1R,M1R 0B1,Address_116,ON,Family Medicine,TRX,202612,INSUZA,96.864,0
+ID000116,Prescriber_115,Whitecourt,T7S,T7S 1P9,Address_115,AB,Family Medicine,TRX,202612,GLIDIM,61.643,0
+ID000116,Prescriber_115,Whitecourt,T7S,T7S 1P9,Address_115,AB,Family Medicine,TRX,202612,DIABETES,64.734,0
+ID000113,Prescriber_112,North York,M3J,M3J 0L5,Address_112,ON,General Practice,TRX,202612,DIABETES,44.783,1
+ID000168,Prescriber_167,Stittsville,K2S,K2S 1B1,Address_167,ON,Family Medicine,TRX,202612,DIABETES,29.802,0
